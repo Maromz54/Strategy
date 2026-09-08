@@ -3,11 +3,11 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 64 / 116 שיעורים (55%)
+## סה"כ: 65 / 116 שיעורים (56%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
-| `price_action_vol1` | 49 | 50 |
+| `price_action_vol1` | 50 | 50 |
 | `price_action_vol2` | 0 | 12 |
 | `price_action_vol3` | 0 | 12 |
 | `fractal_trading` | 15 | 42 |
@@ -20,7 +20,7 @@
 | 02 | The Nature of Price | 8046 | ✅ |
 | 03 | The Anthropic Principle and Econophysics | 3112 | ✅ |
 | 04 | Soros, Einstein, Weinstein and Simmons | 2096 | ✅ |
-| 05 | The Level Zero | 14382 | ⬜ |
+| 05 | The Level Zero | 14382 | ✅ |
 | 06 | The Level One | 15808 | ✅ |
 | 07 | Aspects of Trading Correctly | 6832 | ✅ |
 | 08 | Counterpoint Types | 1109 | ✅ |
