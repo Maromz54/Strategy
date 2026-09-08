@@ -3,14 +3,14 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 82 / 116 שיעורים (70%)
+## סה"כ: 89 / 116 שיעורים (76%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
 | `price_action_vol1` | 50 | 50 |
 | `price_action_vol2` | 0 | 12 |
 | `price_action_vol3` | 0 | 12 |
-| `fractal_trading` | 32 | 42 |
+| `fractal_trading` | 39 | 42 |
 
 ### price_action_vol1
 
@@ -140,10 +140,10 @@
 | 33 | When Low Fractal Dimension Fails (and what to do about it) | 4285 | ✅ |
 | 34 | Integration as an Ambiguity Reduction Mechanism | 6901 | ✅ |
 | 35 | Confronting Opposing Trade Ideas | 8473 | ✅ |
-| 36 | Catching the Pullback with VWAP, LRCs and Forks | 4927 | ⬜ |
-| 37 | Why Price Might Reverse in Non-Obvious Levels | 4410 | ⬜ |
-| 38 | Hyper Integrating LRCs, Pitchforks, Volume Profile and VSA | 9658 | ⬜ |
-| 39 | Deceptive SupplyDemand Zones, Flows & Intrinsic Properties | 4266 | ⬜ |
-| 40 | Orderly Integration with a Chaotic Entry | 8980 | ⬜ |
-| 41 | Ambiguous Deceleration, Multiple Entries & Integration | 12727 | ⬜ |
-| 42 | Integrated Fractal Candle at a Crossroads | 7115 | ⬜ |
+| 36 | Catching the Pullback with VWAP, LRCs and Forks | 4927 | ✅ |
+| 37 | Why Price Might Reverse in Non-Obvious Levels | 4410 | ✅ |
+| 38 | Hyper Integrating LRCs, Pitchforks, Volume Profile and VSA | 9658 | ✅ |
+| 39 | Deceptive SupplyDemand Zones, Flows & Intrinsic Properties | 4266 | ✅ |
+| 40 | Orderly Integration with a Chaotic Entry | 8980 | ✅ |
+| 41 | Ambiguous Deceleration, Multiple Entries & Integration | 12727 | ✅ |
+| 42 | Integrated Fractal Candle at a Crossroads | 7115 | ✅ |
