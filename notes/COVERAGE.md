@@ -3,11 +3,11 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 20 / 116 שיעורים (17%)
+## סה"כ: 26 / 116 שיעורים (22%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
-| `price_action_vol1` | 5 | 50 |
+| `price_action_vol1` | 11 | 50 |
 | `price_action_vol2` | 0 | 12 |
 | `price_action_vol3` | 0 | 12 |
 | `fractal_trading` | 15 | 42 |
@@ -28,12 +28,12 @@
 | 10 | Efficient Market Hypothesis and The Observer Problem | 3396 | ⬜ |
 | 11 | Market Manipulation | 3798 | ⬜ |
 | 12 | Praxeological Elements | 1006 | ⬜ |
-| 13 | Extremes | 948 | ⬜ |
-| 14 | Midpoints | 700 | ⬜ |
-| 15 | Frequencies | 1980 | ⬜ |
-| 16 | Inward Frequency | 1528 | ⬜ |
-| 17 | Outward Frequency | 975 | ⬜ |
-| 18 | Precise Supply and Demand Zones | 1332 | ⬜ |
+| 13 | Extremes | 948 | ✅ |
+| 14 | Midpoints | 700 | ✅ |
+| 15 | Frequencies | 1980 | ✅ |
+| 16 | Inward Frequency | 1528 | ✅ |
+| 17 | Outward Frequency | 975 | ✅ |
+| 18 | Precise Supply and Demand Zones | 1332 | ✅ |
 | 19 | Dynamic Frequency Breakout | 1005 | ⬜ |
 | 20 | Wick Expansion | 647 | ⬜ |
 | 21 | Pressure Zones | 710 | ⬜ |
