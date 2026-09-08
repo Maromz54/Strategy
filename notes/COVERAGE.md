@@ -3,14 +3,14 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 73 / 116 שיעורים (62%)
+## סה"כ: 82 / 116 שיעורים (70%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
 | `price_action_vol1` | 50 | 50 |
 | `price_action_vol2` | 0 | 12 |
 | `price_action_vol3` | 0 | 12 |
-| `fractal_trading` | 23 | 42 |
+| `fractal_trading` | 32 | 42 |
 
 ### price_action_vol1
 
@@ -131,15 +131,15 @@
 | 24 | Technical Aspect of Risk-Reward Ratios | 3598 | ⬜ |
 | 25 | Integrating Mathematics, Technique & Psychology | 842 | ✅ |
 | 26 | Position Sizing | 3653 | ✅ |
-| 27 | Basic Performance Appraisal | 14815 | ⬜ |
-| 28 | Reversal Mechanics of Price Action in Low Fractal Dimension | 18712 | ⬜ |
-| 29 | Velocity, Acceleration & Hyper Integration | 13300 | ⬜ |
-| 30 | Fractal Dimension Filter & Temptations of a Stochastic Game | 7777 | ⬜ |
-| 31 | Self-Similar Manipulation in Higher Fractal Dimension | 9793 | ⬜ |
-| 32 | Unsustainable Price, Feigenforks & Low Fractal Dimension | 9259 | ⬜ |
-| 33 | When Low Fractal Dimension Fails (and what to do about it) | 4285 | ⬜ |
-| 34 | Integration as an Ambiguity Reduction Mechanism | 6901 | ⬜ |
-| 35 | Confronting Opposing Trade Ideas | 8473 | ⬜ |
+| 27 | Basic Performance Appraisal | 14815 | ✅ |
+| 28 | Reversal Mechanics of Price Action in Low Fractal Dimension | 18712 | ✅ |
+| 29 | Velocity, Acceleration & Hyper Integration | 13300 | ✅ |
+| 30 | Fractal Dimension Filter & Temptations of a Stochastic Game | 7777 | ✅ |
+| 31 | Self-Similar Manipulation in Higher Fractal Dimension | 9793 | ✅ |
+| 32 | Unsustainable Price, Feigenforks & Low Fractal Dimension | 9259 | ✅ |
+| 33 | When Low Fractal Dimension Fails (and what to do about it) | 4285 | ✅ |
+| 34 | Integration as an Ambiguity Reduction Mechanism | 6901 | ✅ |
+| 35 | Confronting Opposing Trade Ideas | 8473 | ✅ |
 | 36 | Catching the Pullback with VWAP, LRCs and Forks | 4927 | ⬜ |
 | 37 | Why Price Might Reverse in Non-Obvious Levels | 4410 | ⬜ |
 | 38 | Hyper Integrating LRCs, Pitchforks, Volume Profile and VSA | 9658 | ⬜ |
