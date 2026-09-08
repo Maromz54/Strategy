@@ -3,11 +3,11 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 53 / 116 שיעורים (45%)
+## סה"כ: 63 / 116 שיעורים (54%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
-| `price_action_vol1` | 38 | 50 |
+| `price_action_vol1` | 48 | 50 |
 | `price_action_vol2` | 0 | 12 |
 | `price_action_vol3` | 0 | 12 |
 | `fractal_trading` | 15 | 42 |
@@ -56,16 +56,16 @@
 | 38 | Single and Double Negative Vector Extrapolation | 4263 | ✅ |
 | 39 | Vector Decomposition | 1989 | ✅ |
 | 40 | Vector Addition | 1160 | ✅ |
-| 41 | Circular Decomposition | 1330 | ⬜ |
-| 42 | Frequency Shifting and Frequency Tuning | 1441 | ⬜ |
-| 43 | Convergence, Square Fields and Clusters | 4098 | ⬜ |
-| 44 | Pitchforks, Inward Parallels, Fibforks and Polygonal Fields | 3796 | ⬜ |
-| 45 | Cross Dimensionality | 1066 | ⬜ |
-| 46 | Vectorization | 552 | ⬜ |
-| 47 | Reverse Engineering | 1241 | ⬜ |
-| 48 | Entries, Stops and Exits | 2024 | ⬜ |
-| 49 | Two Rules for Risk and Psychology | 1066 | ⬜ |
-| 50 | Step by Step | 8873 | ⬜ |
+| 41 | Circular Decomposition | 1330 | ✅ |
+| 42 | Frequency Shifting and Frequency Tuning | 1441 | ✅ |
+| 43 | Convergence, Square Fields and Clusters | 4098 | ✅ |
+| 44 | Pitchforks, Inward Parallels, Fibforks and Polygonal Fields | 3796 | ✅ |
+| 45 | Cross Dimensionality | 1066 | ✅ |
+| 46 | Vectorization | 552 | ✅ |
+| 47 | Reverse Engineering | 1241 | ✅ |
+| 48 | Entries, Stops and Exits | 2024 | ✅ |
+| 49 | Two Rules for Risk and Psychology | 1066 | ✅ |
+| 50 | Step by Step | 8873 | ✅ |
 
 ### price_action_vol2
 
