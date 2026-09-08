@@ -3,14 +3,14 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 65 / 116 שיעורים (56%)
+## סה"כ: 68 / 116 שיעורים (58%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
 | `price_action_vol1` | 50 | 50 |
 | `price_action_vol2` | 0 | 12 |
 | `price_action_vol3` | 0 | 12 |
-| `fractal_trading` | 15 | 42 |
+| `fractal_trading` | 18 | 42 |
 
 ### price_action_vol1
 
@@ -120,9 +120,9 @@
 | 13 | Butterfly Effect | 3205 | ✅ |
 | 14 | Fractal Manipulation Patterns | 7325 | ✅ |
 | 15 | Advanced Fractal Candles | 16230 | ✅ |
-| 16 | Linear Regression Channels | 7115 | ⬜ |
-| 17 | Tool Types & Chaos Theory | 11951 | ⬜ |
-| 18 | Integration & Basic Game Theory | 5784 | ⬜ |
+| 16 | Linear Regression Channels | 7115 | ✅ |
+| 17 | Tool Types & Chaos Theory | 11951 | ✅ |
+| 18 | Integration & Basic Game Theory | 5784 | ✅ |
 | 19 | Game Theory and Learning How to Trade | 6127 | ⬜ |
 | 20 | F.P.A.R.F. & Important Advice | 5835 | ⬜ |
 | 21 | Trade Triggers, Stops & Targets | 4942 | ⬜ |
