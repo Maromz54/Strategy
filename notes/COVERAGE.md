@@ -3,11 +3,11 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 38 / 116 שיעורים (32%)
+## סה"כ: 41 / 116 שיעורים (35%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
-| `price_action_vol1` | 23 | 50 |
+| `price_action_vol1` | 26 | 50 |
 | `price_action_vol2` | 0 | 12 |
 | `price_action_vol3` | 0 | 12 |
 | `fractal_trading` | 15 | 42 |
@@ -22,9 +22,9 @@
 | 04 | Soros, Einstein, Weinstein and Simmons | 2096 | ✅ |
 | 05 | The Level Zero | 14382 | ⬜ |
 | 06 | The Level One | 15808 | ✅ |
-| 07 | Aspects of Trading Correctly | 6832 | ⬜ |
-| 08 | Counterpoint Types | 1109 | ⬜ |
-| 09 | Metaphysics and Narrative | 6853 | ⬜ |
+| 07 | Aspects of Trading Correctly | 6832 | ✅ |
+| 08 | Counterpoint Types | 1109 | ✅ |
+| 09 | Metaphysics and Narrative | 6853 | ✅ |
 | 10 | Efficient Market Hypothesis and The Observer Problem | 3396 | ⬜ |
 | 11 | Market Manipulation | 3798 | ⬜ |
 | 12 | Praxeological Elements | 1006 | ⬜ |
