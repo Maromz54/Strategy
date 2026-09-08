@@ -1,6 +1,6 @@
 # vol3 שיעורים 01-12 — כניסות מדויקות ואסימטריית התנודתיות
 
-מקור: `transcripts/price_action_vol3/` — `L001_Ambiguitity_in_the_BAxis_and_Failure_of_Measuring_Volatility_Range.json`,
+מקור: `transcripts/price_action_vol3/` — `L001_Ambiguitity_in_the_B_Axis_and_Failure_of_Measuring_Volatility_Range.json`,
 `L002_Market_Duality_and_the_Symmetry_Between_Stable_and_Unstable_Conditions.json`,
 `L003_Variable_Trading_Time_Flow_Transformations_and_Circular_Decomposition.json`,
 `L004_Strange_Manipulation_and_the_Importance_of_the_Reverse_Engineering_Principle.json`,

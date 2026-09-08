@@ -1,8 +1,8 @@
 # fractal_trading 19-26 — הפעלה, טריגרים, סיכון וגודל פוזיציה
 
-מקור: `L019_Game_Theory_and_Learning_How_to_Trade.json`, `L020_FPARF_Important_Advice.json`,
+מקור: `L019_Game_Theory_and_Learning_How_to_Trade.json`, `L020_F_P_A_R_F_Important_Advice.json`,
 `L021_Trade_Triggers_Stops_Targets.json`, `L022_Risk_Behavior_Performance.json`,
-`L023_Mathematics_of_RiskReward_Ratios.json`, `L024_Technical_Aspect_of_RiskReward_Ratios.json`,
+`L023_Mathematics_of_Risk_Reward_Ratios.json`, `L024_Technical_Aspect_of_Risk_Reward_Ratios.json`,
 `L025_Integrating_Mathematics_Technique_Psychology.json`, `L026_Position_Sizing.json`
 
 > ⭐⭐⭐ **מודול הביצוע והסיכון המלא.** כאן נמצאת המתמטיקה היחידה בקורס שהיא מדויקת

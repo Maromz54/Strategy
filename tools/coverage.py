@@ -41,6 +41,14 @@ with open(os.path.join(ROOT, "notes", "COVERAGE.md"), "w") as o:
         o.write(f"\n### {c}\n\n| # | שיעור | chars | |\n|---|---|---|---|\n")
         for n, t, done, ch in courses[c]:
             o.write(f"| {n:02d} | {t} | {ch} | {'✅' if done else '⬜'} |\n")
+# הפניות בהערות לקבצים שאינם קיימים — מקור נפוץ לספירת חסר שגויה
+import re
+refs = set(re.findall(r'L\d{3}_[A-Za-z0-9_]+\.json', notes_text))
+have = {os.path.basename(f) for f in glob.glob(os.path.join(ROOT, "transcripts", "*", "L*.json"))}
+stale = sorted(refs - have)
+if stale:
+    print("⚠️  הפניות בהערות לקבצים שאינם קיימים:")
+    for s in stale: print("   ", s)
 print(f"כיסוי: {done_all}/{all_all} ({100*done_all//all_all}%)")
 for c in sorted(totals, key=lambda c: (ORDER.index(c) if c in ORDER else 99, c)):
     d_, t_ = totals[c]

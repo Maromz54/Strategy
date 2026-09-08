@@ -3,14 +3,14 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 111 / 116 שיעורים (95%)
+## סה"כ: 116 / 116 שיעורים (100%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
 | `price_action_vol1` | 50 | 50 |
-| `price_action_vol2` | 11 | 12 |
-| `price_action_vol3` | 11 | 12 |
-| `fractal_trading` | 39 | 42 |
+| `price_action_vol2` | 12 | 12 |
+| `price_action_vol3` | 12 | 12 |
+| `fractal_trading` | 42 | 42 |
 
 ### price_action_vol1
 
@@ -75,7 +75,7 @@
 | 02 | Newtonian Action Space Extrapolation and the Counterpoint Between Players | 12712 | ✅ |
 | 03 | The Good and The Bad of Dynamic Frequency Breakouts | 10442 | ✅ |
 | 04 | Cross Dimensionality and Reverse Engineering | 11591 | ✅ |
-| 05 | Near Extremes, Non-Equidistant Extrapolation Lines and Neutral Bias | 16443 | ⬜ |
+| 05 | Near Extremes, Non-Equidistant Extrapolation Lines and Neutral Bias | 16443 | ✅ |
 | 06 | Standing Motion to Running Motion and Triple Intersection | 15224 | ✅ |
 | 07 | Inward Parallels, Good Stops and Positive Feedback Loops | 13771 | ✅ |
 | 08 | Fibonacci Square Fields, Tuned Forks and Circular Decomposition | 15234 | ✅ |
@@ -88,7 +88,7 @@
 
 | # | שיעור | chars | |
 |---|---|---|---|
-| 01 | Ambiguitity in the B-Axis and Failure of Measuring Volatility Range | 8007 | ⬜ |
+| 01 | Ambiguitity in the B-Axis and Failure of Measuring Volatility Range | 8007 | ✅ |
 | 02 | Market Duality and the Symmetry Between Stable and Unstable Conditions | 7691 | ✅ |
 | 03 | Variable Trading Time, Flow Transformations and Circular Decomposition | 7470 | ✅ |
 | 04 | Strange Manipulation and the Importance of the Reverse Engineering Principle | 8175 | ✅ |
@@ -124,11 +124,11 @@
 | 17 | Tool Types & Chaos Theory | 11951 | ✅ |
 | 18 | Integration & Basic Game Theory | 5784 | ✅ |
 | 19 | Game Theory and Learning How to Trade | 6127 | ✅ |
-| 20 | F.P.A.R.F. & Important Advice | 5835 | ⬜ |
+| 20 | F.P.A.R.F. & Important Advice | 5835 | ✅ |
 | 21 | Trade Triggers, Stops & Targets | 4942 | ✅ |
 | 22 | Risk, Behavior & Performance | 3319 | ✅ |
-| 23 | Mathematics of Risk-Reward Ratios | 5239 | ⬜ |
-| 24 | Technical Aspect of Risk-Reward Ratios | 3598 | ⬜ |
+| 23 | Mathematics of Risk-Reward Ratios | 5239 | ✅ |
+| 24 | Technical Aspect of Risk-Reward Ratios | 3598 | ✅ |
 | 25 | Integrating Mathematics, Technique & Psychology | 842 | ✅ |
 | 26 | Position Sizing | 3653 | ✅ |
 | 27 | Basic Performance Appraisal | 14815 | ✅ |
