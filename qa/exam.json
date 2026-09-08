@@ -1,0 +1,792 @@
+{
+ "1": [
+  {
+   "q": "1. In trading, we want theories that describe how the markets work instead of theories  that impose what the market should do.",
+   "a": "True"
+  },
+  {
+   "q": "2. The application of trading techniques holds many insights that can take years to learn  by yourself. Having access to these insights in explicit form dramatically shortens the  learning curve",
+   "a": "True"
+  }
+ ],
+ "2": [
+  {
+   "q": "1. A fractal is a pattern that circles around itself",
+   "a": "False"
+  },
+  {
+   "q": "2. Broad price extremes are separated by many candlesticks while adjacent price  extremes are not.",
+   "a": "True"
+  },
+  {
+   "q": "3. The adjacent market extremes on a lower timeframe are the broad market extremes  on a higher timeframe.",
+   "a": "False"
+  }
+ ],
+ "3": [
+  {
+   "q": "1. Intrinsic candlestick properties in absolute terms examine the change from one candle  to the next",
+   "a": "False"
+  },
+  {
+   "q": "2. The presence of extrinsic forces in the market can alter the interpretation of  candlesticks given by the intrinsic properties in both absolute and relative terms",
+   "a": "True"
+  },
+  {
+   "q": "3. Trend phase and price barriers are considered to be extrinsic forces acting on price  action",
+   "a": "True"
+  },
+  {
+   "q": "4. One of the most difficult aspects of price action reading is knowing when to change  perception from broad to narrow and vice versa",
+   "a": "True"
+  }
+ ],
+ "4": [
+  {
+   "q": "1. Both volatility and volume are considered to be intrinsic properties of a candlestick",
+   "a": "False"
+  },
+  {
+   "q": "2. The Candle Bias quantifies, and the Body Size qualifies the candle",
+   "a": "False"
+  },
+  {
+   "q": "3. Volatility and Uncertainty are measured by the Range and Body% respectively",
+   "a": "True"
+  },
+  {
+   "q": "4. Shadow symmetry and body position are two sides of the same coin",
+   "a": "True"
+  },
+  {
+   "q": "5. A wide range candle can be objectively observed when its range goes above 2 or 3  standard deviations from the mean in the modified ATR(1) indicator",
+   "a": "True"
+  },
+  {
+   "q": "6. The upper shadow implies bullish pressure, and the lower shadow implies bearish  pressure",
+   "a": "False"
+  },
+  {
+   "q": "7. The body position/shadow symmetry can help contextualize the notion of uncertainty  given by the body%",
+   "a": "True"
+  }
+ ],
+ "5": [
+  {
+   "q": "1. Switching timeframes can lead to a paradox where more information creates a worse  analysis",
+   "a": "True"
+  },
+  {
+   "q": "2. Price is less likely to follow the path of least resistance throughout the formation of the  candlestick",
+   "a": "False"
+  },
+  {
+   "q": "3. The ambiguity in candlesticks with very small body and large symmetrical shadows  demonstrates how body% is an important measure of uncertainty",
+   "a": "True"
+  }
+ ],
+ "6": [
+  {
+   "q": "1. The meaningful interpretation of candlesticks emerges when the intrinsic properties  are analyzed in context",
+   "a": "True"
+  },
+  {
+   "q": "2. It’s possible that intrinsic properties clash with each other leading to contradictory  interpretations",
+   "a": "True"
+  },
+  {
+   "q": "3. The importance of intrinsic properties becomes more evident when more complex  candlesticks are analyzed",
+   "a": "True"
+  }
+ ],
+ "7": [
+  {
+   "q": "1. Relative intrinsic properties relate to the analysis of candlesticks in isolation",
+   "a": "False"
+  },
+  {
+   "q": "2. Range dynamics must be contextualized by body% and shadow symmetry",
+   "a": "True"
+  },
+  {
+   "q": "3. The simple geometry of candlesticks yields complex interpretations once we start to  analyze the evolution of candles over time",
+   "a": "True"
+  },
+  {
+   "q": "4. The precise analysis of intrinsic properties in absolute and relative terms must be  performed in all candlesticks",
+   "a": "False"
+  }
+ ],
+ "8": [
+  {
+   "q": "1. The location of a candlestick relative to the overall trend doesn’t alter its interpretation",
+   "a": "False"
+  },
+  {
+   "q": "2. Velocity leads acceleration",
+   "a": "False"
+  },
+  {
+   "q": "3. A continuation divergence tends to be stronger than a reversal divergence because it  has the trend on its side",
+   "a": "True"
+  },
+  {
+   "q": "4. Larger length between price extremes tends to lead to a weaker divergence signal",
+   "a": "False"
+  },
+  {
+   "q": "5. There is no such thing as fractal volume",
+   "a": "False"
+  },
+  {
+   "q": "1. A price barrier can modulate the interpretation we get from the intrinsic properties of  a candlestick",
+   "a": "True"
+  },
+  {
+   "q": "2. The outer lines of the Bollinger Bands indicator are examples of barriers that are  traditional, geometric, and sloped",
+   "a": "False"
+  },
+  {
+   "q": "3. A decelerated price movement by itself is ambiguous, but if it seems to be held by a  barrier, there is a tendency of observing a reversal instead of a continuation",
+   "a": "True"
+  },
+  {
+   "q": "4. Accelerated price movements seem to be powerful, but they actually imply a loss of  power in price action, and that’s why they are considered an exhaustion",
+   "a": "True"
+  },
+  {
+   "q": "5. Decelerated price movements seem to be a loss of power, but not necessarily. Price  can be reaccumulating energy",
+   "a": "True"
+  }
+ ],
+ "9": [
+  {
+   "q": "1. The roughness of price is directly proportional to its fractal dimension",
+   "a": "True"
+  },
+  {
+   "q": "2. The Coastline Paradox in fractal geometry shows us that the interpretation of price is  objective and subjective at the same time",
+   "a": "True"
+  },
+  {
+   "q": "3. A rough price vector in one timeframe is necessarily rough in all timeframes",
+   "a": "False"
+  },
+  {
+   "q": "4. The perception of fractal dimension can point to the optimal timeframe to trade a  specific price vector",
+   "a": "True"
+  },
+  {
+   "q": "5. Price action reverses significantly when flows of different sizes align",
+   "a": "True"
+  }
+ ],
+ "10": [
+  {
+   "q": "1. Frequency lines are born when we overlay fractal analysis onto traditional support and  resistance lines",
+   "a": "True"
+  },
+  {
+   "q": "2. In a downward price vector, the lower frequencies point to reversals and the upper  frequencies point to continuations",
+   "a": "False"
+  },
+  {
+   "q": "3. Real-time frequencies eventually become historical frequencies",
+   "a": "True"
+  }
+ ],
+ "11": [
+  {
+   "q": "1. The butterfly effect is a feature of chaotic systems",
+   "a": "True"
+  },
+  {
+   "q": "2. Financial markets are chaotic, but not fractal",
+   "a": "False"
+  },
+  {
+   "q": "3. The more reliable dynamic frequency breakouts tend to happen with low to medium  volatility as it can be objectively measured with the ATR(1)",
+   "a": "True"
+  }
+ ],
+ "12": [
+  {
+   "q": "1. There are mainly two types of manipulation patterns that form all of the fractal  variations",
+   "a": "True"
+  },
+  {
+   "q": "2. The combination of broad and fractal manipulations is called self-similar manipulation",
+   "a": "True"
+  },
+  {
+   "q": "3. All fractal candles imply a fractal manipulation, but not all fractal manipulations imply a  fractal candle",
+   "a": "True"
+  },
+  {
+   "q": "4. In fractal manipulations, bearish signals can end up being part of a bullish signal and  vice versa",
+   "a": "True"
+  }
+ ],
+ "13": [
+  {
+   "q": "1. All fractal candles imply a fractal manipulation and vice versa",
+   "a": "False"
+  },
+  {
+   "q": "2. There is a wide array of fractal candles with various degrees of reliability once we  consider the intrinsic properties and extrinsic forces of the market",
+   "a": "True"
+  },
+  {
+   "q": "3. The higher the level of integration in a fractal candle, the greater its reliability, but the  lower its frequency",
+   "a": "True"
+  },
+  {
+   "q": "4. Fractal candles occurring in upward or downward progression imply a dissonance in  terms of velocity divergence when we consider both sides of range dynamics",
+   "a": "True"
+  }
+ ],
+ "14": [
+  {
+   "q": "1. The LRC is a fractal barrier because it is calculated numerically while being grounded  geometrically",
+   "a": "True"
+  },
+  {
+   "q": "2. Even though LRCs are fractal barriers, we can use them in either fractal or non-fractal  ways",
+   "a": "True"
+  },
+  {
+   "q": "3. You can draw LRCs effectively in any moment",
+   "a": "False"
+  },
+  {
+   "q": "4. There is a lot of benefit in combining LRCs with Pitchforks since they provide non obvious angles and barriers in the chart",
+   "a": "True"
+  },
+  {
+   "q": "5. The LRC cannot make use of overthrow and underthrow lines",
+   "a": "False"
+  }
+ ],
+ "15": [
+  {
+   "q": "1. There is confusion in technical analysis because some behavioral tools have a  mathematical connotation despite being mathematically invalid",
+   "a": "True"
+  },
+  {
+   "q": "2. A self-fulfilling prophecy effect can confirm a false belief",
+   "a": "True"
+  },
+  {
+   "q": "3. Behavioral patterns in isolation tend to work as repellers",
+   "a": "False"
+  },
+  {
+   "q": "4. The integration of behavioral/economic tools and mathematical/physical tools can  generate self-reinforcing scenarios with good precision and timing",
+   "a": "True"
+  },
+  {
+   "q": "5. The Andrews Pitchfork and the LRC are both Economic Tools",
+   "a": "False"
+  }
+ ],
+ "16": [
+  {
+   "q": "1. Trading is a stochastic game, meaning that the outcome is a function of skill and  chance simultaneously",
+   "a": "True"
+  },
+  {
+   "q": "2. Trading is a game of incomplete and asymmetric information, unknown and variable  probabilities",
+   "a": "True"
+  },
+  {
+   "q": "3. Information is a critical aspect in trading because traders cannot rely completely on the  feedback they get from the market in order to learn",
+   "a": "True"
+  },
+  {
+   "q": "4. The higher the level of integration the lower the difficulty",
+   "a": "False"
+  },
+  {
+   "q": "5. The higher the level of integration, the greater the reliability of a trade although it can  never reach 100% reliability",
+   "a": "True"
+  },
+  {
+   "q": "6. The lower the timeframe, the easier integration tends to be",
+   "a": "False"
+  }
+ ],
+ "17": [
+  {
+   "q": "1. Trading is like a playing a game in an arena where diverse games are being played in  such a way that the games affect each other",
+   "a": "True"
+  },
+  {
+   "q": "2. Doing the right thing in trading is guarantee that success will be obtained",
+   "a": "False"
+  },
+  {
+   "q": "3. There are right ways of losing and wrong ways of winning, and this knowledge depends  on knowing how markets and trading work",
+   "a": "True"
+  },
+  {
+   "q": "4. It’s better to learn how to reward behavior rather than performance because the  former is more under the trader’s control",
+   "a": "True"
+  },
+  {
+   "q": "5. It’s a bad idea trying to retail trade for a living because trading performance cannot  provide enough financial stability for short term recurrent goals",
+   "a": "True"
+  },
+  {
+   "q": "6. Trading is especially addictive for a trader who is unaware of the behavioral and  mathematical pitfalls associated with it",
+   "a": "True"
+  },
+  {
+   "q": "7. There are ways of using the addictive quality of trading against itself in a productive  way",
+   "a": "True"
+  }
+ ],
+ "18": [
+  {
+   "q": "1. In the top-down approach, the trader begins with the broader aspect of the extrinsic  forces and then narrows the analysis down to the intrinsic properties.",
+   "a": "True"
+  },
+  {
+   "q": "2. High quality trading is more about patience and strategic action than blind and  constant action",
+   "a": "True"
+  },
+  {
+   "q": "3. You’ll be constantly tempted to act based on trade signals in isolation. You must resist  this urge and remember that high quality trades require context",
+   "a": "True"
+  },
+  {
+   "q": "4. Doing the right thing doesn’t guarantee that your trade will be successful because  trading is a stochastic game",
+   "a": "True"
+  }
+ ],
+ "19": [
+  {
+   "q": "1. The appearance of a trade trigger without the appropriate integration of techniques  means you should act on it right away",
+   "a": "False"
+  },
+  {
+   "q": "2. Limit triggers can increase precision at the expense of being more difficult and also at  the risk of not getting filled",
+   "a": "True"
+  },
+  {
+   "q": "3. A stop loss must be placed above/below the potentially newly formed market extreme",
+   "a": "True"
+  }
+ ],
+ "20": [
+  {
+   "q": "1. A higher return is necessarily a better return",
+   "a": "False"
+  },
+  {
+   "q": "2. The goal of risk management is to overcome the uncertainty of the market in the long  term",
+   "a": "True"
+  },
+  {
+   "q": "3. Traders want to maximize risk while minimizing returns",
+   "a": "False"
+  },
+  {
+   "q": "4. A trader can make money only by using risk management",
+   "a": "False"
+  }
+ ],
+ "21": [
+  {
+   "q": "1. Favorable ratios are the ones where risk and reward are equal",
+   "a": "False"
+  },
+  {
+   "q": "2. There is no mathematical edge in different risk-reward ratios if trades are opened  randomly",
+   "a": "True"
+  },
+  {
+   "q": "3. As ratios increase linearly, the additional benefit in margin of error decays  exponentially",
+   "a": "True"
+  }
+ ],
+ "22": [
+  {
+   "q": "1. Phase-dependent ratios mean that the optimal ratio depends on the market scenario",
+   "a": "True"
+  },
+  {
+   "q": "2. It’s possible to produce 100% win rate in the long term",
+   "a": "False"
+  },
+  {
+   "q": "3. The alignment between market analysis and risk management allows the edge to  emerge in risk-reward ratios",
+   "a": "True"
+  },
+  {
+   "q": "4. Ideally, you want to enter trades with favorable ratios in the presence of the butterfly  effect and near repellers",
+   "a": "True"
+  }
+ ],
+ "23": [
+  {
+   "q": "1. Loss aversion means that we prefer avoiding losses over obtaining equivalent wins",
+   "a": "True"
+  },
+  {
+   "q": "2. Psychologically speaking, to offset loss aversion we need to use a ratio between 1.5  and 2.5",
+   "a": "True"
+  },
+  {
+   "q": "3. Unfavorable ratios involve delayed gratification",
+   "a": "False"
+  },
+  {
+   "q": "4. Favorable ratios are uncomfortable in the present, but they are sustainable.  Unfavorable ratios are comfortable in the present, but they lead to destruction",
+   "a": "True"
+  }
+ ],
+ "24": [
+  {
+   "q": "1. Risk-reward ratios should be phase-dependent and favorably unbounded",
+   "a": "False"
+  },
+  {
+   "q": "2. Boundedness means that ratios depend on market phase",
+   "a": "False"
+  },
+  {
+   "q": "3. The ability to analyze the market properly and the capacity to delay gratification are  critical for risk management to work",
+   "a": "True"
+  }
+ ],
+ "25": [
+  {
+   "q": "1. A trader can increase the %risk per trade if he uses proper risk-reward ratios",
+   "a": "False"
+  },
+  {
+   "q": "2. %Risk should be low enough, so you don’t care about a large losing streak. This level  will certainly be equal or less than 1% per trade",
+   "a": "True"
+  },
+  {
+   "q": "3. Position sizing models that grow capital faster do that at the expense of increasing risk,  and therefore, decreasing sustainability",
+   "a": "True"
+  },
+  {
+   "q": "4. The higher the leverage, the higher the risk, and therefore, the lower the sustainability  of returns",
+   "a": "True"
+  }
+ ],
+ "26": [
+  {
+   "q": "1. It’s dangerous to think in terms of return without considering the risk associated to  obtain such return",
+   "a": "True"
+  },
+  {
+   "q": "2. The goal of trading your own capital is long term wealth generation, capitalizing on the  power of compounding",
+   "a": "True"
+  },
+  {
+   "q": "3. Winning streaks can be sustained for a long time, and losing streaks are avoidable",
+   "a": "False"
+  },
+  {
+   "q": "4. The trader cannot properly judge performance against itself (subjectively) because  variations in performance are not only a product of variations in skill",
+   "a": "True"
+  },
+  {
+   "q": "5. Benchmarking and opportunity cost are fundamental aspects of objective performance  measurement",
+   "a": "True"
+  },
+  {
+   "q": "6. The goal of trading is to grow capital as fast as possible",
+   "a": "False"
+  },
+  {
+   "q": "7. The Sharpe Ratio measures the quality of the trader’s return, and it must be compared  with the Sharpe Ratio of the benchmark",
+   "a": "True"
+  },
+  {
+   "q": "8. A higher return is always a better return",
+   "a": "False"
+  },
+  {
+   "q": "9. If you find an “edge”, you can certainly lose it",
+   "a": "True"
+  },
+  {
+   "q": "10. Past performance is not indicative of future results partly because the probability of  techniques and patterns vary over time",
+   "a": "True"
+  }
+ ],
+ "27": [
+  {
+   "q": "1. Signal alternation in fractal overextension signals can lead to contradictory conclusions",
+   "a": "True"
+  },
+  {
+   "q": "2. The best part of behavioral trading techniques such as Elliott Wave theory is the  simplest part of the theory",
+   "a": "True"
+  },
+  {
+   "q": "3. LRCs and Pitchforks are mutually exclusive",
+   "a": "False"
+  }
+ ],
+ "28": [
+  {
+   "q": "1. Velocity leads acceleration",
+   "a": "False"
+  },
+  {
+   "q": "2. Trades at the beginning of a trend should aim for higher ratios",
+   "a": "True"
+  },
+  {
+   "q": "3. The integration of nonobvious patterns points to fundamental properties of price  action that are unrelated to a self-fulfilling prophecy effect",
+   "a": "True"
+  },
+  {
+   "q": "4. Certain barriers like AR lines and pitchforks allow us to see price using a physics-based  approach while LRCs allow us to see price using a mathematical approach",
+   "a": "True"
+  },
+  {
+   "q": "5. All significant price reversals have fractal candles or manipulations patterns",
+   "a": "False"
+  }
+ ],
+ "29": [
+  {
+   "q": "1. Price action with a higher fractal dimension is easier to trade",
+   "a": "False"
+  },
+  {
+   "q": "2. There are psychological traps involved even in trading price action in a low fractal  dimension",
+   "a": "True"
+  },
+  {
+   "q": "3. The Fractal Price Action Reading Framework exists to help you maintain the necessary  balance between broad and hyper focused analysis",
+   "a": "True"
+  },
+  {
+   "q": "4. By efficiently using the Fractal Price Action Reading Framework, you can avoid losses",
+   "a": "False"
+  }
+ ],
+ "30": [
+  {
+   "q": "1. A fractal candle must have all the elements of integration to be reliable",
+   "a": "False"
+  },
+  {
+   "q": "2. Sometimes it’s difficult to find pitchforks that align with the LRCs",
+   "a": "True"
+  },
+  {
+   "q": "3. A good trade can have elements going against it as long as the elements going for it are  stronger",
+   "a": "True"
+  },
+  {
+   "q": "4. Observing signal alternation and width between extremes is not essential in  overextension signals",
+   "a": "False"
+  },
+  {
+   "q": "5. Even in price action with higher fractal dimension we can find useful fractal elements  like self-similar manipulations",
+   "a": "True"
+  }
+ ],
+ "31": [
+  {
+   "q": "1. Accelerated price movements give the impression that price is gaining power, but often  times that is misleading. Price exhausts its energy quicker in that setting",
+   "a": "True"
+  },
+  {
+   "q": "2. Theoretically, Feigenbaum ratios have a greater explanatory power in comparison to  Fibonacci ratios since they are a mathematical constant found in chaotic systems.  However, the instances where Feigenbaum ratios can be used in a price chart are quite  limited",
+   "a": "True"
+  },
+  {
+   "q": "3. LRCs are a more reliable way of applying chaos theory to price charts",
+   "a": "True"
+  },
+  {
+   "q": "4. Not being able to delay gratification in a trade is not a problem",
+   "a": "False"
+  },
+  {
+   "q": "5. Fib ratios in the context of Elliott Wave are an example of how phase analysis and price  barriers can be interconnected",
+   "a": "True"
+  }
+ ],
+ "32": [
+  {
+   "q": "1. A perfect trade setup means you can increase risk",
+   "a": "False"
+  },
+  {
+   "q": "2. It’s important to understand the origin of the techniques you use in order to trust them",
+   "a": "True"
+  },
+  {
+   "q": "3. Low fractal dimension is a favorable scenario, but it doesn’t mean it’s perfect",
+   "a": "True"
+  },
+  {
+   "q": "4. Subtle changes in price action are difficult to see when you have already formed a bias  for a trade idea",
+   "a": "True"
+  },
+  {
+   "q": "5. A DFB in low fractal dimension can never fail",
+   "a": "False"
+  }
+ ],
+ "33": [
+  {
+   "q": "1. The common ground or integration between phase analysis methods can help reduce  the ambiguity that arises in several market scenarios",
+   "a": "True"
+  },
+  {
+   "q": "2. A dynamic target can dramatically increase the final risk-reward ratio, but it requires  the use of more advanced tools",
+   "a": "True"
+  },
+  {
+   "q": "3. Peak performance in one trade is more important than the iteration of trades over  time",
+   "a": "False"
+  },
+  {
+   "q": "4. A sideways market can be ambiguous under the light of Wyckoff’s method alone",
+   "a": "True"
+  }
+ ],
+ "34": [
+  {
+   "q": "1. The phase-dependence element of risk-reward ratios can be a critical factor in  triggering a trade",
+   "a": "True"
+  },
+  {
+   "q": "2. It’s possible to find a 5 wave and 3 wave pattern in the same price vector depending on  how you look at it",
+   "a": "True"
+  },
+  {
+   "q": "3. Waiting for confirmation is safer at the expense of being less precise",
+   "a": "True"
+  },
+  {
+   "q": "4. Pitchforks cannot work well with limit orders in market edges",
+   "a": "False"
+  }
+ ],
+ "35": [
+  {
+   "q": "1. The Anchored VWAP is a fractal tool because it incorporates geometric and numerical  elements",
+   "a": "True"
+  },
+  {
+   "q": "2. The alignment between strong behavioral patterns and precise mathematical/physical  tools is the sweet spot between power and precision",
+   "a": "True"
+  },
+  {
+   "q": "3. The absence of divergence in one oscillator means that there is the absence of  divergence in all other oscillators",
+   "a": "False"
+  }
+ ],
+ "36": [
+  {
+   "q": "1. The best a technical trader can do is to look for areas with the greatest number of  intersecting techniques in the chart",
+   "a": "True"
+  },
+  {
+   "q": "2. Areas where multiple intersections occur are always obvious",
+   "a": "False"
+  },
+  {
+   "q": "3. The Volume Profile Tool can serve as a way to find support/resistance levels",
+   "a": "True"
+  }
+ ],
+ "37": [
+  {
+   "q": "1. Hyper integration is the combination of various tools within one type of market  analysis",
+   "a": "False"
+  },
+  {
+   "q": "2. There is an implicit geometry in price action that can be unveiled by the pitchfork and  the linear regression channel",
+   "a": "True"
+  },
+  {
+   "q": "3. The volume profile, the anchored VWAP, Cumulative Volume Delta and VSA are all  important and useful volume tools",
+   "a": "True"
+  },
+  {
+   "q": "4. An apparently unimportant price level can become important if there are enough  elements being integrated in it",
+   "a": "True"
+  }
+ ],
+ "38": [
+  {
+   "q": "1. Phase analysis plays an important role in determining if supply/demand zones will hold",
+   "a": "True"
+  },
+  {
+   "q": "2. One of the most important aspects of intrinsic properties is their capacity to show if  price is reacting to a price barrier as expected",
+   "a": "True"
+  },
+  {
+   "q": "3. A major supply/demand zone can be drawn using the DFB and DFS lines in the middle  of a price vector",
+   "a": "False"
+  },
+  {
+   "q": "4. The minor flow of highs and lows changes before the major flow of highs and lows",
+   "a": "True"
+  }
+ ],
+ "39": [
+  {
+   "q": "1. A trade idea with simple integration elements necessarily implies in a simple entry",
+   "a": "False"
+  },
+  {
+   "q": "2. Phase analysis methods can generate many ambiguous scenarios",
+   "a": "True"
+  },
+  {
+   "q": "3. Simple lines and channels are self-fulfilling because not a lot of traders can see them",
+   "a": "False"
+  },
+  {
+   "q": "4. The reliability of future price reactions to pitchfork lines is associated with the quality  of price reactions to pitchfork lines in the past",
+   "a": "True"
+  }
+ ],
+ "40": [
+  {
+   "q": "1. Decelerating price movement necessarily implies unsustainability",
+   "a": "False"
+  },
+  {
+   "q": "2. A DFB is a sign that price is reversing especially after it reacts to a level where multiple  barriers intersect",
+   "a": "True"
+  },
+  {
+   "q": "3. A common resistance line is a mathematical barrier",
+   "a": "False"
+  }
+ ],
+ "41": [
+  {
+   "q": "1. Sometimes, waiting for price confirmation means that the trade entry will become  invalid",
+   "a": "True"
+  },
+  {
+   "q": "2. An integrated fractal candle means that the fractal candle shows reversal divergence in  a lower timeframe",
+   "a": "False"
+  },
+  {
+   "q": "3. The greater the number of elements in a fractal candle, the lower its level of  integration",
+   "a": "False"
+  },
+  {
+   "q": "4. If the trade is well into profitable territory, and the market gives you reasons to  invalidate the currently profitable trade, you can move the stop to breakeven",
+   "a": "True"
+  }
+ ]
+}
