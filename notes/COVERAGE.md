@@ -3,12 +3,12 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 89 / 116 שיעורים (76%)
+## סה"כ: 100 / 116 שיעורים (86%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
 | `price_action_vol1` | 50 | 50 |
-| `price_action_vol2` | 0 | 12 |
+| `price_action_vol2` | 11 | 12 |
 | `price_action_vol3` | 0 | 12 |
 | `fractal_trading` | 39 | 42 |
 
@@ -71,18 +71,18 @@
 
 | # | שיעור | chars | |
 |---|---|---|---|
-| 01 | Nash Equilibrium & Market Manipulation | 14817 | ⬜ |
-| 02 | Newtonian Action Space Extrapolation and the Counterpoint Between Players | 12712 | ⬜ |
-| 03 | The Good and The Bad of Dynamic Frequency Breakouts | 10442 | ⬜ |
-| 04 | Cross Dimensionality and Reverse Engineering | 11591 | ⬜ |
+| 01 | Nash Equilibrium & Market Manipulation | 14817 | ✅ |
+| 02 | Newtonian Action Space Extrapolation and the Counterpoint Between Players | 12712 | ✅ |
+| 03 | The Good and The Bad of Dynamic Frequency Breakouts | 10442 | ✅ |
+| 04 | Cross Dimensionality and Reverse Engineering | 11591 | ✅ |
 | 05 | Near Extremes, Non-Equidistant Extrapolation Lines and Neutral Bias | 16443 | ⬜ |
-| 06 | Standing Motion to Running Motion and Triple Intersection | 15224 | ⬜ |
-| 07 | Inward Parallels, Good Stops and Positive Feedback Loops | 13771 | ⬜ |
-| 08 | Fibonacci Square Fields, Tuned Forks and Circular Decomposition | 15234 | ⬜ |
-| 09 | Attention to Detail, Open Space and the Barriers of Price | 15067 | ⬜ |
-| 10 | Switching Quality of Subtle Lines and Depth of Analysis | 12976 | ⬜ |
-| 11 | Market Manipulation, Evolutionary Psychology and Pitchforks | 15478 | ⬜ |
-| 12 | The Paradox of Fractal Flows and the Imperfection of the Market | 14599 | ⬜ |
+| 06 | Standing Motion to Running Motion and Triple Intersection | 15224 | ✅ |
+| 07 | Inward Parallels, Good Stops and Positive Feedback Loops | 13771 | ✅ |
+| 08 | Fibonacci Square Fields, Tuned Forks and Circular Decomposition | 15234 | ✅ |
+| 09 | Attention to Detail, Open Space and the Barriers of Price | 15067 | ✅ |
+| 10 | Switching Quality of Subtle Lines and Depth of Analysis | 12976 | ✅ |
+| 11 | Market Manipulation, Evolutionary Psychology and Pitchforks | 15478 | ✅ |
+| 12 | The Paradox of Fractal Flows and the Imperfection of the Market | 14599 | ✅ |
 
 ### price_action_vol3
 
