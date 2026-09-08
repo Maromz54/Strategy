@@ -3,11 +3,11 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 33 / 116 שיעורים (28%)
+## סה"כ: 38 / 116 שיעורים (32%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
-| `price_action_vol1` | 18 | 50 |
+| `price_action_vol1` | 23 | 50 |
 | `price_action_vol2` | 0 | 12 |
 | `price_action_vol3` | 0 | 12 |
 | `fractal_trading` | 15 | 42 |
@@ -41,11 +41,11 @@
 | 23 | Solid Structure | 786 | ✅ |
 | 24 | Fake Structure | 692 | ✅ |
 | 25 | Manipulation Pattern | 2481 | ✅ |
-| 26 | Fractal Bar | 1094 | ⬜ |
-| 27 | Inside Bar | 477 | ⬜ |
-| 28 | Outside Bar | 404 | ⬜ |
-| 29 | Pressure Bar | 638 | ⬜ |
-| 30 | Hybrid Bar | 707 | ⬜ |
+| 26 | Fractal Bar | 1094 | ✅ |
+| 27 | Inside Bar | 477 | ✅ |
+| 28 | Outside Bar | 404 | ✅ |
+| 29 | Pressure Bar | 638 | ✅ |
+| 30 | Hybrid Bar | 707 | ✅ |
 | 31 | Line Theory | 1270 | ⬜ |
 | 32 | Anchoring | 1824 | ⬜ |
 | 33 | Extension | 518 | ⬜ |
