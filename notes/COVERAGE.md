@@ -3,11 +3,11 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 44 / 116 שיעורים (37%)
+## סה"כ: 53 / 116 שיעורים (45%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
-| `price_action_vol1` | 29 | 50 |
+| `price_action_vol1` | 38 | 50 |
 | `price_action_vol2` | 0 | 12 |
 | `price_action_vol3` | 0 | 12 |
 | `fractal_trading` | 15 | 42 |
@@ -46,16 +46,16 @@
 | 28 | Outside Bar | 404 | ✅ |
 | 29 | Pressure Bar | 638 | ✅ |
 | 30 | Hybrid Bar | 707 | ✅ |
-| 31 | Line Theory | 1270 | ⬜ |
-| 32 | Anchoring | 1824 | ⬜ |
-| 33 | Extension | 518 | ⬜ |
-| 34 | Validation | 888 | ⬜ |
+| 31 | Line Theory | 1270 | ✅ |
+| 32 | Anchoring | 1824 | ✅ |
+| 33 | Extension | 518 | ✅ |
+| 34 | Validation | 888 | ✅ |
 | 35 | Simple Line Extrapolation and Non-Equidistant Line Extrapolation | 2523 | ⬜ |
-| 36 | Newtonian Action Space Extrapolation and Fibonacci Action Space Extrapolation | 3396 | ⬜ |
-| 37 | Vector Space Extrapolation | 496 | ⬜ |
-| 38 | Single and Double Negative Vector Extrapolation | 4263 | ⬜ |
-| 39 | Vector Decomposition | 1989 | ⬜ |
-| 40 | Vector Addition | 1160 | ⬜ |
+| 36 | Newtonian Action Space Extrapolation and Fibonacci Action Space Extrapolation | 3396 | ✅ |
+| 37 | Vector Space Extrapolation | 496 | ✅ |
+| 38 | Single and Double Negative Vector Extrapolation | 4263 | ✅ |
+| 39 | Vector Decomposition | 1989 | ✅ |
+| 40 | Vector Addition | 1160 | ✅ |
 | 41 | Circular Decomposition | 1330 | ⬜ |
 | 42 | Frequency Shifting and Frequency Tuning | 1441 | ⬜ |
 | 43 | Convergence, Square Fields and Clusters | 4098 | ⬜ |
