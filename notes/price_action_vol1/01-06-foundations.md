@@ -1,6 +1,10 @@
 # vol1 שיעורים 01-06 — יסודות התיאוריה
 
-מקור: `transcripts/price_action_vol1/L001..L006` (שיעור 5 "The Level Zero" טרם נקרא)
+מקור: `transcripts/price_action_vol1/` — `L001_Introduction.json`,
+`L002_The_Nature_of_Price.json`, `L003_The_Anthropic_Principle_and_Econophysics.json`,
+`L004_Soros_Einstein_Weinstein_and_Simmons.json`, `L006_The_Level_One.json`.
+
+> שיעור 5 (`The Level Zero`) **טרם נקרא** — הוא הפרקסאולוגיה שעליה L006 נשען.
 
 > **החומר הזה סוגר שלושה פערים מרכזיים שסימנתי בקורס השני.** הוא הבסיס שאליו
 > `fractal_trading` מפנה במפורש.

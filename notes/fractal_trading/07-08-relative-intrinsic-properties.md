@@ -1,7 +1,7 @@
 # שיעורים 07-08 — Relative Intrinsic Properties (חלקים 1+2)
 
 מקור: `transcripts/L007_Relative_Intrinsic_Properties_Pt1.json` (global 81),
-`transcripts/L008_Relative_Intrinsic_Properties_Pt2_.json` (global 82)
+`transcripts/L008_Relative_Intrinsic_Properties_Pt2.json` (global 82)
 
 > **הערה על המקור:** התמלול של שיעור 7 **נקטע באמצע משפט** — "upper and lower shadows can
 > also increase, decrease, or..." — ושיעור 8 נפתח בדיוק בהמשך: "decrease or remain equal".
