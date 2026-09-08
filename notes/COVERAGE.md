@@ -3,11 +3,11 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 26 / 116 שיעורים (22%)
+## סה"כ: 33 / 116 שיעורים (28%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
-| `price_action_vol1` | 11 | 50 |
+| `price_action_vol1` | 18 | 50 |
 | `price_action_vol2` | 0 | 12 |
 | `price_action_vol3` | 0 | 12 |
 | `fractal_trading` | 15 | 42 |
@@ -34,13 +34,13 @@
 | 16 | Inward Frequency | 1528 | ✅ |
 | 17 | Outward Frequency | 975 | ✅ |
 | 18 | Precise Supply and Demand Zones | 1332 | ✅ |
-| 19 | Dynamic Frequency Breakout | 1005 | ⬜ |
-| 20 | Wick Expansion | 647 | ⬜ |
-| 21 | Pressure Zones | 710 | ⬜ |
-| 22 | Volatility Shift Line | 405 | ⬜ |
-| 23 | Solid Structure | 786 | ⬜ |
-| 24 | Fake Structure | 692 | ⬜ |
-| 25 | Manipulation Pattern | 2481 | ⬜ |
+| 19 | Dynamic Frequency Breakout | 1005 | ✅ |
+| 20 | Wick Expansion | 647 | ✅ |
+| 21 | Pressure Zones | 710 | ✅ |
+| 22 | Volatility Shift Line | 405 | ✅ |
+| 23 | Solid Structure | 786 | ✅ |
+| 24 | Fake Structure | 692 | ✅ |
+| 25 | Manipulation Pattern | 2481 | ✅ |
 | 26 | Fractal Bar | 1094 | ⬜ |
 | 27 | Inside Bar | 477 | ⬜ |
 | 28 | Outside Bar | 404 | ⬜ |
