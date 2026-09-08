@@ -3,13 +3,13 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 100 / 116 שיעורים (86%)
+## סה"כ: 111 / 116 שיעורים (95%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
 | `price_action_vol1` | 50 | 50 |
 | `price_action_vol2` | 11 | 12 |
-| `price_action_vol3` | 0 | 12 |
+| `price_action_vol3` | 11 | 12 |
 | `fractal_trading` | 39 | 42 |
 
 ### price_action_vol1
@@ -89,17 +89,17 @@
 | # | שיעור | chars | |
 |---|---|---|---|
 | 01 | Ambiguitity in the B-Axis and Failure of Measuring Volatility Range | 8007 | ⬜ |
-| 02 | Market Duality and the Symmetry Between Stable and Unstable Conditions | 7691 | ⬜ |
-| 03 | Variable Trading Time, Flow Transformations and Circular Decomposition | 7470 | ⬜ |
-| 04 | Strange Manipulation and the Importance of the Reverse Engineering Principle | 8175 | ⬜ |
-| 05 | Chaotic Dynamic Frequency Breakouts and the Dynamic Between Price Vectors | 7627 | ⬜ |
-| 06 | The Reverse Von Restorff Effect, the Nobel Prize in Economics and Pitchforks | 7890 | ⬜ |
-| 07 | Market Manipulation, Momentum Vectoring, and Powerful Lines | 7763 | ⬜ |
-| 08 | The Dynamic of Precise Entries and the Elements of a Great Trade | 7547 | ⬜ |
-| 09 | The Intricate Relationship Between Players in Different Fractal Dimensions | 8278 | ⬜ |
-| 10 | Advanced Praxeological Lines, Good Stops, and Trading on the Edge | 8176 | ⬜ |
-| 11 | The Asymmetry of Volatility Dissipation and Rationality in the Market | 8111 | ⬜ |
-| 12 | Trading with Simple Lines and the Cascading Effect of Imprecision | 8178 | ⬜ |
+| 02 | Market Duality and the Symmetry Between Stable and Unstable Conditions | 7691 | ✅ |
+| 03 | Variable Trading Time, Flow Transformations and Circular Decomposition | 7470 | ✅ |
+| 04 | Strange Manipulation and the Importance of the Reverse Engineering Principle | 8175 | ✅ |
+| 05 | Chaotic Dynamic Frequency Breakouts and the Dynamic Between Price Vectors | 7627 | ✅ |
+| 06 | The Reverse Von Restorff Effect, the Nobel Prize in Economics and Pitchforks | 7890 | ✅ |
+| 07 | Market Manipulation, Momentum Vectoring, and Powerful Lines | 7763 | ✅ |
+| 08 | The Dynamic of Precise Entries and the Elements of a Great Trade | 7547 | ✅ |
+| 09 | The Intricate Relationship Between Players in Different Fractal Dimensions | 8278 | ✅ |
+| 10 | Advanced Praxeological Lines, Good Stops, and Trading on the Edge | 8176 | ✅ |
+| 11 | The Asymmetry of Volatility Dissipation and Rationality in the Market | 8111 | ✅ |
+| 12 | Trading with Simple Lines and the Cascading Effect of Imprecision | 8178 | ✅ |
 
 ### fractal_trading
 
