@@ -3,11 +3,11 @@
 נוצר על ידי `tools/coverage.py`. שיעור מסומן ✅ רק אם קובץ הערות מזכיר את
 קובץ התמלול שלו בשמו — כלומר זה מודד כיסוי בפועל, לא הצהרה.
 
-## סה"כ: 63 / 116 שיעורים (54%)
+## סה"כ: 64 / 116 שיעורים (55%)
 
 | קורס | מכוסה | סה"כ |
 |---|---|---|
-| `price_action_vol1` | 48 | 50 |
+| `price_action_vol1` | 49 | 50 |
 | `price_action_vol2` | 0 | 12 |
 | `price_action_vol3` | 0 | 12 |
 | `fractal_trading` | 15 | 42 |
@@ -50,7 +50,7 @@
 | 32 | Anchoring | 1824 | ✅ |
 | 33 | Extension | 518 | ✅ |
 | 34 | Validation | 888 | ✅ |
-| 35 | Simple Line Extrapolation and Non-Equidistant Line Extrapolation | 2523 | ⬜ |
+| 35 | Simple Line Extrapolation and Non-Equidistant Line Extrapolation | 2523 | ✅ |
 | 36 | Newtonian Action Space Extrapolation and Fibonacci Action Space Extrapolation | 3396 | ✅ |
 | 37 | Vector Space Extrapolation | 496 | ✅ |
 | 38 | Single and Double Negative Vector Extrapolation | 4263 | ✅ |
@@ -80,7 +80,7 @@
 | 07 | Inward Parallels, Good Stops and Positive Feedback Loops | 13771 | ⬜ |
 | 08 | Fibonacci Square Fields, Tuned Forks and Circular Decomposition | 15234 | ⬜ |
 | 09 | Attention to Detail, Open Space and the Barriers of Price | 15067 | ⬜ |
-| 10 | Switching Quality of Subtle Lines and Depth of Analysis | 0 | ⬜ |
+| 10 | Switching Quality of Subtle Lines and Depth of Analysis | 12976 | ⬜ |
 | 11 | Market Manipulation, Evolutionary Psychology and Pitchforks | 15478 | ⬜ |
 | 12 | The Paradox of Fractal Flows and the Imperfection of the Market | 14599 | ⬜ |
 

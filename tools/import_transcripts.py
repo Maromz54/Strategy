@@ -41,11 +41,18 @@ for src in sorted(glob.glob(os.path.join(UPLOADS, "*.json"))):
     course = d.get("course", {}).get("name")
     if not course or "content" not in d: continue
     uid = d.get("id") or d.get("fileName")
-    if uid in seen:                                  # אותו שיעור הועלה פעמיים
-        print(f"  כפילות — מדלג: {os.path.basename(src)[:56]}")
-        continue
-    seen[uid] = True
-    courses[course].append((sort_key(d, src), d, src))
+    size = len(d["content"]["fullText"])
+    if uid in seen:                                  # אותו שיעור הועלה פעמיים —
+        prev = seen[uid]                             # שומרים את העותק העשיר יותר
+        if size <= len(prev[1]["content"]["fullText"]):
+            print(f"  כפילות ({size} תווים) — מדלג: {os.path.basename(src)[:48]}")
+            continue
+        print(f"  כפילות — מחליף לעותק העשיר יותר ({size} מול "
+              f"{len(prev[1]['content']['fullText'])} תווים)")
+        courses[course].remove(prev)
+    entry = (sort_key(d, src), d, src)
+    seen[uid] = entry
+    courses[course].append(entry)
 
 for course in sorted(courses, key=lambda c: (ORDER.index(c) if c in ORDER else 99, c)):
     # שובר שוויון: שם קובץ הווידאו המלא — שמות ההעלאה מתחילים בהאש אקראי

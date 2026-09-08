@@ -1,7 +1,7 @@
 # vol1 שיעורים 31-40 — תורת הקווים
 
 מקור: `L031_Line_Theory.json`, `L032_Anchoring.json`, `L033_Extension.json`,
-`L034_Validation.json`, `L035_Simple_Line_Extrapolation_and_NonEquidistant_Line_Extrapolation.json`,
+`L034_Validation.json`, `L035_Simple_Line_Extrapolation_and_Non_Equidistant_Line_Extrapolation.json`,
 `L036_Newtonian_Action_Space_Extrapolation_and_Fibonacci_Action_Space_Extrapolation.json`,
 `L037_Vector_Space_Extrapolation.json`, `L038_Single_and_Double_Negative_Vector_Extrapolation.json`,
 `L039_Vector_Decomposition.json`, `L040_Vector_Addition.json`

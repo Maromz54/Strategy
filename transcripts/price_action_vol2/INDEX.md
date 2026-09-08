@@ -15,8 +15,8 @@
 | 07 | [Inward Parallels, Good Stops and Positive Feedback Loops](L007_Inward_Parallels_Good_Stops_and_Positive_Feedback_Loops.json) | 13771 | 5 | `07 - Inward Pa` |
 | 08 | [Fibonacci Square Fields, Tuned Forks and Circular Decomposition](L008_Fibonacci_Square_Fields_Tuned_Forks_and_Circular_Decomposition.json) | 15234 | 0 | `08 - Fibonacci` |
 | 09 | [Attention to Detail, Open Space and the Barriers of Price](L009_Attention_to_Detail_Open_Space_and_the_Barriers_of_Price.json) | 15067 | 10 | `09 - Attention` |
-| 10 | [Switching Quality of Subtle Lines and Depth of Analysis](L010_Switching_Quality_of_Subtle_Lines_and_Depth_of_Analysis.json) | 0 | 0 | `10 - Switching` |
+| 10 | [Switching Quality of Subtle Lines and Depth of Analysis](L010_Switching_Quality_of_Subtle_Lines_and_Depth_of_Analysis.json) | 12976 | 10 | `10 - Switching` |
 | 11 | [Market Manipulation, Evolutionary Psychology and Pitchforks](L011_Market_Manipulation_Evolutionary_Psychology_and_Pitchforks.json) | 15478 | 4 | `11 - Market Ma` |
 | 12 | [The Paradox of Fractal Flows and the Imperfection of the Market](L012_The_Paradox_of_Fractal_Flows_and_the_Imperfection_of_the_Market.json) | 14599 | 4 | `12 - The Parad` |
 
-**סה"כ:** 155,378 תווי תמלול · 48 תיאורי מסך
+**סה"כ:** 168,354 תווי תמלול · 58 תיאורי מסך
