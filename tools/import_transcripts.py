@@ -48,7 +48,8 @@ for src in sorted(glob.glob(os.path.join(UPLOADS, "*.json"))):
     courses[course].append((sort_key(d, src), d, src))
 
 for course in sorted(courses, key=lambda c: (ORDER.index(c) if c in ORDER else 99, c)):
-    items = sorted(courses[course], key=lambda x: x[0])
+    # שובר שוויון: שם קובץ הווידאו המלא — שמות ההעלאה מתחילים בהאש אקראי
+    items = sorted(courses[course], key=lambda x: (x[0], x[1].get("fileName", "")))
     dest_dir = os.path.join(ROOT, course); os.makedirs(dest_dir, exist_ok=True)
     for stale in glob.glob(os.path.join(dest_dir, "L*.json")): os.remove(stale)
     rows = []

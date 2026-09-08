@@ -12,8 +12,8 @@
 | 04 | [Absolute Intrinsic Properties](L004_Absolute_Intrinsic_Properties.json) | 8968 | 20 | `04 - Absolute ` |
 | 05 | [Reducing Candlestick Ambiguity](L005_Reducing_Candlestick_Ambiguity.json) | 1905 | 5 | `05 - Reducing ` |
 | 06 | [How to Interpret a Candlestick in Isolation](L006_How_to_Interpret_a_Candlestick_in_Isolation.json) | 7451 | 12 | `06 - How to In` |
-| 07 | [Relative Intrinsic Properties Pt2 ](L007_Relative_Intrinsic_Properties_Pt2.json) | 10733 | 16 | `07 - Relative ` |
-| 08 | [Relative Intrinsic Properties Pt1](L008_Relative_Intrinsic_Properties_Pt1.json) | 9313 | 34 | `07 - Relative ` |
+| 07 | [Relative Intrinsic Properties Pt1](L007_Relative_Intrinsic_Properties_Pt1.json) | 9313 | 34 | `07 - Relative ` |
+| 08 | [Relative Intrinsic Properties Pt2 ](L008_Relative_Intrinsic_Properties_Pt2.json) | 10733 | 16 | `07 - Relative ` |
 | 09 | [08.1 - Extrinsic Forces (PART 1)](L009_08_1_Extrinsic_Forces_PART_1.json) | 16406 | 41 | `08.1 - Extrins` |
 | 10 | [08.2 - Extrinsic Forces (PART 2)](L010_08_2_Extrinsic_Forces_PART_2.json) | 11016 | 45 | `08.2 - Extrins` |
 | 11 | [Fractal Price Action Properties](L011_Fractal_Price_Action_Properties.json) | 7612 | 26 | `09 - Fractal P` |
