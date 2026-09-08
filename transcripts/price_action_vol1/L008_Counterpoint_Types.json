@@ -1,0 +1,77 @@
+{
+  "id": "1NgJRpd5z3rhqnPGHXpxlvxwOtRhhi-Aa",
+  "fileName": "08 - Counterpoint Types.mp4",
+  "displayTitle": "Counterpoint Types",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 8,
+    "globalLessonNumber": 8
+  },
+  "content": {
+    "fullText": "Identifying the type of counterpoint between market players can be helpful in any analysis, as you'll see in future lectures. We have basically three types of counterpoint: Similar Motion, Contrary Motion, and Oblique Motion. Similar motion is when both major and minor players are going in the same direction. Observing areas where major and minor supply and demand zones meet when players are going in similar motion can represent an opportunity with great potential, since both players have the same trend bias. Contrary Motion is when market players are going in the opposite directions. For example, when the major flow is going down and the minor flow is going up. In cases like this, it's important to observe the areas where the two flows will collide with each other. Contrary motion between players can be tricky sometimes, so it's a good idea to be extremely careful in these types of situation. Oblique motion is when one market player is going sideways and the other player is trending in between the upper and lower limits of the sideways move. This would be analogous to the beating flow types.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Identifying the type of counterpoint between market players can be helpful in any analysis, as you'll see in future lectures. We have basically three types of counterpoint: Similar Motion, Contrary Motion, and Oblique Motion. Similar motion is when both major and minor players are going in the same direction. Observing areas where major and minor supply and demand zones meet when players are going in similar motion can represent an opportunity with great potential, since both players have the same trend bias. Contrary Motion is when market players are going in the opposite directions. For example, when the major flow is going down and the minor flow is going up. In cases like this, it's important to observe the areas where the two flows will collide with each other.",
+        "startChar": 0,
+        "endChar": 777,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "Contrary motion between players can be tricky sometimes, so it's a good idea to be extremely careful in these types of situation. Oblique motion is when one market player is going sideways and the other player is trending in between the upper and lower limits of the sideways move. This would be analogous to the beating flow types.",
+        "startChar": 777,
+        "endChar": 1109,
+        "sequenceNumber": 1
+      }
+    ],
+    "chunkCount": 2,
+    "totalLength": 1109
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title slide is shown. The text 'Counterpoint Types' is centered on the screen. In the background, there is a faded, white-on-white bust of the philosopher Aristotle."
+      },
+      {
+        "timestamp": "00:12",
+        "description": "A single light green rectangular box appears on the left side of the screen with the text 'Similar Motion'."
+      },
+      {
+        "timestamp": "00:14",
+        "description": "A second light green box appears to the right of the first, creating a row. This box contains the text 'Contrary Motion'."
+      },
+      {
+        "timestamp": "00:15",
+        "description": "A third light green box appears to the right, completing a three-column row. It contains the text 'Oblique Motion'."
+      },
+      {
+        "timestamp": "00:19",
+        "description": "A second row is added. A new light green box appears directly below the 'Similar Motion' box. It contains the definition: 'Both flows are going in the same direction.'"
+      },
+      {
+        "timestamp": "00:40",
+        "description": "A light green box appears directly below the 'Contrary Motion' box. It contains the definition: 'Major and minor flows are going in opposite directions.'"
+      },
+      {
+        "timestamp": "01:04",
+        "description": "A light green box appears directly below the 'Oblique Motion' box, completing a two-row, three-column grid. It contains the definition: 'One flow is going sideways and the other is trending in between the sideways move.'"
+      }
+    ],
+    "eventCount": 7
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is a classification system for market dynamics called 'Counterpoint Types,' which categorizes the relationship between different groups of market participants, termed 'major and minor players' or 'flows.' There are three distinct types of motion: 1) Similar Motion, where both major and minor flows move in the same direction, indicating strong trend confluence. 2) Contrary Motion, where major and minor flows move in opposite directions, creating conflict zones. 3) Oblique Motion, where one flow moves sideways (ranging) while the other trends within that range.",
+    "deeperMeaning": "This framework provides a structured way to assess the strength and nature of a potential trade setup. 'Similar Motion' implies a high-probability environment for trend-following trades, as different market forces are aligned ('same trend bias'). 'Contrary Motion' highlights areas of significant conflict and potential volatility, such as major supply/demand zones, where reversals or complex pullbacks are likely; these situations are described as 'tricky' and require 'extreme care.' 'Oblique Motion' identifies ranging markets and suggests that opportunities exist by trading the smaller trend ('beating flow') within the established boundaries of the larger consolidation.",
+    "educationalGoal": "The educational objective is to equip traders with a foundational analytical tool to interpret market structure beyond simple price action. By classifying the interaction between different market flows (which can be interpreted as different timeframes or different classes of traders), a trader can better gauge the context of price movement. This systematic classification, subtly underscored by the visual reference to Aristotle, promotes a logical and structured approach to market analysis, helping traders to identify areas of confluence (opportunity) and divergence (risk) before committing to a trade. It serves as a building block for more advanced analysis and strategy development mentioned in 'future lectures'."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:28:04.884Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

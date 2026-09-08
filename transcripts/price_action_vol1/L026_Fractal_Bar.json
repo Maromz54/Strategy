@@ -1,0 +1,73 @@
+{
+  "id": "1xpdch5ZUazkfIlQRUQaqwaWCn00WkgN7",
+  "fileName": "26 - Fractal Bar.mp4",
+  "displayTitle": "Fractal Bar",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 26,
+    "globalLessonNumber": 26
+  },
+  "content": {
+    "fullText": "Fractal bar. Fractal bar is a pattern that implies a reversal divergence in a lower timeframe. Fractal bars happen with a lot of frequency in reversal points. This is a pure price action course, so we are not going to plot an RSI on the chart. The fractal bar was born by observing how reversal divergences happen within themselves, which is what I call fractal divergence. However, there is a way of seeing a fractal bar just by looking at price without the aid of the RSI. A bearish fractal bar is a candle that has a higher high than the previous candle and a bearish body. These two conditions must occur for you to classify a candle as a fractal bar. In this chart you can see a few of the bearish fractal bars contained in it. Notice how fractal bars occur before price moves significantly in the direction pointed by the fractal bar. A bullish fractal bar is a candle that has a lower low than the previous candle and a bullish candle body. Again, both conditions are necessary. In this chart, you can see some of the bullish fractal bars and how they appear at reversal points in price.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Fractal bar. Fractal bar is a pattern that implies a reversal divergence in a lower timeframe. Fractal bars happen with a lot of frequency in reversal points. This is a pure price action course, so we are not going to plot an RSI on the chart. The fractal bar was born by observing how reversal divergences happen within themselves, which is what I call fractal divergence. However, there is a way of seeing a fractal bar just by looking at price without the aid of the RSI. A bearish fractal bar is a candle that has a higher high than the previous candle and a bearish body. These two conditions must occur for you to classify a candle as a fractal bar. In this chart you can see a few of the bearish fractal bars contained in it.",
+        "startChar": 0,
+        "endChar": 733,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "Notice how fractal bars occur before price moves significantly in the direction pointed by the fractal bar. A bullish fractal bar is a candle that has a lower low than the previous candle and a bullish candle body. Again, both conditions are necessary. In this chart, you can see some of the bullish fractal bars and how they appear at reversal points in price.",
+        "startChar": 733,
+        "endChar": 1094,
+        "sequenceNumber": 1
+      }
+    ],
+    "chunkCount": 2,
+    "totalLength": 1094
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with a white background. A faded white bust of the philosopher Aristotle is centered. The text 'Fractal Bar' is superimposed over the image in black font."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A semi-transparent green text box appears over the Aristotle image. The text inside reads: 'A fractal bar is a pattern that implies a reversal divergence in a lower timeframe. Fractal bars happen with a lot of frequency in reversal points.'"
+      },
+      {
+        "timestamp": "00:32",
+        "description": "The slide changes to a semi-transparent red text box over the same faded Aristotle bust. The text inside defines the bearish pattern: 'Bearish Fractal Bar: Higher high than the previous candle + Bearish candle body'."
+      },
+      {
+        "timestamp": "00:43",
+        "description": "A candlestick chart is displayed for 'Australian Dollar / U.S. Dollar, 240, OOM'. The chart shows green (bullish) and red (bearish) candles. Several red, downward-pointing arrows are placed above specific red candles that meet the criteria for a bearish fractal bar, highlighting them as reversal signals at swing highs."
+      },
+      {
+        "timestamp": "00:56",
+        "description": "The slide changes to a semi-transparent light green text box over the faded Aristotle bust. The text inside defines the bullish pattern: 'Bullish Fractal Bar: Lower low than the previous candle + Bullish candle body'."
+      },
+      {
+        "timestamp": "01:04",
+        "description": "The same candlestick chart ('Australian Dollar / U.S. Dollar, 240, OOM') is displayed again. This time, several green, upward-pointing arrows are placed below specific green candles that meet the criteria for a bullish fractal bar, highlighting them as reversal signals at swing lows."
+      }
+    ],
+    "eventCount": 6
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the 'Fractal Bar,' a specific two-condition candlestick pattern used in pure price action trading to identify potential market reversals. It's presented as a method to spot a lower-timeframe reversal divergence directly on the chart without using indicators like the RSI. The two types are: \n1. **Bearish Fractal Bar:** A candle that makes a higher high than the previous candle but closes with a bearish body. \n2. **Bullish Fractal Bar:** A candle that makes a lower low than the previous candle but closes with a bullish body.",
+    "deeperMeaning": "The video advocates for a trading approach that relies on direct price interpretation rather than derivative indicators. The term 'Fractal' implies that this single-bar pattern is a microscopic representation of a larger, multi-bar price structure (reversal divergence), suggesting that market patterns repeat across different time scales. This concept aims to empower traders to identify high-probability turning points with a simple, clean chart, focusing on the immediate battle between buyers and sellers as represented by the candle's range and closing price.",
+    "educationalGoal": "The educational objective is to teach traders a specific, non-indicator-based entry signal—the Fractal Bar. This lesson fits within a broader curriculum on pure price action analysis. The purpose is to provide traders with a concrete, rule-based pattern for identifying potential exhaustion in a trend and the beginning of a reversal, thereby improving their timing for entries and exits."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:42:10.996Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

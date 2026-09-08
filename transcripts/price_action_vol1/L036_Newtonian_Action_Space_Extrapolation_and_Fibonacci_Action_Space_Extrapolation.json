@@ -1,0 +1,106 @@
+{
+  "id": "1zZpN5l9h45Ju1gs_NPi4jwAVMs-Oy79V",
+  "fileName": "36 - Newtonian Action Space Extrapolation and Fibonacci Action Space Extrapolation.mp4",
+  "displayTitle": "Newtonian Action Space Extrapolation and Fibonacci Action Space Extrapolation",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 36,
+    "globalLessonNumber": 36
+  },
+  "content": {
+    "fullText": "[00:00] When we create a simple line extrapolation, the space in between the two lines is called action space. Just like we extrapolate a line from another line, we can extrapolate an entire space between the lines as well. This is called action space extrapolation. [00:19] We have basically two types of action space extrapolations: [00:23] the Newtonian Action Space Extrapolation and the Fibonacci Action Space Extrapolation. [00:30] To create a Newtonian Action Space Extrapolation, [00:33] first, create a simple line extrapolation. The space between the lines is called action space. After that, extrapolate this space up or down equidistantly following Newton's third law to create a reaction space. [00:48] In this chart, we can see a very good example. [00:51] The lowest line in the chart is the original simple line extrapolation. You can see that there are real and abstract anchoring points in there marked by the green arrows. [01:00] The simple line extrapolation happens at the red arrow. [01:04] The space between these two lines is called action space. [01:08] Following Newton's third law of motion that states every action has an equal and opposite reaction, we extrapolate this action space upwards equidistantly to create a reaction space shown by the upper line in the chart. [01:22] Notice how these lines catch the edges of price in the future with an incredible precision as shown by the green rectangles. [01:30] Here we have another example with the original line, the simple extrapolation line, and the Newtonian action space extrapolation line pinpointing a very precise reversal point in price as shown by the green rectangle. [01:46] Fibonacci Action Space Extrapolation is drawn in the following way. [01:50] Create a simple line extrapolation. The space between the lines is called action space. After that, extrapolate this space up or down following a Fibonacci ratio to create the projection. [02:03] This is very similar to the Newtonian action space, but instead of Newton's third law of motion, we use a Fibonacci ratio to create a non-equidistant reaction space. [02:13] In this image, we have the original line marked by the red arrows and a simple extrapolation line marked by the green arrow forming the action space. [02:22] After that, a Fibonacci extension tool was grounded on the main price vectors that form the action space. [02:29] To create the Fibonacci action space extrapolation, or the reaction space so to speak, [02:35] we ground the third line on a Fibonacci ratio. [02:38] In this case, the third line was grounded on the 100% ratio line of the Fibonacci extension tool as shown by the red square. [02:47] Notice that the lines come out of the point where the Fibonacci ratio intersects with the point in time where the simple line extrapolation happens. [02:55] We can see price reacting to this line later on in the green rectangle. [03:00] In this next image, we follow the same logic. Instead of using a Fibonacci extension tool, we use a retracement tool to ground the reaction space lines in ratios below 100%. [03:12] We can see the ratios of 78.6% and 61.8% project future retracements in the trend in question. [03:21] Again, pay attention to the detail that the Fibonacci extrapolation lines in the red and blue come out of the intersection between the Fib ratios and the grounding position of the simple extrapolation line.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:00] When we create a simple line extrapolation, the space in between the two lines is called action space. Just like we extrapolate a line from another line, we can extrapolate an entire space between the lines as well. This is called action space extrapolation. [00:19] We have basically two types of action space extrapolations: [00:23] the Newtonian Action Space Extrapolation and the Fibonacci Action Space Extrapolation. [00:30] To create a Newtonian Action Space Extrapolation, [00:33] first, create a simple line extrapolation. The space between the lines is called action space. After that, extrapolate this space up or down equidistantly following Newton's third law to create a reaction space. [00:48] In this chart, we can see a very good example.",
+        "startChar": 0,
+        "endChar": 763,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "[00:51] The lowest line in the chart is the original simple line extrapolation. You can see that there are real and abstract anchoring points in there marked by the green arrows. [01:00] The simple line extrapolation happens at the red arrow. [01:04] The space between these two lines is called action space. [01:08] Following Newton's third law of motion that states every action has an equal and opposite reaction, we extrapolate this action space upwards equidistantly to create a reaction space shown by the upper line in the chart. [01:22] Notice how these lines catch the edges of price in the future with an incredible precision as shown by the green rectangles.",
+        "startChar": 763,
+        "endChar": 1433,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "[01:30] Here we have another example with the original line, the simple extrapolation line, and the Newtonian action space extrapolation line pinpointing a very precise reversal point in price as shown by the green rectangle. [01:46] Fibonacci Action Space Extrapolation is drawn in the following way. [01:50] Create a simple line extrapolation. The space between the lines is called action space. After that, extrapolate this space up or down following a Fibonacci ratio to create the projection. [02:03] This is very similar to the Newtonian action space, but instead of Newton's third law of motion, we use a Fibonacci ratio to create a non-equidistant reaction space.",
+        "startChar": 1433,
+        "endChar": 2105,
+        "sequenceNumber": 2
+      },
+      {
+        "id": "chunk_3",
+        "text": "[02:13] In this image, we have the original line marked by the red arrows and a simple extrapolation line marked by the green arrow forming the action space. [02:22] After that, a Fibonacci extension tool was grounded on the main price vectors that form the action space. [02:29] To create the Fibonacci action space extrapolation, or the reaction space so to speak, [02:35] we ground the third line on a Fibonacci ratio. [02:38] In this case, the third line was grounded on the 100% ratio line of the Fibonacci extension tool as shown by the red square. [02:47] Notice that the lines come out of the point where the Fibonacci ratio intersects with the point in time where the simple line extrapolation happens. [02:55] We can see price reacting to this line later on in the green rectangle.",
+        "startChar": 2105,
+        "endChar": 2897,
+        "sequenceNumber": 3
+      },
+      {
+        "id": "chunk_4",
+        "text": "[03:00] In this next image, we follow the same logic. Instead of using a Fibonacci extension tool, we use a retracement tool to ground the reaction space lines in ratios below 100%. [03:12] We can see the ratios of 78.6% and 61.8% project future retracements in the trend in question. [03:21] Again, pay attention to the detail that the Fibonacci extrapolation lines in the red and blue come out of the intersection between the Fib ratios and the grounding position of the simple extrapolation line.",
+        "startChar": 2897,
+        "endChar": 3396,
+        "sequenceNumber": 4
+      }
+    ],
+    "chunkCount": 5,
+    "totalLength": 3396
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with a faint, white marble bust of a bearded classical philosopher (likely Aristotle) in the background. Text reads: 'Newtonian Action Space Extrapolation & Fibonacci Action Space Extrapolation'."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A green rectangular slide appears over the philosopher's bust. It contains a definition titled 'Action Space Extrapolations:' followed by the text: 'When we create a simple line extrapolation, the space in between the two lines is called action space. Just like we extrapolate a line from another line, we can extrapolate an entire space between the lines as well. This is called action space extrapolation.'"
+      },
+      {
+        "timestamp": "00:20",
+        "description": "A diagram with a main green bar labeled 'Action Space Extrapolations'. Below it, two smaller green boxes appear sequentially, labeled 'Newtonian Action Space Extrapolation' and 'Fibonacci Action Space Extrapolation'."
+      },
+      {
+        "timestamp": "00:31",
+        "description": "A green rectangular slide with the title 'Newtonian Action Space Extrapolation:' and the definition: 'Create a simple line extrapolation. The space between the lines is called action space. After that, extrapolate this space up or down equidistantly following Newton's third law to create a reaction space.'"
+      },
+      {
+        "timestamp": "00:48",
+        "description": "A candlestick chart (FX:USDCHF, 60) is shown. A channel is drawn. The bottom line is labeled 'original line' with three green arrows pointing to its anchoring points (lows). The middle line is created from an extrapolation point indicated by a red arrow. The space between these two lines is labeled 'ACTION SPACE'. A third, parallel line is drawn above, creating a channel labeled 'REACTION SPACE'. Green rectangles highlight where price interacts precisely with the middle and top lines in the future."
+      },
+      {
+        "timestamp": "01:30",
+        "description": "A second candlestick chart (FX:USDCHF, 60) example of Newtonian extrapolation. An upward-sloping channel is shown. The 'Original Line' is the bottom line. The 'Simple Extrapolation Line' is the top line, creating the 'ACTION SPACE'. A 'Newtonian Extrapolation Line' is projected equidistantly below the 'Original Line', creating the 'REACTION SPACE'. A large green rectangle highlights a precise price reversal off this bottom line."
+      },
+      {
+        "timestamp": "01:46",
+        "description": "A green rectangular slide with the title 'Fibonacci Action Space Extrapolation:' and the definition: 'Create a simple line extrapolation. The space between the lines is called action space. After that, extrapolate this space up or down following a Fibonacci ratio to create the projection.'"
+      },
+      {
+        "timestamp": "02:13",
+        "description": "A candlestick chart (FX:USDCHF, 60) shows a downward trend. An 'Original Line' is drawn across two highs (marked with red arrows). A 'Simple Extrapolation Line' is drawn through a subsequent lower high (marked with a green arrow). The space between is labeled 'ACTION SPACE'. A Fibonacci Extension tool is drawn based on the move that created the action space. A 'Fibonacci Extrapolation Line' is drawn originating from the intersection of the 1.000 (100%) level of the Fib tool and the vertical time coordinate of the simple extrapolation's anchor point. This creates the 'REACTION SPACE'. A green square highlights where price finds support on this line."
+      },
+      {
+        "timestamp": "03:00",
+        "description": "A candlestick chart (FX:USDCHF, 60) shows an upward trend. An 'Original Line' connects two lows. A 'Simple Extrapolation' line connects two highs. A Fibonacci Retracement tool is drawn over the main vector leading to the simple extrapolation. Two 'Fibonacci Extrapolation Lines' are projected: a blue one from the 61.8% retracement level and a red one from the 78.6% level. Both lines originate from the intersection of their respective Fib levels and the vertical time coordinate of the simple extrapolation's anchor. Red rectangles show how price respects these projected lines as support in the future."
+      }
+    ],
+    "eventCount": 9
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is 'Action Space Extrapolation,' a method for projecting future price channels based on an initial, existing channel. An 'Action Space' is defined as the channel between an original trend line and a simple extrapolated line. This space can then be projected to create a 'Reaction Space' where future price action is expected to be contained. Two primary methods for this projection are taught: 1) Newtonian Extrapolation, which projects an equidistant channel based on Newton's third law of 'equal and opposite reaction,' and 2) Fibonacci Extrapolation, which projects non-equidistant channels based on key Fibonacci ratios (e.g., 61.8%, 78.6%, 100%) applied to the price vectors that formed the initial action space.",
+    "deeperMeaning": "The video implies that market movements are not chaotic but possess an underlying geometric order and predictable harmonic structure. The use of 'Newtonian' and 'Fibonacci' suggests that principles from physics and mathematics can be applied to forecast price behavior. The concept of 'Action' leading to a predictable 'Reaction' frames market dynamics as a cause-and-effect system. This deterministic view suggests that traders can anticipate future zones of support and resistance with high precision by correctly identifying and extrapolating these geometric structures.",
+    "educationalGoal": "The educational objective is to teach traders an advanced technical analysis technique for price projection. By moving beyond single trend lines to entire 'spaces' or channels, the video provides a framework for identifying high-probability reversal and continuation zones in the future. This methodology aims to give traders a predictive edge by mapping out the geometric path price is likely to follow, thereby improving the timing of entries and exits."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:49:17.817Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

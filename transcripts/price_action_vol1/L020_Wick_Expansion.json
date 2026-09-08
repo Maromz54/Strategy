@@ -1,0 +1,54 @@
+{
+  "id": "1OIZ8jj4lRJs9nT8jzYt8J6MYIZUvhogs",
+  "fileName": "20 - Wick Expansion.mp4",
+  "displayTitle": "Wick Expansion",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 20,
+    "globalLessonNumber": 20
+  },
+  "content": {
+    "fullText": "A wick expansion is when one or more large candle wicks are surrounded by small wicks. It means there is some sort of pressure in the area that might be respected again later.\n\nIn this image, you can see that we have a large candle wick surrounded by small candle wicks. This means that at some point, price was way up there near the tip of the candle with the large wick, but it got smashed down by selling pressure. By extending a zone out of this pressure area, we can see how price comes back to it later and respects it in the same way. The selling pressure at that price level was respected inside the short-term memory window of the market.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "A wick expansion is when one or more large candle wicks are surrounded by small wicks. It means there is some sort of pressure in the area that might be respected again later.\n\nIn this image, you can see that we have a large candle wick surrounded by small candle wicks. This means that at some point, price was way up there near the tip of the candle with the large wick, but it got smashed down by selling pressure. By extending a zone out of this pressure area, we can see how price comes back to it later and respects it in the same way. The selling pressure at that price level was respected inside the short-term memory window of the market.",
+        "startChar": 0,
+        "endChar": 647,
+        "sequenceNumber": 0
+      }
+    ],
+    "chunkCount": 1,
+    "totalLength": 647
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title slide is displayed with the text \"Wick Expansion\" in black font, centered over a faded, white-grey marble bust of the philosopher Aristotle, against a plain light grey background."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "The text \"Wick Expansion\" fades out. A green rectangular box with a black border fades in over the bust of Aristotle. Inside the box, the following definition appears in white text: \"A wick expansion is when one or more large candle wicks are surrounded by small wicks. It means there is some sort of pressure in the area that might be respected again later.\""
+      },
+      {
+        "timestamp": "00:13",
+        "description": "The slide transitions to a candlestick chart for EUR/USD on a 240-minute timeframe. The chart displays green (bullish) and red (bearish) candles. A specific area is highlighted to illustrate the concept. A red downward-pointing arrow points to a candle with a very long upper wick. This candle is labeled as the \"Wick Expansion\". Two adjacent candles with small wicks are marked with a blue letter 'S'. A light purple rectangular zone is drawn from the high of the expansion wick, extending horizontally to the right. Later in the price action, another candle's upper wick penetrates this purple zone before closing lower, illustrating a 'respect' of the zone. A text box on the chart reads: \"The S represent the candles with small wicks, and the red arrow represents the candle where the wick expanded. We can extend a zone out of the expansion and observe how price 'respects' that pressure zone in the future.\""
+      }
+    ],
+    "eventCount": 3
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core trading concept is the 'Wick Expansion,' a specific candlestick pattern that identifies a significant 'pressure zone.' The pattern is defined as one or more candles with large wicks being immediately surrounded by candles with small wicks. This visual anomaly indicates a strong rejection of a price level, creating a zone of supply or demand that is likely to be revisited and 'respected' by price in the near future.",
+    "deeperMeaning": "The deeper implication is that market price action has a 'short-term memory.' A Wick Expansion is the visible footprint of a significant battle between buyers and sellers, resulting in a decisive victory for one side at a specific price level. This leaves behind a concentration of orders or an order flow imbalance. By extending a zone from this point of intense pressure, traders can anticipate that when price returns to this level, the same pressure will likely re-emerge, making it a high-probability area for reversals or pauses. It is a method for identifying hidden but potent support and resistance levels based on price velocity and rejection rather than just candle bodies.",
+    "educationalGoal": "The educational objective is to teach traders how to identify and interpret the Wick Expansion pattern as a tool for technical analysis. The purpose is to provide a specific, actionable setup for pinpointing key price zones where market sentiment previously shifted dramatically. By learning to spot this pattern, traders can improve their ability to forecast future price reactions and define strategic areas for placing entries, exits, or stop-loss orders. The inclusion of an Aristotle bust may be a branding element to suggest a trading philosophy based on first principles, logic, and the observation of causal relationships in market behavior."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:38:13.789Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

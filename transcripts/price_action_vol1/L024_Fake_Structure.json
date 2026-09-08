@@ -1,0 +1,58 @@
+{
+  "id": "1AiI5GP1hczLACWf7bwfxbJPIVtA5PQtB",
+  "fileName": "24 - Fake Structure.mp4",
+  "displayTitle": "Fake Structure",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 24,
+    "globalLessonNumber": 24
+  },
+  "content": {
+    "fullText": "Fake structure.\n\nA fake structure is when price pierces and fails to close above or below the last high/low. Fake structures are one of the tools that market makers use to push retail traders 'off the cliff', metaphorically speaking.\n\nRemember that the fake structure is not the extreme that spikes, but the previous extreme.\n\nFor example, in this image, we can see a fake low being formed, because the high that follows the low in question spikes and fails to close above the high that precedes the fake low in question.\n\nIn this other image, we can see a fake high being formed because the low that follows it spikes and fails to close below the low that precedes the fake high in question.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Fake structure.\n\nA fake structure is when price pierces and fails to close above or below the last high/low. Fake structures are one of the tools that market makers use to push retail traders 'off the cliff', metaphorically speaking.\n\nRemember that the fake structure is not the extreme that spikes, but the previous extreme.\n\nFor example, in this image, we can see a fake low being formed, because the high that follows the low in question spikes and fails to close above the high that precedes the fake low in question.\n\nIn this other image, we can see a fake high being formed because the low that follows it spikes and fails to close below the low that precedes the fake high in question.",
+        "startChar": 0,
+        "endChar": 692,
+        "sequenceNumber": 0
+      }
+    ],
+    "chunkCount": 1,
+    "totalLength": 692
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title card with a light grey background. A faint, white, high-contrast image of a classical bust, likely of the philosopher Aristotle, is in the center. The text \"Fake Structure\" is overlaid in black."
+      },
+      {
+        "timestamp": "00:04",
+        "description": "A semi-transparent green text box appears over the bust of Aristotle. The box contains the definition: \"A fake structure is when price pierces and fails to close above/below the last high/low. Fake structures are one of the tools that market makers use to push retail traders “off the cliff”."
+      },
+      {
+        "timestamp": "00:23",
+        "description": "A candlestick chart for \"Euro / U.S. Dollar, 240, FXCM\" is displayed. The chart demonstrates a 'Fake Low'. A key swing high is marked with the label \"High\" and a horizontal red line. A subsequent candle has a long upper wick that pierces this red line. An annotation points to this wick, stating, \"Price pierces last high but doesn't close above it\". A prior swing low is labeled \"Fake Low\"."
+      },
+      {
+        "timestamp": "00:35",
+        "description": "A different candlestick chart for \"Euro / U.S. Dollar, 240, FXCM\" is shown to illustrate a 'Fake High'. A key swing low is marked with the label \"Low\" and a horizontal red line. A subsequent candle has a long lower wick that pierces this red line. An annotation points to this wick, stating, \"Price pierces the last low but doesn't close below it\". A prior swing high is labeled \"Fake High\"."
+      }
+    ],
+    "eventCount": 4
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the identification of a 'Fake Structure' (a fake high or a fake low) in price action. This pattern is defined not by the initial high or low itself, but by the behavior of the subsequent price swing. A structure point (e.g., a low) is confirmed as 'fake' only when the next major swing in the opposite direction (a high) attempts to break the preceding major structure point (the previous high) but fails to close beyond it, merely piercing it with a wick. This failure to close indicates a lack of follow-through and validates the initial point as a 'fake' structure.",
+    "deeperMeaning": "The concept of 'Fake Structure' implies that markets are often manipulated. The video explicitly attributes these patterns to 'market makers' aiming to trap 'retail traders'. The piercing of a key high or low is designed to trigger stop-loss orders and entice breakout traders into bad positions (a 'liquidity grab'). For a trader, this means that a spike through a level is not confirmation of a breakout; the candle's close is paramount. Recognizing a fake structure can serve as a powerful counter-trend signal, suggesting that the move in the direction of the spike has failed and a reversal is likely.",
+    "educationalGoal": "The educational objective is to teach traders how to distinguish between a legitimate break of market structure and a manipulative price spike designed to mislead participants. By defining and illustrating 'Fake Structures', the video aims to equip traders with a tool to avoid common traps and potentially profit from the resulting reversals. It fits into a broader curriculum of advanced price action analysis, focusing on market mechanics and the psychological games played between institutional and retail traders."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:40:45.579Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

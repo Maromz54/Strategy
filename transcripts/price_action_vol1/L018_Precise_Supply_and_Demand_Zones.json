@@ -1,0 +1,65 @@
+{
+  "id": "1YqDwyz-bd3KThPhTvx890hrZpqQ6H2hh",
+  "fileName": "18 - Precise Supply and Demand Zones.mp4",
+  "displayTitle": "Precise Supply and Demand Zones",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 18,
+    "globalLessonNumber": 18
+  },
+  "content": {
+    "fullText": "[00:00] The precise supply and demand zone is determined by the inward and outward frequencies found on the inflection point between two price vectors. Some people believe that supply and demand zones is a loose concept, and it is if you don't know about inward and outward frequencies. However, when you do know about these two concepts, you can use them to draw precise supply and demand zones. Once again, using the same example from the previous lectures for continuity, notice how the combination of inward and outward frequency lines form a zone between them. This zone, extended into the future, projects a very precise reversal area for price, as you can see in the blue rectangle. In this next image, we can see the other example where price starts to reverse as soon as it touches the inward frequency line. That means that in this case, the inward line of buyers was enough to make price go up. To decide which one of the lines you will rely on, you need other elements in the analysis, like more complex line work, as we are going to learn later on. The point is that there is a very precise way of drawing supply and demand zones, and that takes some of the guesswork out of the analysis, which is a huge advantage. If you ever traded with supply and demand zones of any type, you certainly know what I'm talking about.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:00] The precise supply and demand zone is determined by the inward and outward frequencies found on the inflection point between two price vectors. Some people believe that supply and demand zones is a loose concept, and it is if you don't know about inward and outward frequencies. However, when you do know about these two concepts, you can use them to draw precise supply and demand zones. Once again, using the same example from the previous lectures for continuity, notice how the combination of inward and outward frequency lines form a zone between them. This zone, extended into the future, projects a very precise reversal area for price, as you can see in the blue rectangle.",
+        "startChar": 0,
+        "endChar": 690,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "In this next image, we can see the other example where price starts to reverse as soon as it touches the inward frequency line. That means that in this case, the inward line of buyers was enough to make price go up. To decide which one of the lines you will rely on, you need other elements in the analysis, like more complex line work, as we are going to learn later on. The point is that there is a very precise way of drawing supply and demand zones, and that takes some of the guesswork out of the analysis, which is a huge advantage. If you ever traded with supply and demand zones of any type, you certainly know what I'm talking about.",
+        "startChar": 690,
+        "endChar": 1332,
+        "sequenceNumber": 1
+      }
+    ],
+    "chunkCount": 2,
+    "totalLength": 1332
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with a white background. In the center, a faded, black-and-white bust of the philosopher Aristotle is visible. Overlaying the image is the text 'Precise Supply and Demand Zones' in a dark gray sans-serif font."
+      },
+      {
+        "timestamp": "00:02",
+        "description": "The title text fades out and is replaced by a semi-transparent green rectangle. Inside the rectangle, the following definition appears in black text: 'The supply and demand zone is determined by the inward and outward frequencies found on the inflection point between two price vectors.'"
+      },
+      {
+        "timestamp": "00:25",
+        "description": "A candlestick chart for 'FX:EURUSD, 240' is displayed. An inflection point (a swing high) is identified. Two black lines represent price vectors: one moving up to the high, and one moving down from it. At the peak, two horizontal red lines are drawn, labeled 'Outward' (the higher line) and 'Inward' (the lower line). The area between these two lines is labeled 'Supply and Demand Zone'. The zone is extended to the right, where a large red candlestick with a long upper wick pierces into the zone and is rejected, highlighted by a blue rectangle."
+      },
+      {
+        "timestamp": "00:43",
+        "description": "A different candlestick chart for 'FX:EURUSD, 240' is shown. This chart displays an inflection point at a swing low. Two black lines illustrate price vectors: one moving down to the low, and one moving up from it. At the bottom of the V-shape, two horizontal red lines are drawn. The upper line is labeled 'Inward' and the lower line is labeled 'Outward'. The area between them is extended to the right. A blue rectangle highlights where future price action comes down to touch the 'Inward' line and then reverses upwards. Text at the bottom of the chart reads: 'The supply and demand zone is formed by the inward and outward frequency lines found on the inflection point between two vectors.'"
+      }
+    ],
+    "eventCount": 4
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is that supply and demand zones are not arbitrary price areas but can be precisely defined and drawn using a specific methodology. This method identifies an 'inflection point' (a swing high or low) between two 'price vectors' and uses the 'inward' and 'outward frequency lines' at that point to create a definitive, bounded zone. The space between these two frequency lines constitutes the precise supply or demand zone.",
+    "deeperMeaning": "This methodology implies that market price action has a hidden geometric structure that can be precisely measured. By rejecting the 'loose concept' of subjective zone-drawing, it positions this technique as a more scientific or objective approach to technical analysis. It suggests that inflection points contain all the necessary information ('inward and outward frequencies') to forecast future price reaction levels with high accuracy. The use of a bust of Aristotle subtly frames this approach within a philosophical tradition of seeking order, causation, and first principles in observable phenomena, lending it an air of intellectual rigor. The ultimate implication is that trading can be less about guesswork and more about applying a defined set of rules to a measurable market structure.",
+    "educationalGoal": "The educational objective is to teach a specific, rule-based technique for identifying and drawing supply and demand zones, moving beyond generic theory to an actionable skill. This segment serves as a foundational building block in a larger trading system that likely relies heavily on these 'frequency lines' and 'price vectors'. By demonstrating how this method provides precise entry/reversal points, the video aims to build the student's confidence in the system's ability to reduce ambiguity and improve analytical clarity, which is presented as a 'huge advantage' over conventional approaches."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:36:55.590Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

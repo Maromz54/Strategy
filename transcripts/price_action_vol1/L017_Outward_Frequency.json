@@ -1,0 +1,69 @@
+{
+  "id": "1vvdkq0UvHOiQx79EbdAYzIQM148c9lUK",
+  "fileName": "17 - Outward Frequency.mp4",
+  "displayTitle": "Outward Frequency",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 17,
+    "globalLessonNumber": 17
+  },
+  "content": {
+    "fullText": "The outward frequency is the frequency that happens on the outside between two price vectors. In this illustration, we can see where the outside between two vectors is. Using the same example from the last lecture about inward frequency, we can see that on the outside between the two black vectors, we have a frequency between those four candles as it is marked by the red arrows. That represents the outer line of sellers in this case. Notice how price also touches the outward frequency line later on in the blue rectangle. In this other example, we identified the outward frequency between the two candles as shown by the green arrows. But price fails to reach it in the blue rectangle. Remember from the last lecture that in this example, price touched the inward frequency, but as you can see here, it failed to touch the outward frequency. In the next lecture, you will understand why it's important to identify both inward and outward frequencies of solid structures.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "The outward frequency is the frequency that happens on the outside between two price vectors. In this illustration, we can see where the outside between two vectors is. Using the same example from the last lecture about inward frequency, we can see that on the outside between the two black vectors, we have a frequency between those four candles as it is marked by the red arrows. That represents the outer line of sellers in this case. Notice how price also touches the outward frequency line later on in the blue rectangle. In this other example, we identified the outward frequency between the two candles as shown by the green arrows. But price fails to reach it in the blue rectangle.",
+        "startChar": 0,
+        "endChar": 691,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "Remember from the last lecture that in this example, price touched the inward frequency, but as you can see here, it failed to touch the outward frequency. In the next lecture, you will understand why it's important to identify both inward and outward frequencies of solid structures.",
+        "startChar": 691,
+        "endChar": 975,
+        "sequenceNumber": 1
+      }
+    ],
+    "chunkCount": 2,
+    "totalLength": 975
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with the text 'Outward Frequency' centered over a faint, white marble bust of Aristotle on a light gray background."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A green rectangular box appears over the Aristotle bust, containing the text: 'The outward frequency is the frequency that happens on the outside between two price vectors.'"
+      },
+      {
+        "timestamp": "00:09",
+        "description": "A diagram with two connected lines forming an 'M' shape appears over the Aristotle bust. The peaks are labeled 'Outside', and the valleys are labeled 'Inside'."
+      },
+      {
+        "timestamp": "00:13",
+        "description": "A candlestick chart for 'Euro / U.S. Dollar, 240, FXCM' is displayed. Two black lines are drawn, forming an inverted V-shape (a peak) in the price action. A red curved arrow above the peak is labeled 'Outside between two vectors'. Two red arrows point down to the highest wicks within this structure. A red horizontal line is drawn from this high across the chart. A blue rectangle highlights where a future candle's wick touches this red line. Text on the chart reads: 'This line shows the highest frequency on the outside between those two black vectors'."
+      },
+      {
+        "timestamp": "00:35",
+        "description": "A different candlestick chart for 'Euro / U.S. Dollar, 240, FXCM' is displayed. Two black lines are drawn, forming a V-shape (a trough). A red curved line below the trough is labeled 'The outside between the black vectors'. Two green arrows point up to the lowest wick within this structure. A red horizontal line is drawn from this low across the chart. A blue rectangle highlights a later point in time where the price moves down but fails to reach the red line. Text on the chart reads: 'This line represents the outward frequency found between the two black vectors. The green arrows show the lowest frequency on the outside inflection point between the vectors'."
+      }
+    ],
+    "eventCount": 5
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is 'Outward Frequency,' defined as the most extreme price level (highest high or lowest low) found on the exterior of a two-vector price structure. In an uptrending V-shape (trough), the outward frequency is the lowest low. In a downtrending inverted V-shape (peak), it's the highest high. This price level is then projected forward in time to act as a potential future support or resistance level that the market may react to.",
+    "deeperMeaning": "This methodology implies that market geometry and structure create significant, predictable price levels. The market has a 'memory' of these extreme points within specific formations ('vectors'). A future interaction with an 'outward frequency' line is a significant event; either a touch and reversal (confirming its validity) or a failure to reach it (signaling weakness or that another structural frequency, like the 'inward frequency,' is in control). This provides a more nuanced view of support and resistance, deriving levels from the specific shape and flow of price action rather than just horizontal swing points.",
+    "educationalGoal": "The educational objective is to teach a specific, proprietary technical analysis tool for identifying key price levels. This lesson builds upon a previous concept ('inward frequency') and is part of a larger trading system focused on 'vectors' and 'solid structures'. The goal is to equip the trader with a precise method for forecasting potential market turning points by understanding the inherent frequencies created by price movement geometry. The use of the Aristotle bust suggests the system aims for a logical, structured, and perhaps philosophical approach to understanding market causality and form."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:36:12.434Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

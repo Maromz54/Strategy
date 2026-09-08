@@ -1,0 +1,70 @@
+{
+  "id": "1jwQgAOFOLl4So30R2-MSfZKq2JrOMv60",
+  "fileName": "37 - Vector Space Extrapolation.mp4",
+  "displayTitle": "Vector Space Extrapolation",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 37,
+    "globalLessonNumber": 37
+  },
+  "content": {
+    "fullText": "Vector space extrapolations are methods of discovering new anchoring points and line angles using different types of geometry, the idea of abstract vector spaces in algebra, Fibonacci ratios, Newtonian laws of motion and so on. We have four types of vector space extrapolations and we'll study each one in individual lectures. We have negative extrapolation, vector decomposition, vector addition, and circular decomposition. In the next lecture, we are going to study the negative extrapolation.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Vector space extrapolations are methods of discovering new anchoring points and line angles using different types of geometry, the idea of abstract vector spaces in algebra, Fibonacci ratios, Newtonian laws of motion and so on. We have four types of vector space extrapolations and we'll study each one in individual lectures. We have negative extrapolation, vector decomposition, vector addition, and circular decomposition. In the next lecture, we are going to study the negative extrapolation.",
+        "startChar": 0,
+        "endChar": 496,
+        "sequenceNumber": 0
+      }
+    ],
+    "chunkCount": 1,
+    "totalLength": 496
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title slide is displayed. The text 'Vector Space Extrapolation' is centered over a faded, black and white marble bust of the philosopher Aristotle. The background is a light grey gradient."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A semi-transparent green rectangle appears over the bust, containing a definition. The text reads: 'Vector Space Extrapolation: Vector space extrapolations are methods of discovering new anchoring points and line angles using different types of geometry, the idea of abstract vector spaces in algebra, Fibonacci ratios, Newtonian laws of motion and so on.'"
+      },
+      {
+        "timestamp": "00:19",
+        "description": "The green definition box fades away. A horizontal yellow bar appears with the text 'Vector Space Extrapolations'."
+      },
+      {
+        "timestamp": "00:25",
+        "description": "A green bar appears directly below the yellow bar, containing the text 'Negative Extrapolation'."
+      },
+      {
+        "timestamp": "00:27",
+        "description": "A second green bar appears below the first, with the text 'Vector Decomposition'."
+      },
+      {
+        "timestamp": "00:29",
+        "description": "A third green bar appears, with the text 'Vector Addition'."
+      },
+      {
+        "timestamp": "00:31",
+        "description": "A fourth and final green bar appears at the bottom of the list, with the text 'Circular Decomposition'. The final visual is a list of the four types of vector space extrapolations."
+      }
+    ],
+    "eventCount": 7
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the introduction of 'Vector Space Extrapolation,' a framework for market analysis. It is defined as a method for identifying new significant price levels ('anchoring points') and trend angles by applying principles from diverse fields including geometry, abstract algebra (vector spaces), mathematics (Fibonacci ratios), and classical physics (Newtonian laws of motion). The video serves as a curriculum outline, introducing four specific techniques that fall under this umbrella: Negative Extrapolation, Vector Decomposition, Vector Addition, and Circular Decomposition.",
+    "deeperMeaning": "The use of a bust of Aristotle and references to advanced concepts from mathematics and physics implies that this trading methodology is grounded in first principles and a search for underlying, universal laws governing market movement. It positions the approach as a rigorous, scientific, and almost philosophical endeavor, moving beyond simple technical indicators. The term 'extrapolation' suggests these techniques are used for forecasting future price levels by projecting from known market structures. The implication is that markets are not random but possess a hidden geometric and physical order that can be discovered and exploited through these multi-disciplinary methods.",
+    "educationalGoal": "This video functions as an introductory module and a table of contents for an advanced section of a trading course. Its objective is to define the overarching philosophy of Vector Space Extrapolation and to provide a clear roadmap of the four specific, proprietary techniques that will be taught in subsequent lessons. It sets the intellectual tone for the upcoming material, framing it as a sophisticated and deeply analytical approach to understanding and trading financial markets."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:49:51.690Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

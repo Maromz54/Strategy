@@ -1,0 +1,58 @@
+{
+  "id": "1ajOjlAvcQuT8ZMT9-7HYKqYY6JpoBrzf",
+  "fileName": "28 - Outside Bar.mp4",
+  "displayTitle": "Outside Bar",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 28,
+    "globalLessonNumber": 28
+  },
+  "content": {
+    "fullText": "An outside bar is a bar that fully engulfs the previous bar. It signals a sudden burst of volatility. Outside bars are also considered to be weak signals, and they can show their power when combined with other elements that are more powerful and sophisticated, like the techniques you are learning in this course. As you can see in the chart, outside bars also happen in a sort of random way across time.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "An outside bar is a bar that fully engulfs the previous bar. It signals a sudden burst of volatility. Outside bars are also considered to be weak signals, and they can show their power when combined with other elements that are more powerful and sophisticated, like the techniques you are learning in this course. As you can see in the chart, outside bars also happen in a sort of random way across time.",
+        "startChar": 0,
+        "endChar": 404,
+        "sequenceNumber": 0
+      }
+    ],
+    "chunkCount": 1,
+    "totalLength": 404
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title slide is displayed with the text \"Outside Bar\" in a black, sans-serif font. The background is a faint, out-of-focus, black-and-white bust of the philosopher Aristotle against a light grey backdrop."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A semi-transparent green rectangle appears over the image of Aristotle, containing the text: \"An outside bar is a bar that fully engulfs the previous bar. It signals a sudden burst of volatility.\""
+      },
+      {
+        "timestamp": "00:10",
+        "description": "The text within the green rectangle is expanded. The full text now reads: \"An outside bar is a bar that fully engulfs the previous bar. It signals a sudden burst of volatility. Outside bars are also considered to be weak signals, and they can show their power when combined with other elements that are more powerful and sophisticated, like the techniques you are learning in this course.\""
+      },
+      {
+        "timestamp": "00:22",
+        "description": "The screen transitions to a candlestick chart for \"Euro / U.S. Dollar, 60, FXCM\". The chart displays price action with green (bullish) and red (bearish) candles. Two small icons are visible on the chart, likely indicating fractal highs and lows, but they are not the focus of the narration."
+      }
+    ],
+    "eventCount": 4
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The main point is to define the 'Outside Bar' as a two-bar candlestick pattern where the second bar's range (high to low) completely encompasses or 'engulfs' the range of the preceding bar. This pattern is identified as a signal of a sudden increase in market volatility. However, the video immediately qualifies this by stating that the outside bar is, by itself, a 'weak signal' for trading decisions.",
+    "deeperMeaning": "The deeper implication is a cautionary note against simplistic pattern trading. While the outside bar is a recognizable event, its predictive value is low when used in isolation. The video suggests that its significance is not inherent but contextual. Its 'power' is only unlocked when it serves as a confirmation or confluence factor within a more robust and sophisticated analytical framework. This implies that traders should not base entries or exits solely on the appearance of an outside bar, but rather see it as a piece of information that must be validated by other, more reliable techniques.",
+    "educationalGoal": "The educational objective is to introduce a common piece of price action terminology (the outside bar) while simultaneously managing the student's expectations about its utility. The lesson serves to build a foundational vocabulary but also to guide the student away from over-reliance on simple patterns. By framing it as a 'weak signal' that needs support from 'more powerful' techniques, the video reinforces the core philosophy of the course: that successful trading requires a multi-faceted, sophisticated methodology rather than just recognizing basic chart patterns."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:43:27.157Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "1f-I3ZlpSLOgg-sGQmwUest00H45qDQsK",
+  "fileName": "49 - Two Rules for Risk and Psychology.mp4",
+  "displayTitle": "Two Rules for Risk and Psychology",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 49,
+    "globalLessonNumber": 49
+  },
+  "content": {
+    "fullText": "Risk management and trading psychology are deeply associated. The fact is that the level of risk we assume is directly proportional to how amplified our emotions and heuristics get in trading. That simply means that if you want to avoid the pitfalls of trading psychology, which are many, you must use low to moderate risk. If you risk too much of your capital in each trade, it would be like walking on the edge of a cliff. One wrong movement and you're done. Walking on the edge of a cliff is also pretty nerve-wracking because you know that one small mistake can kill you. The other rule is using a decent risk-reward ratio to make your profits much larger than your losses, which will mean that when you make a profit, you will be able to make a few small losses until you break even. In other words, peace of mind and less psychological pressure. In summary, don't risk too much and don't try to scalp the markets. If you want to keep things simple in terms of risk management and trading psychology, following these two rules religiously will get the job done.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Risk management and trading psychology are deeply associated. The fact is that the level of risk we assume is directly proportional to how amplified our emotions and heuristics get in trading. That simply means that if you want to avoid the pitfalls of trading psychology, which are many, you must use low to moderate risk. If you risk too much of your capital in each trade, it would be like walking on the edge of a cliff. One wrong movement and you're done. Walking on the edge of a cliff is also pretty nerve-wracking because you know that one small mistake can kill you. The other rule is using a decent risk-reward ratio to make your profits much larger than your losses, which will mean that when you make a profit, you will be able to make a few small losses until you break even.",
+        "startChar": 0,
+        "endChar": 789,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "In other words, peace of mind and less psychological pressure. In summary, don't risk too much and don't try to scalp the markets. If you want to keep things simple in terms of risk management and trading psychology, following these two rules religiously will get the job done.",
+        "startChar": 789,
+        "endChar": 1066,
+        "sequenceNumber": 1
+      }
+    ],
+    "chunkCount": 2,
+    "totalLength": 1066
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "The video opens on a title slide with a light grey background. In the center is a faded, white marble bust of a classical philosopher (resembling Aristotle). The text 'Two Rules for Risk and Psychology' is written in a dark, sans-serif font across the center of the image."
+      },
+      {
+        "timestamp": "00:22",
+        "description": "The slide transitions. The philosopher's bust remains faded in the background, but a horizontal, solid green rectangular bar appears, obscuring the upper half of the face. Inside the bar, text is displayed: 'Use low risk. Risk is like the volume knob of your heuristics. The more risk you take, the more irrational you tend to be.' The words 'low risk' are underlined."
+      },
+      {
+        "timestamp": "00:35",
+        "description": "The slide updates again. The first green bar remains at the top. A second, identical green bar appears below it, separated by a thin white line. The second bar contains the text: 'Use good risk reward ratios (1:3). That way you will have peace of mind during losing streaks since it will take several losses to wipe out one win.' The words 'good risk reward ratios (1:3)' are underlined. This visual remains on screen until the end of the video."
+      }
+    ],
+    "eventCount": 3
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is that trading psychology and risk management are inseparable. The video presents two foundational rules to maintain psychological stability: 1) Use low risk per trade, conceptualized as a 'volume knob' for irrational heuristics. 2) Employ a favorable risk-reward ratio (specifically suggesting 1:3), which ensures that single wins can offset multiple losses, thereby reducing the psychological pressure of losing streaks.",
+    "deeperMeaning": "The deeper implication is that emotional control in trading is not a matter of willpower but a direct consequence of a mechanically sound risk framework. By externalizing discipline into a strict, mathematical system (low position sizing and asymmetric risk-reward), a trader can preemptively neutralize the emotional volatility and cognitive biases that are amplified by high-risk scenarios. The strategy advocates for longevity and psychological endurance over high-stakes, short-term performance, suggesting that a sustainable trading career is built on a foundation of defensive risk management.",
+    "educationalGoal": "The educational objective is to provide traders, particularly beginners, with a simple and actionable framework to overcome the most destructive psychological hurdles. By distilling the complex interplay of risk and emotion into two easy-to-follow rules, the video aims to instill a disciplined mindset that prioritizes capital preservation and mental well-being. This serves as a foundational lesson within a broader trading curriculum, establishing the non-negotiable principles of risk management that must be mastered before any other strategy can be applied effectively."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:59:40.415Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

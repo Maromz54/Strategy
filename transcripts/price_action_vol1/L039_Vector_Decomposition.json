@@ -1,0 +1,88 @@
+{
+  "id": "1x1EjTeT3FBpZpVfCrNsnxVJRHjAhqNGX",
+  "fileName": "39 - Vector Decomposition.mp4",
+  "displayTitle": "Vector Decomposition",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 39,
+    "globalLessonNumber": 39
+  },
+  "content": {
+    "fullText": "[00:00] Every price vector has a temporal and a spatial dimension implied in it. So we can decompose a real price vector into one purely spatial abstract vector and one purely temporal abstract vector. To decompose a real price vector into its purely spatial abstract vector, we maintain its space dimensions and collapse the temporal dimension to zero. This vertical vector represents only how much price moved in space without taking time into account. Using a symmetric approach, if we want to decompose the purely temporal abstract vector, we maintain the time dimension and collapse the space dimension to zero. The result is a horizontal vector that shows the time duration of the real vector without considering the spatial dimension. These two new abstract vectors create new anchoring points in their extremes and midpoints, so we can observe new angles of the market that would be difficult to see otherwise. [01:00] In this image, we have two real vectors marked by the thick black lines. The decomposed vectors are the thin horizontal and vertical lines. The blue lines you see in the chart have their angle derived from the connection between the midpoint of the purely spatial vector A and the midpoint of the real vector E. Observe how the line catches the low in G. A non-equidistant extrapolation of this was anchored in D to project the high in the green rectangle. We also have a green upward line that comes out of the midpoint of a purely spatial vector A and connects to the extreme of a purely temporal vector in C. The upward line projects with good accuracy the high in D. [01:46] In the second image, we have a more elegant example. Once again, we have the real price vectors marked with thick black lines and their decompositions marked by the horizontal and vertical thin black lines. We have a line that connects the midpoint of a purely spatial vector in A to the extreme of a purely temporal vector in B. Notice how the line projects the reversal point in C.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:00] Every price vector has a temporal and a spatial dimension implied in it. So we can decompose a real price vector into one purely spatial abstract vector and one purely temporal abstract vector. To decompose a real price vector into its purely spatial abstract vector, we maintain its space dimensions and collapse the temporal dimension to zero. This vertical vector represents only how much price moved in space without taking time into account. Using a symmetric approach, if we want to decompose the purely temporal abstract vector, we maintain the time dimension and collapse the space dimension to zero. The result is a horizontal vector that shows the time duration of the real vector without considering the spatial dimension.",
+        "startChar": 0,
+        "endChar": 742,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "These two new abstract vectors create new anchoring points in their extremes and midpoints, so we can observe new angles of the market that would be difficult to see otherwise. [01:00] In this image, we have two real vectors marked by the thick black lines. The decomposed vectors are the thin horizontal and vertical lines. The blue lines you see in the chart have their angle derived from the connection between the midpoint of the purely spatial vector A and the midpoint of the real vector E. Observe how the line catches the low in G. A non-equidistant extrapolation of this was anchored in D to project the high in the green rectangle. We also have a green upward line that comes out of the midpoint of a purely spatial vector A and connects to the extreme of a purely temporal vector in C.",
+        "startChar": 742,
+        "endChar": 1539,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "The upward line projects with good accuracy the high in D. [01:46] In the second image, we have a more elegant example. Once again, we have the real price vectors marked with thick black lines and their decompositions marked by the horizontal and vertical thin black lines. We have a line that connects the midpoint of a purely spatial vector in A to the extreme of a purely temporal vector in B. Notice how the line projects the reversal point in C.",
+        "startChar": 1539,
+        "endChar": 1989,
+        "sequenceNumber": 2
+      }
+    ],
+    "chunkCount": 3,
+    "totalLength": 1989
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with the text 'Vector Decomposition' in black font. In the background, there is a faded, white-on-white bust of the philosopher Aristotle."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A green rectangular slide appears over the Aristotle bust. It contains the title 'Vector Decomposition' and the text: 'Every price vector has a temporal and a spatial dimension implied in it, so we can decompose a real price vector into one purely spatial abstract vector and one purely temporal abstract vector.'"
+      },
+      {
+        "timestamp": "00:17",
+        "description": "The screen shows the Aristotle bust. Two diagonal green arrows appear, one pointing up and to the right, the other pointing down and to the right. Both are labeled 'Real Price Vector'."
+      },
+      {
+        "timestamp": "00:24",
+        "description": "From the starting point of each 'Real Price Vector', a vertical black line with arrows at both ends appears. This represents the projection of the real vector onto the vertical (price) axis. Both are labeled 'Purely Spatial Vector'."
+      },
+      {
+        "timestamp": "00:38",
+        "description": "From the starting point of each 'Real Price Vector', a horizontal black line with an arrow at the end appears. This represents the projection of the real vector onto the horizontal (time) axis. Both are labeled 'Purely Temporal Vector'. The screen now shows each 'Real Price Vector' decomposed into its vertical 'Purely Spatial Vector' and horizontal 'Purely Temporal Vector'."
+      },
+      {
+        "timestamp": "00:50",
+        "description": "A new slide with a green text box at the bottom reads: 'The decomposed vector create abstract anchor points (extremes and midpoints) that yield new angles for future projections.' Above the text, a diagram shows two green price vectors forming a peak. These are then decomposed into their vertical and horizontal black-lined components. Finally, small green circles appear on the start, end, and midpoints of all vectors (both real and decomposed), illustrating the creation of 'abstract anchor points'."
+      },
+      {
+        "timestamp": "01:00",
+        "description": "A candlestick chart for FX:GBPJPY (240 min) is shown. A text box explains the chart elements. Two 'real price vectors' are marked with thick black lines. Their decompositions into thin horizontal ('purely temporal') and vertical ('purely spatial') lines are shown. Key points are labeled with letters (a, b, c, d, e, f, g). Blue lines are drawn connecting the midpoint of the purely spatial vector 'a' to the midpoint of the real price vector 'e'. This blue line is shown to touch the low at 'g' and is extrapolated to a top inside a highlighted green rectangle. A separate green trendline is drawn from the midpoint of 'a' to the extreme of the purely temporal vector 'c', which accurately projects the high at 'd'."
+      },
+      {
+        "timestamp": "01:46",
+        "description": "A second candlestick chart for FX:GBPJPY (Daily) is shown. The text below reads: 'Here we have a line grounded on the midpoint of a purely spatial vector (a) and connected to the extreme of a purely temporal vector (b). The angle projects a reversal in (c).' The chart shows two thick black lines representing real price vectors. Their thin-lined decompositions are also shown. A single downward-sloping black line is drawn, originating from the midpoint of the first vector's purely spatial component (labeled 'a') and passing through the extreme of the second vector's purely temporal component (labeled 'b'). This line is shown to project a major reversal low, labeled 'c'."
+      }
+    ],
+    "eventCount": 8
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core trading concept is 'Vector Decomposition,' a methodology for analyzing price movements by breaking them down into two fundamental components: a 'purely spatial' abstract vector (magnitude of price change) and a 'purely temporal' abstract vector (duration of the move). The endpoints and midpoints of these decomposed, abstract vectors serve as new, hidden 'anchor points.' By connecting these anchor points, traders can derive unique angles and trendlines to project future support, resistance, and major reversal points with high precision.",
+    "deeperMeaning": "The technique implies that the market possesses a hidden geometric structure and order that is not visible through conventional analysis of highs and lows. It suggests that time and price are not just axes on a chart but are distinct, analyzable dimensions of every market movement. By separating and then reconnecting these dimensions in specific ways (e.g., connecting a price midpoint to a time extreme), a trader can uncover underlying market symmetries and relationships. The philosophical reference to Aristotle suggests a view of the market as a rational, ordered system with discernible causes and forms, rather than a purely random or chaotic entity. This approach seeks to find a deeper, structural logic behind price action.",
+    "educationalGoal": "The educational objective is to teach an advanced, proprietary technical analysis technique that goes beyond standard chart reading. The video aims to provide traders with a specific, repeatable method for identifying high-probability turning points by constructing predictive angles from non-obvious anchor points. This methodology fits into a broader trading philosophy that emphasizes geometric principles and the structural analysis of price and time as a means of forecasting market behavior."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:51:52.985Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

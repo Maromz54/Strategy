@@ -1,0 +1,62 @@
+{
+  "id": "10vXzWQCfObeGu9LeF0GjsIPF9HS92e30",
+  "fileName": "14 - Midpoints.mp4",
+  "displayTitle": "Midpoints",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 14,
+    "globalLessonNumber": 14
+  },
+  "content": {
+    "fullText": "Midpoints are the exact middle between two extremes, and they represent the equilibrium between supply and demand since the extremes represent disequilibrium. In this picture, you can see both extremes and midpoints marked out in the chart. The midpoint is, technically speaking, the area in the price factor where we have an equilibrium between supply and demand. That has to be the case. Otherwise, we wouldn't be talking about the middle of a vector, considering that a price factor always swings from extreme to extreme. There's no such thing as a price factor that starts at a supply and demand disequilibrium and then reverses at equilibrium. Price only reverses at extremely unbalanced points.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Midpoints are the exact middle between two extremes, and they represent the equilibrium between supply and demand since the extremes represent disequilibrium. In this picture, you can see both extremes and midpoints marked out in the chart. The midpoint is, technically speaking, the area in the price factor where we have an equilibrium between supply and demand. That has to be the case. Otherwise, we wouldn't be talking about the middle of a vector, considering that a price factor always swings from extreme to extreme. There's no such thing as a price factor that starts at a supply and demand disequilibrium and then reverses at equilibrium. Price only reverses at extremely unbalanced points.",
+        "startChar": 0,
+        "endChar": 700,
+        "sequenceNumber": 0
+      }
+    ],
+    "chunkCount": 1,
+    "totalLength": 700
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title card appears. A white marble bust of a bearded Greek philosopher, likely Aristotle, is shown against a plain white background. The word 'Midpoints' is written in black sans-serif font across the center of the image."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A semi-transparent green text box appears over the bust, containing the definition: 'Midpoints are the exact middle between two extremes, and they represent the equilibrium between supply and demand since the extremes represent disequilibrium.'"
+      },
+      {
+        "timestamp": "00:13",
+        "description": "The view changes to a 5-minute candlestick chart for British Pound / U.S. Dollar (FX:GBPUSD). The philosopher's bust remains as a faded watermark in the background. A legend is displayed at the top center with a green circle labeled 'Extreme' and a blue/purple circle labeled 'Midpoint'."
+      },
+      {
+        "timestamp": "00:14",
+        "description": "On the chart, three green circles highlight significant price extremes: a swing low around 08:45, a swing high around 10:10, and another swing low around 11:30. These points represent market reversals."
+      },
+      {
+        "timestamp": "00:15",
+        "description": "Simultaneously, two blue/purple circles highlight midpoints within price moves. One circle is placed in a consolidation area around 09:30, in the middle of the move up from the first low. The second is placed in a consolidation area around 10:50, in the middle of the move down from the high."
+      }
+    ],
+    "eventCount": 5
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the distinction between 'extremes' and 'midpoints' in price action. Extremes (swing highs and lows) are defined as points of significant supply/demand disequilibrium where price reverses. Midpoints, in contrast, are areas of temporary equilibrium or balance found in the middle of a price vector (a move from one extreme to another). Price does not reverse at midpoints; it only reverses at extremes.",
+    "deeperMeaning": "This framework presents a model of market dynamics as an oscillation between two states: imbalance (extremes) and balance (midpoints). The implication for traders is that high-probability reversal trades are found at the extremes, where one side of the market (buyers or sellers) is exhausted and overpowered. Midpoints, representing 'fair value' or equilibrium within a specific price swing, are not entry points for reversals but rather points of continuation or consolidation. The use of Aristotle's bust visually connects this concept to the philosophical idea of the 'golden mean'—a state of balance situated between two extremes of excess and deficiency.",
+    "educationalGoal": "The educational objective is to establish a foundational principle for market analysis. By teaching the student to identify and differentiate between points of equilibrium (midpoints) and disequilibrium (extremes), this lesson provides a structural basis for understanding why and where price moves and reverses. This concept is likely a building block for a broader trading methodology focused on supply and demand dynamics and identifying institutional order flow at price extremes."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:33:58.886Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "1XFA8WfWskO1Z45jBLIJuWcLTLrZWf0rT",
+  "fileName": "47 - Reverse Engineering.mp4",
+  "displayTitle": "Reverse Engineering",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 47,
+    "globalLessonNumber": 47
+  },
+  "content": {
+    "fullText": "There are too many possibilities of lines that can be drawn. How do we know which one to draw then? You should look for lines that pass through an area of interest. That's why you don't start your analysis with line work. This area of interest is going to be a supply and demand zone or an area where a market player has acted in the past, and might act again in the future. This is called reverse engineering because you're not drawing lines to find an area of interest. You first find an area of interest, and then you try to find the lines that justify that area. This is partly why you have to get used to how the various types of lines project price in different ways. Once you have an area of interest, you can decide which lines you are you are going to use based on where the relevant anchor points are in relation to the area of interest. The reverse engineering is a simple idea, but this is a very powerful and important one. If you just keep trying to find trades with lines, you are going to be disappointed most of the time because there are just too many possibilities, and it's not clear which of these possibilities you should choose. In summary, complex line work is a confirmation tool. It's not a tool for finding trades.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "There are too many possibilities of lines that can be drawn. How do we know which one to draw then? You should look for lines that pass through an area of interest. That's why you don't start your analysis with line work. This area of interest is going to be a supply and demand zone or an area where a market player has acted in the past, and might act again in the future. This is called reverse engineering because you're not drawing lines to find an area of interest. You first find an area of interest, and then you try to find the lines that justify that area. This is partly why you have to get used to how the various types of lines project price in different ways.",
+        "startChar": 0,
+        "endChar": 674,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "Once you have an area of interest, you can decide which lines you are you are going to use based on where the relevant anchor points are in relation to the area of interest. The reverse engineering is a simple idea, but this is a very powerful and important one. If you just keep trying to find trades with lines, you are going to be disappointed most of the time because there are just too many possibilities, and it's not clear which of these possibilities you should choose. In summary, complex line work is a confirmation tool. It's not a tool for finding trades.",
+        "startChar": 674,
+        "endChar": 1241,
+        "sequenceNumber": 1
+      }
+    ],
+    "chunkCount": 2,
+    "totalLength": 1241
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with the text 'Reverse Engineering' in a sans-serif font. The background is a light grey with a faded, black and white bust of a bearded philosopher, likely Aristotle, centered behind the text."
+      },
+      {
+        "timestamp": "00:02",
+        "description": "A new slide appears. The faded philosopher bust remains in the background. A semi-transparent light green rectangular box is overlaid, containing the following text: 'Problem: There are too many possibilities of lines that can be drawn. How do we know which one to draw then?'"
+      },
+      {
+        "timestamp": "00:09",
+        "description": "The text in the green box changes. It now displays a longer paragraph explaining the solution. Key phrases are underlined for emphasis. The text reads: 'You should look for lines that pass through an <u>area of interest</u>. That’s why you don’t start your analysis with line work. This area of interest is going to be a supply and demand zone or an area where a market player has acted in the past, and might act again in the future. This is called reverse engineering because you’re not <u>drawing lines to find an area of interest</u>. You first find an <u>area of interest</u>, and then you try to find the <u>lines that justify that area</u>.'"
+      }
+    ],
+    "eventCount": 3
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is 'Reverse Engineering' as a methodology for technical analysis. Instead of drawing lines on a chart to search for potential trades (a forward-engineering approach), a trader should first identify a pre-existing, significant 'area of interest'—such as a supply and demand zone where major market players have previously acted. Only after identifying this primary area should the trader use line work (trend lines, channels, etc.) as a secondary, confirmatory tool to justify and add confluence to the significance of that area.",
+    "deeperMeaning": "This methodology implies a hierarchy in technical analysis where market structure and price action (areas of interest) are superior to geometric line work. Lines are not predictive tools in isolation; they are tools for confirming a pre-existing hypothesis about a price zone's importance. This approach mitigates the risk of 'curve-fitting'—drawing lines that fit a desired narrative—and reduces analysis paralysis caused by the infinite number of lines one could draw on a chart. It forces the analyst to ground their reasoning in historical market behavior rather than arbitrary geometry.",
+    "educationalGoal": "The educational objective is to shift the trader's analytical process from a speculative, tool-first approach to a logical, context-first approach. It aims to teach a more robust and less subjective way to apply line-based analysis by framing it as a confirmation technique, not a discovery technique. This lesson is designed to instill a disciplined, structured analytical framework: 1. Identify high-probability zones based on market action. 2. Use lines to confirm and refine the hypothesis about those zones. This is a fundamental principle for moving from a novice to a more sophisticated application of technical tools."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:58:13.206Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

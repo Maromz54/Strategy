@@ -1,0 +1,54 @@
+{
+  "id": "1q_N0ZgF7RypvCvf-11dImI5diNqVazAF",
+  "fileName": "22 - Volatility Shift Line.mp4",
+  "displayTitle": "Volatility Shift Line",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 22,
+    "globalLessonNumber": 22
+  },
+  "content": {
+    "fullText": "The volatility shift line is a horizontal line that shows the exact point where the volatility increased dramatically. Price tends to react to these lines in the future because they show where a market player picked up a lot of “speed”.\n\nIn this image, you can see a line coming out of the moment where volatility shifted. Notice how price comes back to this later and reverses almost exactly at the line.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "The volatility shift line is a horizontal line that shows the exact point where the volatility increased dramatically. Price tends to react to these lines in the future because they show where a market player picked up a lot of “speed”.\n\nIn this image, you can see a line coming out of the moment where volatility shifted. Notice how price comes back to this later and reverses almost exactly at the line.",
+        "startChar": 0,
+        "endChar": 405,
+        "sequenceNumber": 0
+      }
+    ],
+    "chunkCount": 1,
+    "totalLength": 405
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title card is displayed. The text \"Volatility Shift Line\" is centered in a simple, thin font. In the background, faded and in monochrome, is a bust of the Greek philosopher Aristotle."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A definition appears within a semi-transparent green rectangle over the Aristotle bust. The text reads: \"A volatility shift line is a horizontal line that shows the exact point where the volatility increased dramatically. Price tends to react to these lines in the future because they show where a market player picked up a lot of “speed”."
+      },
+      {
+        "timestamp": "00:15",
+        "description": "A candlestick chart is shown for the Euro / U.S. Dollar (FX:EURUSD) on a 240-minute (4-hour) timeframe, created with TradingView. A horizontal red line is drawn originating from the top of the body of a large, bearish red candle. This origin point is highlighted with a translucent purple box. The text \"Volatility increases dramatically and price “respects” it in the future\" is written on the chart. An arrow points from this text to the origin candle and to a later point on the chart where price action returns to the red line. This later area is also highlighted with a purple box, showing several bullish green candles approaching the line from below, wicking into it, and failing to close above it, indicating it is acting as resistance."
+      }
+    ],
+    "eventCount": 3
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the 'Volatility Shift Line,' a specific type of horizontal support or resistance level. It is identified by finding the exact price point where market volatility undergoes a sudden and dramatic increase, typically marked by an unusually large candlestick. This line is then projected forward in time, with the expectation that the market will 'respect' or react to this level upon future tests.",
+    "deeperMeaning": "This concept implies that moments of sharp volatility shifts are not random events but rather significant market occurrences that leave a lasting 'footprint' or memory in the price structure. The reference to a \"market player\" picking up \"speed\" suggests this is the point of a major influx of orders or a shift in market sentiment driven by a significant participant (e.g., an institution). By identifying these lines, a trader can anticipate high-probability reaction zones where price is likely to pause or reverse, offering potential trade entry or exit points. It's a method of identifying key levels based on the *character* and *intensity* of price action, not just simple swing highs or lows.",
+    "educationalGoal": "The educational objective is to introduce traders to a specific, actionable price action concept for identifying key market levels. This tool is designed to enhance a trader's ability to analyze charts and forecast potential turning points. It fits within a broader curriculum of technical analysis that focuses on reading market structure and understanding the underlying dynamics of supply and demand as expressed through volatility. The use of a philosophical figure like Aristotle in the branding may be intended to position the trading methodology as being based on logic, reason, and first principles."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:39:27.190Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

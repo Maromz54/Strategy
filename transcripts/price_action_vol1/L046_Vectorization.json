@@ -1,0 +1,50 @@
+{
+  "id": "1x4QOfYe56TVzM-sykL9z9c7yNSd_Djbx",
+  "fileName": "46 - Vectorization.mp4",
+  "displayTitle": "Vectorization",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 46,
+    "globalLessonNumber": 46
+  },
+  "content": {
+    "fullText": "Vectorization is simply the idea that lines are also vectors just like price vectors. Lines are just a more sophisticated way of seeing the raw price vectors in the chart. Price interacts with lines because when they meet, it is as if price was colliding with itself, so there is no magic about the fact that price “respects” some lines. Pretty much everything we see in a price chart is a vector in one degree or another, and all we are trying to do when we analyze price is to determine how these vectors are going to move in relation to one another.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Vectorization is simply the idea that lines are also vectors just like price vectors. Lines are just a more sophisticated way of seeing the raw price vectors in the chart. Price interacts with lines because when they meet, it is as if price was colliding with itself, so there is no magic about the fact that price “respects” some lines. Pretty much everything we see in a price chart is a vector in one degree or another, and all we are trying to do when we analyze price is to determine how these vectors are going to move in relation to one another.",
+        "startChar": 0,
+        "endChar": 552,
+        "sequenceNumber": 0
+      }
+    ],
+    "chunkCount": 1,
+    "totalLength": 552
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "The video opens with a title slide. The word 'Vectorization' is displayed in black text, centered on the screen. In the background, there is a faded, white marble bust of a classical figure, likely the philosopher Aristotle, against a plain, light grey background."
+      },
+      {
+        "timestamp": "00:02",
+        "description": "The title text fades away. A semi-transparent green rectangle with a thin black border appears over the bust, which remains visible in the background. Black text appears inside the rectangle, providing a definition of vectorization. The first part of the narration corresponds exactly to this on-screen text."
+      }
+    ],
+    "eventCount": 2
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is 'Vectorization,' a framework for viewing all elements on a financial chart—both price movements and drawn analytical lines (like trend lines or support/resistance)—as vectors. The interaction between price and a line is not a mystical event of 'respecting' the line, but rather a collision of vectors, essentially 'price colliding with itself.' The primary goal of this analytical approach is to understand and predict how these various vectors will move in relation to each other.",
+    "deeperMeaning": "This approach aims to demystify technical analysis by replacing subjective interpretations with a more mechanistic, physics-based model. By defining everything as a vector, it suggests that market movements are governed by a set of underlying, logical rules rather than random chance or market psychology alone. The phrase 'price colliding with itself' implies that a drawn line is a representation of the market's own past momentum and structure. Therefore, a future interaction with that line is a collision between the market's present state and its past state. This reframes chart analysis from pattern recognition to a study of interacting forces, hinting at a more deterministic view of price action. The use of an image of Aristotle suggests an appeal to first principles, logic, and a metaphysical understanding of price behavior.",
+    "educationalGoal": "The educational objective is to introduce a foundational, philosophical concept that underpins a specific trading methodology. It seeks to shift the learner's perspective away from conventional technical analysis tropes (e.g., 'price respecting a line') towards a more rigorous, principles-based framework. This clip serves as an introductory building block, establishing the core terminology ('vector') and worldview that will likely be used to explain more complex trading strategies later in the curriculum. It aims to establish intellectual authority and a sense of logical coherence for the system being taught."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:57:34.271Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

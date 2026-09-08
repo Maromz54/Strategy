@@ -1,0 +1,103 @@
+{
+  "id": "1je3NA3WvHNEJXClNp38nS69h89mXVaJQ",
+  "fileName": "35 - Simple Line Extrapolation and Non-Equidistant Line Extrapolation.mp4",
+  "displayTitle": "Simple Line Extrapolation and Non-Equidistant Line Extrapolation",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 35,
+    "globalLessonNumber": 35
+  },
+  "content": {
+    "fullText": "Under the principle of extrapolation, we have three subsets of lines: the line extrapolations, the action space extrapolations, and the vector extrapolations. We'll have one lecture for each one of these three subsets starting with the line extrapolations in this lecture. A line extrapolation is when we find a line in the chart, and then we copy this line to another anchoring position in the chart respecting the same angle of the original line. We have two types of line extrapolations: the simple and the non-equidistant. A simple line extrapolation is when we connect two extremes to generate an angle, and then extrapolate a line with the same angle to the other opposite extreme in the middle of the extremes that generated the line in the first place. In this chart, we have a simple line extrapolation. The original line is found by connecting a real anchoring point to an abstract one, as it is shown by the green arrows. The same line is then copied to another anchoring position, which in the case of simple line extrapolation is the opposite market extreme in the middle of the extremes that generated the line in the first place. So, we use two lows to find an angle, and then we extrapolated the line with the same angle to the high in between, as it is shown by the red arrow. We can see how price reacts to this simple extrapolation line in the green rectangle. In this chart, we have another example of a simple line extrapolation. This is similar to the previous example because we find an angle connecting a real anchoring point to an abstract one. And then we extrapolate the same line to the opposite market extreme in the middle of the extremes that generated the line in the first place. We can see once again how price respects the simple extrapolation line in the green rectangle. The non-equidistant line extrapolation is when we connect two or more extremes to generate an angle and then extrapolate a line with the same angle to other extremes creating non-equidistant spaces between the lines. In this chart, we can see the original line marked by the red arrows, and then several lines extrapolated with the same angle to various market extremes as shown by the green arrows. We can see price interacting with these lines in the green squares. In the second image, we can see a more complex example. The original line is shown by the red arrows and the extrapolated lines are shown by the green arrows. We can see how price interacts with these non-equidistant lines in the green rectangles.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Under the principle of extrapolation, we have three subsets of lines: the line extrapolations, the action space extrapolations, and the vector extrapolations. We'll have one lecture for each one of these three subsets starting with the line extrapolations in this lecture. A line extrapolation is when we find a line in the chart, and then we copy this line to another anchoring position in the chart respecting the same angle of the original line. We have two types of line extrapolations: the simple and the non-equidistant. A simple line extrapolation is when we connect two extremes to generate an angle, and then extrapolate a line with the same angle to the other opposite extreme in the middle of the extremes that generated the line in the first place.",
+        "startChar": 0,
+        "endChar": 761,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "In this chart, we have a simple line extrapolation. The original line is found by connecting a real anchoring point to an abstract one, as it is shown by the green arrows. The same line is then copied to another anchoring position, which in the case of simple line extrapolation is the opposite market extreme in the middle of the extremes that generated the line in the first place. So, we use two lows to find an angle, and then we extrapolated the line with the same angle to the high in between, as it is shown by the red arrow. We can see how price reacts to this simple extrapolation line in the green rectangle. In this chart, we have another example of a simple line extrapolation.",
+        "startChar": 761,
+        "endChar": 1451,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "This is similar to the previous example because we find an angle connecting a real anchoring point to an abstract one. And then we extrapolate the same line to the opposite market extreme in the middle of the extremes that generated the line in the first place. We can see once again how price respects the simple extrapolation line in the green rectangle. The non-equidistant line extrapolation is when we connect two or more extremes to generate an angle and then extrapolate a line with the same angle to other extremes creating non-equidistant spaces between the lines. In this chart, we can see the original line marked by the red arrows, and then several lines extrapolated with the same angle to various market extremes as shown by the green arrows.",
+        "startChar": 1451,
+        "endChar": 2208,
+        "sequenceNumber": 2
+      },
+      {
+        "id": "chunk_3",
+        "text": "We can see price interacting with these lines in the green squares. In the second image, we can see a more complex example. The original line is shown by the red arrows and the extrapolated lines are shown by the green arrows. We can see how price interacts with these non-equidistant lines in the green rectangles.",
+        "startChar": 2208,
+        "endChar": 2523,
+        "sequenceNumber": 3
+      }
+    ],
+    "chunkCount": 4,
+    "totalLength": 2523
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with a white background. Black text reads: 'Simple Line Extrapolation & Non-Equidistant Line Extrapolation'. In the background is a faded, white marble bust of the philosopher Aristotle."
+      },
+      {
+        "timestamp": "00:07",
+        "description": "A slide with three horizontal green rectangular bars appears over the Aristotle bust background. Text appears sequentially in each bar: 'Line Extrapolation', 'Action Space Extrapolation', 'Vector Extrapolation'."
+      },
+      {
+        "timestamp": "00:23",
+        "description": "A slide with a single green rectangular bar containing text. The text reads: 'A line extrapolation is when we find a line in the chart, and then we copy this line to another anchoring position in the chart respecting the same angle of the original line.'"
+      },
+      {
+        "timestamp": "00:33",
+        "description": "A slide with green bars appears. The top bar reads: 'We have two types of simple line extrapolations:'. Below it, two bars appear side-by-side. The left bar reads: 'Simple Extrapolation'. The right bar reads: 'Non-Equidistant Extrapolation'."
+      },
+      {
+        "timestamp": "00:38",
+        "description": "A slide with a single green bar containing text. The text reads: 'Simple Extrapolation: Connect two extremes to generate an angle, and then extrapolate a line with the same angle to the other opposite extreme in the middle of the extremes that generated the line in the first place.'"
+      },
+      {
+        "timestamp": "00:49",
+        "description": "A candlestick chart for 'Euro / Japanese Yen, 180, FXCM' is shown. An 'Original Line' is drawn connecting two swing lows, marked by green arrows. A parallel line labeled 'Extrapolated line with the same angle as the original' is anchored on the intervening swing high, marked by a red arrow. A green rectangle highlights a future area where price touches and reacts to this extrapolated line. Text on the chart reads: 'Line anchored in two lows (green arrows) and extrapolated to the high (red arrow) in between. The line gives a projection for the next high (green rectangle).'"
+      },
+      {
+        "timestamp": "01:27",
+        "description": "A different candlestick chart for 'Euro / Japanese Yen, 180, FXCM' is displayed. A downward-sloping line labeled 'Anchoring' is drawn connecting two swing highs, marked by red arrows. A parallel line is drawn from the intervening swing low, labeled 'Extrapolation'. A green rectangle highlights the area where subsequent price action finds support at this extrapolated line."
+      },
+      {
+        "timestamp": "01:54",
+        "description": "A slide with a single green bar containing text. The text reads: 'Non-Equidistant Extrapolation: Connect two or more extremes to generate an angle, and then extrapolate a line with the same angle to other extremes creating non-equidistant spaces between the lines.'"
+      },
+      {
+        "timestamp": "02:06",
+        "description": "A candlestick chart for 'U.S. Dollar / Swiss Franc, 60, FXCM' is shown. A 'down channel' structure is illustrated. The top line is the 'original line', anchored on two swing highs marked by red arrows. Two additional parallel lines are extrapolated below it, each anchored to a different swing low, marked by green arrows. The spaces between these parallel lines are not equal. Green squares highlight points where price interacts with these extrapolated lines as support. Text on the chart reads: 'The red arrows show the original line, and the green arrows show the non-equidistant extrapolated lines. Notice that lines vary in their anchoring positions. Price tends to respect these lines in the future.'"
+      },
+      {
+        "timestamp": "02:23",
+        "description": "A second, more complex candlestick chart for 'U.S. Dollar / Swiss Franc, 60, FXCM' is shown. An 'up channel' structure is illustrated. The top line is the 'original line', anchored on three swing highs marked by red arrows. Four additional parallel lines are extrapolated below it, anchored to various swing lows marked by green arrows, creating a multi-channel structure. Several green rectangles highlight areas where price interacts with these lines, treating them as both support and resistance."
+      }
+    ],
+    "eventCount": 10
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is Line Extrapolation, a technical analysis method for projecting future support and resistance levels. It involves identifying a line between two market extremes to establish an angle, then copying that line (maintaining the angle) to other significant price points. The lecture details two specific methodologies: 1) Simple Extrapolation, which creates a parallel equidistant channel by copying a line to the single opposite extreme between the original anchor points, and 2) Non-Equidistant Extrapolation, which copies the original line to multiple market extremes, creating a series of parallel lines that are not necessarily equidistant but still act as potential inflection points.",
+    "deeperMeaning": "The technique implies that market movements possess a geometric structure and predictable rhythm. By identifying a primary angle of price movement, a trader can forecast parallel zones where future price action is likely to react. This approach suggests that market geometry is a consistent force, allowing for the projection of future behavior based on past structure. The use of Aristotle's bust in the background frames this technical method within a philosophy of logic and first principles, elevating it from a simple chart pattern to a reasoned, structural analysis of market causation. It posits that market price is not random but follows replicable geometric pathways.",
+    "educationalGoal": "The educational objective is to teach traders a specific, rules-based technique for forecasting future price levels. This lecture serves as the foundational lesson on 'Line Extrapolation' within a broader curriculum that also includes 'Action Space Extrapolation' and 'Vector Extrapolation'. The purpose is to equip the viewer with a practical tool to move beyond reactive analysis and begin proactively identifying high-probability zones for price reversals or continuations based on the market's inherent geometric properties."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:48:18.829Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

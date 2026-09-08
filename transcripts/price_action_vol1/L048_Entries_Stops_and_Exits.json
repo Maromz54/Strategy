@@ -1,0 +1,76 @@
+{
+  "id": "18_H4_4N5vvfSHrhW_DxymJjgYZSG10zJ",
+  "fileName": "48 - Entries, Stops and Exits.mp4",
+  "displayTitle": "Entries, Stops and Exits",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 48,
+    "globalLessonNumber": 48
+  },
+  "content": {
+    "fullText": "Entries are an elusive topic because everybody's after that kind of entry that solves many problems all at once. Up to this day, the most precise entries I have seen were done with frequency lines. It's incredible to observe how accurate those lines can be. However, everything has a price, so frequency line entries are a bit difficult and sometimes a bit scary. We also have entries following the open values of certain candles. For example, when we have a fractal candle or an inside-outside candle happening in a particular trade context, we can enter at the open of the very next bar. That's not as precise as a frequency line entry, but it's precise enough and it's a lot easier. Other than these entries where you wait for the signal candle to close and then enter on the very next candle, all the other types of entries happen when price touches a line or a combination of lines of some sort. So there are basically three types of entries and exits. One, when price touches certain lines. Two, when a certain bar pattern appears. And three, when a bar pattern appears in alignment with lines. Using technical indicators to enter and exit the market is a terrible idea because they have a ridiculous amount of lag built into them, which means late entries and early exits. The entry point is not as important as the context in which it happens. Otherwise, we could skip all the theory laid out in the course and just focus on the entries, but that doesn't work. The stop loss is arguably more important than the entry or the exit. That's because a correct stop loss can save a bad entry, but a good entry cannot save a bad stop loss. The correct place to put a stop loss order is near the solid structures. This will give you the best probability of having the protection of the dominant market player. Exits can be done in a few different ways, but I believe that the best way to approach them is by observing where price is likely to stop next, and we do that by observing the key supply and demand points in price.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Entries are an elusive topic because everybody's after that kind of entry that solves many problems all at once. Up to this day, the most precise entries I have seen were done with frequency lines. It's incredible to observe how accurate those lines can be. However, everything has a price, so frequency line entries are a bit difficult and sometimes a bit scary. We also have entries following the open values of certain candles. For example, when we have a fractal candle or an inside-outside candle happening in a particular trade context, we can enter at the open of the very next bar. That's not as precise as a frequency line entry, but it's precise enough and it's a lot easier.",
+        "startChar": 0,
+        "endChar": 686,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "Other than these entries where you wait for the signal candle to close and then enter on the very next candle, all the other types of entries happen when price touches a line or a combination of lines of some sort. So there are basically three types of entries and exits. One, when price touches certain lines. Two, when a certain bar pattern appears. And three, when a bar pattern appears in alignment with lines. Using technical indicators to enter and exit the market is a terrible idea because they have a ridiculous amount of lag built into them, which means late entries and early exits. The entry point is not as important as the context in which it happens. Otherwise, we could skip all the theory laid out in the course and just focus on the entries, but that doesn't work.",
+        "startChar": 686,
+        "endChar": 1469,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "The stop loss is arguably more important than the entry or the exit. That's because a correct stop loss can save a bad entry, but a good entry cannot save a bad stop loss. The correct place to put a stop loss order is near the solid structures. This will give you the best probability of having the protection of the dominant market player. Exits can be done in a few different ways, but I believe that the best way to approach them is by observing where price is likely to stop next, and we do that by observing the key supply and demand points in price.",
+        "startChar": 1469,
+        "endChar": 2024,
+        "sequenceNumber": 2
+      }
+    ],
+    "chunkCount": 3,
+    "totalLength": 2024
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with a white background. The text 'Entries, Exits and Stops' is centered in black font. A faded, black-and-white image of a marble bust of the philosopher Aristotle is visible in the background."
+      },
+      {
+        "timestamp": "01:03",
+        "description": "A solid light green rectangular bar appears over the center of the screen, partially obscuring the bust. The word 'Lines' is written inside it in a faint white font."
+      },
+      {
+        "timestamp": "01:06",
+        "description": "A second, identical green bar appears below the first one. It contains the text 'Signal Bars'."
+      },
+      {
+        "timestamp": "01:10",
+        "description": "A third green bar appears below the second one. It contains the text 'Lines + Signal Bars'."
+      },
+      {
+        "timestamp": "01:39",
+        "description": "The screen transitions to a new slide with a solid light green background. The bust of Aristotle is faintly visible behind the text. The text, in black font, reads: 'A good stop can save a bad entry, but a good entry cannot save a bad stop!'. The word 'save' is underlined. Below this, it reads: 'Stops should be near solid structures!'."
+      }
+    ],
+    "eventCount": 5
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The video establishes a hierarchical framework for trade execution, prioritizing risk management (stop-loss placement) over the entry trigger. It categorizes valid entries into three types: 1) based on price touching specific lines (e.g., frequency lines), 2) based on signal bar patterns (e.g., fractal or inside-outside candles), and 3) a confluence of both. It asserts that a proper stop-loss, placed near 'solid structures,' is more critical than a perfect entry because it can salvage a poorly timed trade, whereas a good entry cannot fix a bad stop. Exits should be planned by identifying key supply and demand points where price is likely to halt.",
+    "deeperMeaning": "The video's core philosophy is that trading success stems from understanding market structure and managing risk, not from finding a magical entry signal. The use of Aristotle's bust frames trading as a discipline of logic and first principles. The dismissal of lagging indicators in favor of price action and 'frequency lines' suggests a preference for leading, price-derived information over calculated, lagging data. The emphasis on 'solid structures' and 'dominant market players' implies a methodology focused on identifying and aligning with institutional activity (supply and demand zones), viewing these areas as points of high probability for both protection (stops) and profit-taking (exits). The central thesis is that context and risk definition are paramount, while the entry trigger is a subordinate, mechanical step in a well-reasoned trading plan.",
+    "educationalGoal": "The educational objective is to reframe the novice trader's perspective, shifting focus away from the common obsession with finding the 'perfect entry' and towards the more fundamentally important concepts of trade context, risk management, and strategic exit planning. By categorizing entries and explicitly stating the supremacy of the stop-loss, the video provides a foundational mental model for constructing and managing trades. It aims to build a disciplined approach based on market structure analysis (supply, demand, 'solid structures') while warning against the pitfalls of relying on simplistic, lagging indicator signals."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:59:00.354Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

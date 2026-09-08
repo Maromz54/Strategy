@@ -1,0 +1,54 @@
+{
+  "id": "1ulQ5q8okH5E6JAfgsHiWu20ZK2F0v0c6",
+  "fileName": "29 - Pressure Bar.mp4",
+  "displayTitle": "Pressure Bar",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 29,
+    "globalLessonNumber": 29
+  },
+  "content": {
+    "fullText": "A pressure bar displays one or two unusually large wicks. A large upper wick implies selling pressure. A large lower wick implies buying pressure. Both large wicks imply a 'high pressure' battle between players. In this chart, you can see that pressure bars tend to appear in reversal points, so they are considered to be stronger signals than inside and outside bars. However, the most important thing about pressure bars is that they show a level where there is a lot of buying or selling pressure. Just like in the wick expansion and pressure zones techniques, these pressure zones can be useful for price reversals in the near future.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "A pressure bar displays one or two unusually large wicks. A large upper wick implies selling pressure. A large lower wick implies buying pressure. Both large wicks imply a 'high pressure' battle between players. In this chart, you can see that pressure bars tend to appear in reversal points, so they are considered to be stronger signals than inside and outside bars. However, the most important thing about pressure bars is that they show a level where there is a lot of buying or selling pressure. Just like in the wick expansion and pressure zones techniques, these pressure zones can be useful for price reversals in the near future.",
+        "startChar": 0,
+        "endChar": 638,
+        "sequenceNumber": 0
+      }
+    ],
+    "chunkCount": 1,
+    "totalLength": 638
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title card is displayed with the text 'Pressure Bar' in a black, sans-serif font. In the background, there is a faded, white marble bust of the philosopher Aristotle against a plain white background."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A semi-transparent green rectangle appears over the Aristotle bust, containing the following text in a white, sans-serif font: 'A pressure bar displays one or two unusually large wicks. A large upper wick implies selling pressure. A large lower wick implies buying pressure. Both large wicks imply a “high pressure” battle between players.'"
+      },
+      {
+        "timestamp": "00:18",
+        "description": "The view transitions to a financial candlestick chart. The chart is for 'Australian Dollar / U.S. Dollar, 240' (a 4-hour timeframe) from the broker FXCM. The chart displays green (bullish) and red (bearish) candles. Several candles with long wicks at swing highs and swing lows are marked. Candles at swing highs have small red downward-pointing arrows above them, and candles at swing lows have small green upward-pointing arrows below them, visually identifying them as pressure bars at reversal points."
+      }
+    ],
+    "eventCount": 3
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the identification and interpretation of 'Pressure Bars' in candlestick analysis. A pressure bar is defined as a candle with one or two unusually large wicks. A long upper wick signifies selling pressure, while a long lower wick signifies buying pressure. These bars are considered strong signals, particularly because they frequently appear at market reversal points (swing highs and lows), indicating a significant struggle between buyers and sellers.",
+    "deeperMeaning": "The deeper implication is that pressure bars reveal critical price levels, or 'pressure zones,' where a significant battle for control occurred. These zones are not just historical artifacts; they are levels that the market is likely to react to in the future, acting as potential support or resistance. The video implies a hierarchy of price action signals, suggesting that pressure bars are more reliable indicators of potential reversals than other patterns like 'inside bars' and 'outside bars'. The visual use of Aristotle subtly frames this technical analysis as a logical, principle-based approach to understanding market dynamics.",
+    "educationalGoal": "The educational objective is to teach traders a specific price action pattern for identifying market turning points. By learning to spot pressure bars, traders can identify areas of intense buying or selling interest, which helps in anticipating potential trend reversals and locating significant price levels for setting entries, exits, or stop-loss orders. This lesson serves as a foundational element within a broader curriculum on price action trading and market structure analysis."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:44:04.320Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

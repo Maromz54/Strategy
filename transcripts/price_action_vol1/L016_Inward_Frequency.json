@@ -1,0 +1,76 @@
+{
+  "id": "104eKUFKuRItAEhbobjcTmk1X36mS_Qkt",
+  "fileName": "16 - Inward Frequency.mp4",
+  "displayTitle": "Inward Frequency",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 16,
+    "globalLessonNumber": 16
+  },
+  "content": {
+    "fullText": "[00:00] The inward frequency is the frequency that happens on the inside between two price vectors. In this image, we can see an illustration of where the inside and outside between two price vectors are. [00:14] In this image, we can see two black vectors and a red line showing the inward frequency between the two price vectors. Pay close attention to where the line was drawn. It catches the inward frequency in the candle wicks that formed the market extreme. Notice how the frequency line catches a common path between those two lower candle wicks marked by the green arrows. Observe also how the inward frequency line predicts a reversal as it is marked by the blue square. [00:43] Another way of thinking about inward frequencies is that between an up followed by a down vector, the inward frequency is the highest frequency you can find on the inside between the two vectors. And by deduction, between a down followed by an up vector, the inward frequency is the lowest frequency you can find on the inside between the two vectors. [01:04] In this other image, we have an example of inward frequency found between a down vector followed by an up vector. Again, pay attention to where the red line comes from as it is marked by the red arrows. It's the lowest frequency line that can be found on the inside of those two vectors. Notice how price bounces from the red frequency line later on as it is marked by the blue rectangle. The inward frequency represents the inside line of buyers or sellers of a solid structure.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:00] The inward frequency is the frequency that happens on the inside between two price vectors. In this image, we can see an illustration of where the inside and outside between two price vectors are. [00:14] In this image, we can see two black vectors and a red line showing the inward frequency between the two price vectors. Pay close attention to where the line was drawn. It catches the inward frequency in the candle wicks that formed the market extreme. Notice how the frequency line catches a common path between those two lower candle wicks marked by the green arrows. Observe also how the inward frequency line predicts a reversal as it is marked by the blue square.",
+        "startChar": 0,
+        "endChar": 681,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "[00:43] Another way of thinking about inward frequencies is that between an up followed by a down vector, the inward frequency is the highest frequency you can find on the inside between the two vectors. And by deduction, between a down followed by an up vector, the inward frequency is the lowest frequency you can find on the inside between the two vectors. [01:04] In this other image, we have an example of inward frequency found between a down vector followed by an up vector. Again, pay attention to where the red line comes from as it is marked by the red arrows. It's the lowest frequency line that can be found on the inside of those two vectors. Notice how price bounces from the red frequency line later on as it is marked by the blue rectangle.",
+        "startChar": 681,
+        "endChar": 1438,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "The inward frequency represents the inside line of buyers or sellers of a solid structure.",
+        "startChar": 1438,
+        "endChar": 1528,
+        "sequenceNumber": 2
+      }
+    ],
+    "chunkCount": 3,
+    "totalLength": 1528
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with a faint, white-on-white bust of a classical philosopher (Aristotle). The text 'Inward Frequency' is centered over the image."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "The bust of Aristotle remains in the background. A translucent green text box appears over it with the text: 'The inward frequency is the frequency that happens on the inside between two price vectors.'"
+      },
+      {
+        "timestamp": "00:09",
+        "description": "A diagram is shown over the bust. It consists of two V-shaped line patterns. The area between the lines of the first 'V' is labeled 'Inside', and the peak is labeled 'Outside'. The area between the lines of the second inverted 'V' is also labeled 'Inside', and the trough is labeled 'Outside'."
+      },
+      {
+        "timestamp": "00:14",
+        "description": "A candlestick chart (FX:EURUSD, 240) is displayed. An annotation shows two black vectors forming a peak (an up-move followed by a down-move). A red curved line below the peak is labeled 'Inside between two vectors'. A red horizontal line is drawn from the lowest point of the candlestick wicks within this 'inside' area. The text 'This line shows the highest frequency on the inside between those two black vectors' points to this line. Green arrows point to the specific wicks used to define the line. Later in the chart, a blue square highlights where the price returns to this red line and reverses downwards."
+      },
+      {
+        "timestamp": "01:04",
+        "description": "A different candlestick chart (FX:EURUSD, 240) is shown. This example illustrates a trough. Two black vectors form an inverted 'V' (a down-move followed by an up-move). A red curved line above the trough is labeled 'The inside between the black vectors'. A pink horizontal line is drawn from the highest point of the candlestick wicks within this 'inside' area. Several text boxes provide explanations: 'This line represents the inward frequency found between the two black vectors.' 'The red arrows show the lowest frequency on the inside inflection point between the vectors.' Red arrows point to the specific wicks used to define the line. Later in the chart, a blue square with a green arrow inside highlights where price returns to this pink line and bounces upwards."
+      }
+    ],
+    "eventCount": 5
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is 'Inward Frequency,' a method for identifying precise support and resistance levels. It is defined as the most extreme price level (frequency) found 'inside' the structure formed by two consecutive, opposing price vectors. For a market top (an up-vector followed by a down-vector), the inward frequency is the highest price level touched by candles within that formation, which then acts as future resistance. Conversely, for a market bottom (a down-vector followed by an up-vector), the inward frequency is the lowest price level touched, which then acts as future support.",
+    "deeperMeaning": "This technique implies that market turning points contain a hidden, precise 'memory' or structural line of force. The 'inside' of a price swing, not just the absolute peak or trough, defines a critical future inflection point. This suggests a deterministic and geometric order within what might appear as random price fluctuations. The methodology requires traders to look at the internal composition of price structures to forecast future market behavior, treating these frequency lines as inherent properties of the market's fractal geometry.",
+    "educationalGoal": "The educational objective is to teach traders a specific, non-traditional technical analysis tool for identifying high-probability reversal zones. By defining and illustrating 'Inward Frequency,' the video aims to provide a practical method for drawing precise support and resistance lines that the market is likely to respect in the future. This concept fits into a broader framework of analyzing market geometry and fractal patterns to gain a predictive edge."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:35:33.164Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

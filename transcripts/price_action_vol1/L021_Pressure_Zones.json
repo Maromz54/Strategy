@@ -1,0 +1,54 @@
+{
+  "id": "1ImqEhbv_kwt9phv7iG1Mb-tjiXRT8_mP",
+  "fileName": "21 - Pressure Zones.mp4",
+  "displayTitle": "Pressure Zones",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 21,
+    "globalLessonNumber": 21
+  },
+  "content": {
+    "fullText": "A pressure zone is identified when there is a series of ascending or descending candle wicks followed by an increase in volatility. In this image, we can see a series of descending upper wicks followed by an increase in volatility. We can extend a zone out of the pressure area, and as you can see, price comes back to it later and reverses at the zone. This is very similar to the to the wick expansion technique, but the way the pressure zone appears is different. In the wick expansion, we see volatility happening at the wick. In the pressure zone, we see a progressive pressing motion in the wicks and volatility in the candle bodies. A fuzzy mixture of wick expansion and pressure zones is also possible.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "A pressure zone is identified when there is a series of ascending or descending candle wicks followed by an increase in volatility. In this image, we can see a series of descending upper wicks followed by an increase in volatility. We can extend a zone out of the pressure area, and as you can see, price comes back to it later and reverses at the zone. This is very similar to the to the wick expansion technique, but the way the pressure zone appears is different. In the wick expansion, we see volatility happening at the wick. In the pressure zone, we see a progressive pressing motion in the wicks and volatility in the candle bodies. A fuzzy mixture of wick expansion and pressure zones is also possible.",
+        "startChar": 0,
+        "endChar": 710,
+        "sequenceNumber": 0
+      }
+    ],
+    "chunkCount": 1,
+    "totalLength": 710
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title slide with the words \"Pressure Zones\" in a black sans-serif font. In the background, there is a faded, grayscale image of a marble bust of the philosopher Aristotle."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A definition slide appears. A semi-transparent green rectangle with a thin gray border is overlaid on the Aristotle bust background. Text inside the rectangle reads: \"A pressure zone is identified when there is a series of ascending or descending candle wicks followed by an increase in volatility.\""
+      },
+      {
+        "timestamp": "00:11",
+        "description": "A candlestick chart for \"Euro / U.S. Dollar, 240, FXCM\" is shown. The chart displays green (bullish) and red (bearish) candles. A specific area is highlighted with annotations: two small red arrows point downwards to the upper wicks of two consecutive bearish candles, showing the wicks are at progressively lower levels. A third, larger red arrow points to the body of a subsequent large bearish candle, indicating a volatility increase. A light purple rectangular zone is drawn, originating from the wicks and extending horizontally to the right. A text box above this area reads: \"The first two red arrows show the pressing of the upper wicks. The third arrow shows an increase in volatility, meaning that the attempt to press the wicks was successful. We can extend a zone out of those pressure points, and price might treat it as a barrier in the future.\" The chart shows that price later returns to this purple zone and reverses downwards."
+      }
+    ],
+    "eventCount": 3
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the identification and application of a 'Pressure Zone' in technical analysis. A Pressure Zone is defined as a price action pattern characterized by a sequence of ascending or descending candle wicks, which indicates a 'progressive pressing motion', immediately followed by a significant increase in volatility (i.e., a large candle body). This pattern signifies a decisive shift in market control and establishes a strong support or resistance level. This zone can then be projected forward in time to anticipate future price reactions and potential reversals.",
+    "deeperMeaning": "The deeper implication of this technique is that market turning points are not always singular events but can be the result of a build-up of pressure. The descending wicks represent sellers progressively overwhelming buyers at lower and lower price points, with the final large candle signifying the buyers' capitulation. This 'battle' creates a memory in the market at that specific price level. For a trader, recognizing this dynamic offers a more nuanced way to identify supply/demand zones. Unlike a simple 'wick expansion,' which focuses on volatility at a single wick, the Pressure Zone identifies a process, providing a higher-conviction area for potential trades because it's based on a demonstrated, progressive struggle and a clear outcome.",
+    "educationalGoal": "The educational objective is to teach traders a specific, actionable price action pattern for identifying high-probability zones of support and resistance. By distinguishing the 'Pressure Zone' from the 'wick expansion technique', the video aims to refine the trader's ability to interpret market microstructures. This lesson provides a precise, rule-based method to add to a trader's analytical toolkit, enabling them to move beyond static price levels and understand the dynamic formation of significant market barriers."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:38:50.732Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

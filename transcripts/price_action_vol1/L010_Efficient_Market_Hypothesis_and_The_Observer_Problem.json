@@ -1,0 +1,78 @@
+{
+  "id": "1PsLx5JxBu45sM1X6o_JFxSRcCCb4qaA2",
+  "fileName": "10 - Efficient Market Hypothesis and The Observer Problem.mp4",
+  "displayTitle": "Efficient Market Hypothesis and The Observer Problem",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 10,
+    "globalLessonNumber": 10
+  },
+  "content": {
+    "fullText": "[00:01] In the financial world, there is a lot of debate about the efficient market hypothesis, which claims that markets already display and discount all the information. If that was true, there would be no room for trading or investing. In the real world, there is a spectrum of market efficiency. That means sometimes markets are really efficient and there is no room for trading opportunities, but there are times where markets are not efficient. So there is some sort of anomaly that can be exploited one way or another.\n\n[00:31] All of this means that trading opportunities are not obvious and if you are able to see things that other traders can't, you will have some sort of edge. This is a supporting case for the abstraction levels we can achieve with the type of price action trading we are dealing with in this course. This spectrum of market efficiency creates something called the observer problem. When a market inefficiency is too obvious, a lot of people will attempt to take advantage of it, and that will eliminate the inefficiency because markets will discount it through their inherent supply and demand mechanism. A market inefficiency is an elusive thing. As soon as too many people see it, it vanishes away as if it never existed in the first place.\n\n[01:15] So this is partly the reason why trading with moving averages, for example, is a bad idea. Every single trader knows about them. People usually think that because many people know about it, it will work. But the exact opposite happens. If too many people know about it, it will certainly not work because of the spectrum of market efficiency. We can verify that by seeing the correlation of how many traders use moving averages and how many of these traders fail.\n\n[01:44] The other problem with these modern technical indicators is that they are an econometrics tool for studying certain types of time series, especially the stationary and linear ones. As it turns out, price action is non-stationary and non-linear. So applying tools like this to price is like trying to tighten a screw using a hammer. It's just the wrong tool for the job.\n\n[02:07] Developing technical indicators for non-linear and non-stationary time series is a completely different animal and it's a lot more complicated than what it seems because it involves the study of non-linear dynamics, some pretty advanced econometrics, and as we are increasingly observing, the application of artificial intelligence to deal with the non-linearity.\n\n[02:29] So, is it possible to develop modern technical tools beyond price action? Yes, it is. However, it involves much more than a simplistic averaging of prices or naively plotting pretty lines on a chart that give you the impression that you know what you're doing. The point here is that market anomalies that can be exploited are becoming harder and harder to see due to the advances in technology and the spread of information about the market. For example, an AI powered trading system can see anomalies in price that a human being would never dream of seeing. This is only good if you know how to build such a system, of course.\n\n[03:07] Regarding our type of analysis in this course, it's good that we can achieve more abstract levels because that means we can see things in the chart that other traders can't, and therefore we can see price anomalies that are not obvious to the masses.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:01] In the financial world, there is a lot of debate about the efficient market hypothesis, which claims that markets already display and discount all the information. If that was true, there would be no room for trading or investing. In the real world, there is a spectrum of market efficiency. That means sometimes markets are really efficient and there is no room for trading opportunities, but there are times where markets are not efficient. So there is some sort of anomaly that can be exploited one way or another.\n\n[00:31] All of this means that trading opportunities are not obvious and if you are able to see things that other traders can't, you will have some sort of edge.",
+        "startChar": 0,
+        "endChar": 689,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "This is a supporting case for the abstraction levels we can achieve with the type of price action trading we are dealing with in this course. This spectrum of market efficiency creates something called the observer problem. When a market inefficiency is too obvious, a lot of people will attempt to take advantage of it, and that will eliminate the inefficiency because markets will discount it through their inherent supply and demand mechanism. A market inefficiency is an elusive thing. As soon as too many people see it, it vanishes away as if it never existed in the first place.\n\n[01:15] So this is partly the reason why trading with moving averages, for example, is a bad idea. Every single trader knows about them. People usually think that because many people know about it, it will work.",
+        "startChar": 689,
+        "endChar": 1487,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "But the exact opposite happens. If too many people know about it, it will certainly not work because of the spectrum of market efficiency. We can verify that by seeing the correlation of how many traders use moving averages and how many of these traders fail.\n\n[01:44] The other problem with these modern technical indicators is that they are an econometrics tool for studying certain types of time series, especially the stationary and linear ones. As it turns out, price action is non-stationary and non-linear. So applying tools like this to price is like trying to tighten a screw using a hammer.",
+        "startChar": 1487,
+        "endChar": 2088,
+        "sequenceNumber": 2
+      },
+      {
+        "id": "chunk_3",
+        "text": "It's just the wrong tool for the job.\n\n[02:07] Developing technical indicators for non-linear and non-stationary time series is a completely different animal and it's a lot more complicated than what it seems because it involves the study of non-linear dynamics, some pretty advanced econometrics, and as we are increasingly observing, the application of artificial intelligence to deal with the non-linearity.\n\n[02:29] So, is it possible to develop modern technical tools beyond price action? Yes, it is. However, it involves much more than a simplistic averaging of prices or naively plotting pretty lines on a chart that give you the impression that you know what you're doing.",
+        "startChar": 2088,
+        "endChar": 2769,
+        "sequenceNumber": 3
+      },
+      {
+        "id": "chunk_4",
+        "text": "The point here is that market anomalies that can be exploited are becoming harder and harder to see due to the advances in technology and the spread of information about the market. For example, an AI powered trading system can see anomalies in price that a human being would never dream of seeing. This is only good if you know how to build such a system, of course.\n\n[03:07] Regarding our type of analysis in this course, it's good that we can achieve more abstract levels because that means we can see things in the chart that other traders can't, and therefore we can see price anomalies that are not obvious to the masses.",
+        "startChar": 2769,
+        "endChar": 3396,
+        "sequenceNumber": 4
+      }
+    ],
+    "chunkCount": 5,
+    "totalLength": 3396
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with a light gray background. In the center, there is a faded, black and white marble bust of a bearded Greek philosopher (resembling Aristotle or Plato). Overlaid in black text is the title: 'The Efficient Market Hypothesis and the Observer Problem'."
+      },
+      {
+        "timestamp": "00:31",
+        "description": "A new slide appears. The background is a solid, light green color. The faded philosopher bust is still visible behind the text. A black border frames the text content. The text reads:\n\n'Market “anomalies” work for as long as they remain non obvious. The moment too much people realize the opportunity, it vanishes away as if it never existed in the first place.\n\nThe Observer Problem:\nOpportunities only exist if they are not observed by a large number of people. In other words, if a price analysis method allows you to see stuff other people can’t, you have access to the opportunities before everybody else. The moment too many people see it, the opportunity disappears. That means that a method with high level of abstractions will allow you to see market anomalies that nobody else can.'"
+      }
+    ],
+    "eventCount": 2
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the 'Observer Problem,' which posits that market anomalies (trading opportunities) are ephemeral and cease to exist once they become widely observed. A trader's edge, therefore, does not come from using popular, obvious tools like moving averages, but from employing a method with a 'high level of abstraction' that allows them to perceive inefficiencies that the majority of market participants cannot see.",
+    "deeperMeaning": "The video implies that mainstream technical analysis is fundamentally flawed for two reasons. First, its popularity self-defeats any potential edge due to the Observer Problem. Second, its tools are often based on econometric models designed for linear, stationary time series, making them inappropriate for analyzing the non-linear, non-stationary nature of financial price action. A successful trading strategy must be non-obvious and conceptually suited to the market's complex dynamics. The ultimate edge lies in analytical depth and the ability to create unique, abstract models of market behavior, rather than simply applying common indicators.",
+    "educationalGoal": "The educational objective is to establish a theoretical justification for the specific trading methodology taught in the course. By deconstructing the Efficient Market Hypothesis and introducing the Observer Problem, the video positions conventional trading tools as ineffective. This frames the course's unique, price-action-based methodology as a necessary solution for achieving the 'high level of abstraction' required to gain a genuine, sustainable edge in modern, technologically advanced markets."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:29:57.977Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "1VfKhLvdZFiIZq1GFdiPoT_Znq719PIto",
+  "fileName": "19 - Dynamic Frequency Breakout.mp4",
+  "displayTitle": "Dynamic Frequency Breakout",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 19,
+    "globalLessonNumber": 19
+  },
+  "content": {
+    "fullText": "The dynamic frequency is the change in the inward frequencies along a price vector. A dynamic frequency breakout is when a candle breaks the inward frequency. That usually signals a reversal. \n\nIn this first image, you can see that we have a down vector marked by the black line. Notice that as the price vector goes down, the inward frequencies change, as you can see by the small horizontal lines. Notice also that as soon as a candle closes above the inward frequency, price reverses and starts to go up. \n\nIn this other image, we can see another example of that happening. \n\nThese dynamic frequency breakouts tend to work better when price is flowing smoothly. This is just some sort of confirmation about the end of a price vector. You will be extremely tempted to forget about everything else and just trade with the dynamic frequency breakouts, but I advise you not to do that. As I said, these things stop working in Brownian flows. So as usual, you need a lot more than that to trade effectively.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "The dynamic frequency is the change in the inward frequencies along a price vector. A dynamic frequency breakout is when a candle breaks the inward frequency. That usually signals a reversal. \n\nIn this first image, you can see that we have a down vector marked by the black line. Notice that as the price vector goes down, the inward frequencies change, as you can see by the small horizontal lines. Notice also that as soon as a candle closes above the inward frequency, price reverses and starts to go up. \n\nIn this other image, we can see another example of that happening. \n\nThese dynamic frequency breakouts tend to work better when price is flowing smoothly. This is just some sort of confirmation about the end of a price vector.",
+        "startChar": 0,
+        "endChar": 737,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "You will be extremely tempted to forget about everything else and just trade with the dynamic frequency breakouts, but I advise you not to do that. As I said, these things stop working in Brownian flows. So as usual, you need a lot more than that to trade effectively.",
+        "startChar": 737,
+        "endChar": 1005,
+        "sequenceNumber": 1
+      }
+    ],
+    "chunkCount": 2,
+    "totalLength": 1005
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title slide with the text 'Dynamic Frequency Breakout' in a thin, sans-serif font. In the background, there is a faded, white marble bust of the Greek philosopher Aristotle on a light gray background."
+      },
+      {
+        "timestamp": "00:02",
+        "description": "A semi-transparent light green text box appears over the bust of Aristotle. The text inside reads: 'The dynamic frequency is the change in the inward frequencies along a price vector. A dynamic frequency breakout is when a candle breaks the inward frequency. That usually signals a reversal.'"
+      },
+      {
+        "timestamp": "00:15",
+        "description": "A candlestick chart for 'Euro / U.S. Dollar, 240, FXCM' is shown. A bearish trend (down vector) is marked with a diagonal black line. Along this trend, several short, horizontal black lines are drawn at successively lower price levels, representing the 'dynamic inward frequency'. A green arrow points to a bullish (green) candle that closes above the last and lowest of these horizontal lines. A text box below this candle reads: 'This candle breaks (closes above) the dynamic inward frequency and price starts to go up immediately after.'"
+      },
+      {
+        "timestamp": "00:35",
+        "description": "A second candlestick chart for 'Euro / U.S. Dollar, 240, FXCM' is shown. A bullish trend (up vector) is marked with a diagonal black line. Along this trend, short, horizontal black lines are drawn at successively higher price levels. A red arrow points to a bearish (red) candle that breaks and closes below the last and highest of these horizontal lines. A text box above this candle reads: 'This candle breaks the dynamic inward frequency and price starts to go down.'"
+      }
+    ],
+    "eventCount": 4
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the 'Dynamic Frequency Breakout', a specific trading pattern used to identify potential trend reversals. It is defined by two components: 1) A 'price vector', which is a clear trend direction (up or down). 2) A 'dynamic inward frequency', which appears to be a series of short-term support/resistance levels that are established and adjusted as the trend progresses. A breakout occurs when a candlestick closes decisively past the most recent 'inward frequency' level, which is interpreted as a signal that the prevailing price vector has ended and a reversal is likely.",
+    "deeperMeaning": "This technique is presented not as a standalone trading system, but as a confirmation tool. The speaker explicitly warns that its effectiveness is context-dependent, working best in smoothly trending markets ('flowing smoothly') and failing in choppy, random, or directionless markets ('Brownian flows'). The strong cautionary note implies that relying on a single pattern is a common and dangerous trap for traders. True effectiveness comes from integrating this specific signal into a broader analytical framework that can first distinguish between different market states (trending vs. non-trending).",
+    "educationalGoal": "The educational objective is to introduce a nuanced pattern for identifying the exhaustion point of a trend. The lesson aims to add a specific tool to a trader's arsenal for confirming the end of a 'price vector'. Crucially, the video also serves as a lesson in disciplined trading by emphasizing the limitations of the pattern and warning against its indiscriminate use, thereby teaching the importance of understanding market context before applying any specific strategy."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:37:36.313Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

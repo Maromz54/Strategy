@@ -1,0 +1,65 @@
+{
+  "id": "17cGXL4rASaxWiWMDES2FwfAvMCRfpGC1",
+  "fileName": "41 - Circular Decomposition.mp4",
+  "displayTitle": "Circular Decomposition",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 41,
+    "globalLessonNumber": 41
+  },
+  "content": {
+    "fullText": "[00:00] Every price vector implies a circle which diameter is equal to the length of the vector. When we derive the circles from two vectors, we can observe abstract points where circles intersect. These are also interesting abstract anchoring points. In this image, we can see a great example of the circular decomposition in action. We have two real price vectors marked by the thick black lines. Each vector implies a circle which diameter is equal to the length of the vector. The two circles intersect in an abstract point D. We have a blue fork grounded on the real anchoring point A, the real anchoring point C, and in the abstract anchoring point D discovered from the circular decomposition. In F, we have an overthrow line following the same angle as the blue fork. Observe how the fork lines and its overthrow line catch the edges of price in the green rectangles.\n\n[00:58] In this image, we have a slightly more complex circular decomposition. This time, we have three real vectors spawning three circular decompositions. We then ground a pitchfork on the real anchor point B and in the abstract point C and D only made visible by the circular decomposition. In F and E, we have the overthrow and underthrow lines. Notice how the red and blue lines describe price action with good accuracy as shown by the red squares.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:00] Every price vector implies a circle which diameter is equal to the length of the vector. When we derive the circles from two vectors, we can observe abstract points where circles intersect. These are also interesting abstract anchoring points. In this image, we can see a great example of the circular decomposition in action. We have two real price vectors marked by the thick black lines. Each vector implies a circle which diameter is equal to the length of the vector. The two circles intersect in an abstract point D. We have a blue fork grounded on the real anchoring point A, the real anchoring point C, and in the abstract anchoring point D discovered from the circular decomposition. In F, we have an overthrow line following the same angle as the blue fork.",
+        "startChar": 0,
+        "endChar": 776,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "Observe how the fork lines and its overthrow line catch the edges of price in the green rectangles.\n\n[00:58] In this image, we have a slightly more complex circular decomposition. This time, we have three real vectors spawning three circular decompositions. We then ground a pitchfork on the real anchor point B and in the abstract point C and D only made visible by the circular decomposition. In F and E, we have the overthrow and underthrow lines. Notice how the red and blue lines describe price action with good accuracy as shown by the red squares.",
+        "startChar": 776,
+        "endChar": 1330,
+        "sequenceNumber": 1
+      }
+    ],
+    "chunkCount": 2,
+    "totalLength": 1330
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with the text \"Circular Decomposition\" in black, centered on a white background. Faded into the background is a white marble bust of the Greek philosopher Aristotle."
+      },
+      {
+        "timestamp": "00:02",
+        "description": "A green rectangular slide appears over the Aristotle bust background. It contains the title \"Circular Decomposition\" and the following text: \"Every price vector implies a circle which diameter is equal to the length of the vector. When we derive the circles from two vectors, we can observe abstract points where circles intersect. These are also interesting abstract anchoring points.\""
+      },
+      {
+        "timestamp": "00:17",
+        "description": "A candlestick chart for \"New Zealand Dollar / U.S. Dollar, 60\" is displayed. The chart shows two primary price vectors: one from a low labeled 'b' to a high labeled 'c', and another from 'c' to a subsequent low labeled 'e'. Two large, transparent green circles are drawn. The first circle's diameter is the vector from 'b' to 'c'. The second circle's diameter is the vector from 'c' to 'e'. The two circles intersect at point 'c' and another point below the price action, labeled 'd'. A blue pitchfork is drawn with its anchors at points 'a' (a previous high), 'c' (the shared point), and 'd' (the abstract intersection). This creates a downward sloping channel. A parallel red line is drawn from a later high at point 'f', representing an overthrow of the channel. Green rectangles highlight instances where the price action touches or reverses at the pitchfork lines and the parallel overthrow line. An explanatory text box is present on the chart."
+      },
+      {
+        "timestamp": "00:58",
+        "description": "A candlestick chart for \"U.S. Dollar / Japanese Yen, 180\" is shown. This chart demonstrates a more complex setup with three thick black lines representing real price vectors. Each vector generates a corresponding green circle. The first circle originates from a sharp down move. The second, larger circle originates from the subsequent up move (starting at point 'b'). The third circle originates from a final sharp down move. The intersections of these circles create two abstract anchor points labeled 'c' and 'd'. A blue pitchfork is anchored on a real low at point 'b' and the two abstract points 'c' and 'd', creating an upward sloping channel. Two parallel red lines are drawn, one above (from point 'e') and one below (from point 'f'), representing overthrow and underthrow lines. Red squares highlight numerous points where the price action interacts with the blue pitchfork lines and the red parallel lines."
+      }
+    ],
+    "eventCount": 4
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is 'Circular Decomposition,' a geometric method for analyzing financial markets. It posits that any significant price movement (a 'price vector') can be represented as the diameter of a circle. The intersection points of circles derived from consecutive price vectors reveal 'abstract anchoring points.' These abstract points, which are not visible price pivots, can then be used alongside real price pivots to anchor analytical tools like pitchforks, thereby defining precise, predictive channels of price movement.",
+    "deeperMeaning": "This technique implies that market price action is not random but follows an underlying geometric order. By decomposing price into vectors and circles, a trader can uncover a hidden structural framework that governs future price movement. The distinction between 'real' (visible) and 'abstract' (derived) anchor points suggests a methodology for accessing a deeper, less obvious layer of market information. This moves beyond standard technical analysis and into the realm of market geometry, aiming to find inherent mathematical relationships within price data to forecast support, resistance, and trend channels with high precision.",
+    "educationalGoal": "The educational objective is to introduce and demonstrate a specific, advanced technical analysis technique. The video aims to teach traders how to identify price vectors, derive circles from them, locate abstract intersection points, and apply these points to construct predictive channels using a pitchfork. This method is presented as a way to gain an analytical edge by identifying significant price levels and channels that are not apparent through conventional charting methods. It fits within a broader curriculum focused on geometric analysis, market structure, and non-standard forecasting tools."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:53:22.501Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

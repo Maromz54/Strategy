@@ -1,0 +1,89 @@
+{
+  "id": "1QRPi2AevUWBAte87c7wnyZ8kOhLNmlvl",
+  "fileName": "40 - Vector Addition.mp4",
+  "displayTitle": "Vector Addition",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 40,
+    "globalLessonNumber": 40
+  },
+  "content": {
+    "fullText": "We can add the decomposed abstract vectors of two alternating and adjacent real price vectors. You can only add spatial vectors with spatial vectors, and temporal vectors with temporal vectors. This creates other abstract anchor points that usually cannot be seen in other ways. First, we need to decompose the abstract vectors from two real alternating and adjacent price vectors. After that, we add the spatial vector from the first real vector with the spatial vector from the second real vector. We repeat the same procedure with the temporal vectors of the respective real price vectors. In this image, we have a great example of how this works in a real market scenario. We have two real vectors marked by the thick black lines and the final result from the vector addition process expressed in the horizontal and vertical red lines. By connecting the extreme of the spatial added vector with the extreme of the temporal added vector, we create a sloped line. Observe how well this line projects a reversal in the near future in 'c'. Notice also how it would be difficult to see this line without knowing the vector decomposition and addition procedures.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "We can add the decomposed abstract vectors of two alternating and adjacent real price vectors. You can only add spatial vectors with spatial vectors, and temporal vectors with temporal vectors. This creates other abstract anchor points that usually cannot be seen in other ways. First, we need to decompose the abstract vectors from two real alternating and adjacent price vectors. After that, we add the spatial vector from the first real vector with the spatial vector from the second real vector. We repeat the same procedure with the temporal vectors of the respective real price vectors. In this image, we have a great example of how this works in a real market scenario.",
+        "startChar": 0,
+        "endChar": 677,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "We have two real vectors marked by the thick black lines and the final result from the vector addition process expressed in the horizontal and vertical red lines. By connecting the extreme of the spatial added vector with the extreme of the temporal added vector, we create a sloped line. Observe how well this line projects a reversal in the near future in 'c'. Notice also how it would be difficult to see this line without knowing the vector decomposition and addition procedures.",
+        "startChar": 677,
+        "endChar": 1160,
+        "sequenceNumber": 1
+      }
+    ],
+    "chunkCount": 2,
+    "totalLength": 1160
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title card with a faded white marble bust of Aristotle in the background. The text 'Vector Addition' is centered over the image."
+      },
+      {
+        "timestamp": "00:02",
+        "description": "A semi-transparent green rectangle appears over the Aristotle bust, displaying the following text: 'Vector Addition: We can add the decomposed abstract vectors of two alternating and adjacent real price vectors. You can only add spatial vectors with spatial vectors, and temporal vectors with temporal vectors. This creates other abstract anchor points that usually cannot be seen in other way.'"
+      },
+      {
+        "timestamp": "00:21",
+        "description": "A diagram is shown over the Aristotle bust. It depicts a Cartesian coordinate system with two connected green vectors forming a peak. The first vector goes up and to the right; the second goes down and to the right. The components of these vectors are illustrated with black arrows along the axes."
+      },
+      {
+        "timestamp": "00:28",
+        "description": "An animation illustrates the addition of the spatial (vertical) vectors. Two vertical black arrows (one up, one down) are shown with a plus sign between them, resulting in a smaller upward-pointing arrow. This resultant vector is then shown in red on the main diagram, starting from the origin."
+      },
+      {
+        "timestamp": "00:34",
+        "description": "A similar animation illustrates the addition of the temporal (horizontal) vectors. Two horizontal black arrows (both pointing right) are shown with a plus sign, resulting in a longer right-pointing arrow. This resultant vector is then shown in red on the main diagram, starting from the origin."
+      },
+      {
+        "timestamp": "00:39",
+        "description": "A candlestick chart for the Euro / Swiss Franc (FX:EURCHF) on a 120-minute (2-hour) timeframe is displayed. The chart contains text and annotations. The text reads: 'Thick lines represent the original real price vectors. (a) and (b) are the abstract vectors resulting from the addition of spatial vectors from the first and the second vector, and the addition of the temporal vectors from the first and the second vector. By connecting the extremes of both vectors we generate an angle that projects a reversal in (c).'"
+      },
+      {
+        "timestamp": "00:43",
+        "description": "On the chart, two thick black lines are drawn, representing the 'real price vectors'. The first vector marks an upward price swing, and the second, adjacent vector marks a subsequent downward swing."
+      },
+      {
+        "timestamp": "00:49",
+        "description": "The results of the vector addition are shown as red lines. A vertical red line labeled 'a' represents the sum of the spatial vectors. A horizontal red line labeled 'b' represents the sum of the temporal vectors. Both lines originate from the starting point of the first real price vector."
+      },
+      {
+        "timestamp": "00:54",
+        "description": "A thin black sloped line is drawn, connecting the starting point of the 'real price vectors' (which is also the start of vectors 'a' and 'b') to a future price low. This demonstrates the predictive power of the technique."
+      },
+      {
+        "timestamp": "01:03",
+        "description": "A green circle highlights a future price low, labeled 'c'. The sloped line from the previous step precisely touches this point, indicating a successful projection of a market reversal."
+      }
+    ],
+    "eventCount": 10
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is a proprietary technical analysis technique called 'Vector Addition'. This methodology involves deconstructing two adjacent, opposing price movements ('real price vectors') into their vertical ('spatial') and horizontal ('temporal') components. The respective components are then mathematically added together to create new abstract vectors. By connecting the origin point with the endpoint defined by these new abstract vectors, a predictive line or angle is generated that can forecast future price reversal points with high precision.",
+    "deeperMeaning": "The technique implies that the market possesses a hidden geometric structure and that future price action is not random but is mathematically related to past price swings. It suggests that by understanding the market in terms of spatial (price) and temporal (time) vectors, a trader can uncover 'abstract anchor points' and predictive angles that are invisible to conventional analysis. This reframes market analysis as a form of physics or geometry, where underlying causal relationships can be calculated rather than merely estimated. The use of Aristotle's bust suggests a philosophical foundation, aiming for a 'first principles' understanding of market movement.",
+    "educationalGoal": "The educational objective is to teach traders an advanced, rule-based method for forecasting significant market turning points. The video aims to demonstrate a precise, quantifiable technique that goes beyond standard chart patterns or indicators. It is designed to equip the viewer with a unique analytical tool that can provide a trading edge by identifying non-obvious levels of future support or resistance. This lesson is likely part of a broader, more complex trading system that views market dynamics through the lens of vector mathematics and geometry."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:52:36.108Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

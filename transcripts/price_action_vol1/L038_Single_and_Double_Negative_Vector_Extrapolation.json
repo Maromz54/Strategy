@@ -1,0 +1,129 @@
+{
+  "id": "1o54lZvwC2eLqzATVUxbO9N6LXbIrDPpA",
+  "fileName": "38 - Single and Double Negative Vector Extrapolation.mp4",
+  "displayTitle": "Single and Double Negative Vector Extrapolation",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 38,
+    "globalLessonNumber": 38
+  },
+  "content": {
+    "fullText": "[00:00] Single and Double Negative Vector Extrapolation.\n[00:02] Every price factor travels through space, the y-axis, and time, the x-axis, in the chart. The negative market theory claims that the real vectors have a mirrored image in space and time, and these hidden abstract vectors can unveil interesting anchors and angles.\n[00:19] We have two types of negative extrapolations: single vectors and double vectors.\n[00:26] A single negative vector extrapolation is drawn by picking one price factor and drawing its three mirrored images in space and time. From this point, you have a series of abstract anchoring points that make geometric sense.\n[00:40] In this illustration, you can see how we accomplish the negative extrapolation. Notice that the real vector travels upwards in space and forwards in time with a specific angle in relation to the x-axis and the y-axis. To create a spatial mirrored image of the real vector, we preserve the time angle but we invert the space angle of the vector while respecting the original length of the vector. To create a temporal mirrored image of the real vector, we preserve the positive space angle and invert the positive time angle. That way we create a mirrored image that goes up in space and backwards in time.\n[01:19] Finally, to create a temporal-spatial mirrored image, we invert both space and time angles of the real vector. That creates a mirrored image travelling down in space and backwards in time.\n[01:31] These three new vectors live in what we call abstract vector space in algebra. The extremes and midpoints of these new vectors can create interesting anchoring points for lines of several types. The process is exactly the same for downward vectors, of course.\n[01:48] In this image, you can see the power of abstract vector spaces in a real price chart. The real vector is drawn in black. We ground a line at the extreme of the temporal mirrored image of the real vector and connect it to the midpoint of the real vector. Several candles later, the line projects a reversal point with great precision, as it is shown by the blue rectangle.\n[02:11] In the second image, we have a more sophisticated example of this technique. Here we have a real price factor A, and the three abstract negative vector extrapolations in B, C, and D. We have a blue pitchfork using the extreme of a temporal mirrored image as the A-axis, the real price vector as the B and C axis, and another fork that uses the extreme of the spatial-temporal mirrored image as the A-axis, the extreme of the spatial mirrored image as the B-axis, and the extreme of the real vector as the C-axis.\n[02:47] Notice how frequently and accurately price action treats these lines as barriers in the future, especially when you add the overthrow and underthrow lines.\n[02:57] To create a double vector negative extrapolation, pick two alternating and adjacent price vectors and draw a parallelogram to find out the negative vectors. To create a parallelogram, we copy the length and the angle of the real vector and connect it to the extreme of the adjacent real vector. We can connect abstract vectors with abstract vectors as well to create more parallelograms like we see in the image. The same process happens for a down vector followed by an up vector.\n[03:28] In this image, we see a red line connecting the extremes of two abstract vectors in A to the extreme of a real vector in B. We can later create a simple extrapolation of this line and copy to C. By using overthrowing and underthrowing lines, we can see price reacting to these sophisticated lines in the green rectangles. Notice that the original red line is like simply connecting A with B. That serves to show you the validity of anchoring the line on any other abstract vector.\n[04:00] In the second image, we have a more sophisticated and subtle example. We have a red fork grounded on two abstract anchor points and one real anchor point. And we have a blue fork grounded on two abstract anchor points. Later, the blue fork is extrapolated downwards with a Newtonian method. Notice the non-equidistant line in D following the angle of the red fork, and how this intersects with the blue fork line in the green rectangle. A major reversal happens at the intersection.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:00] Single and Double Negative Vector Extrapolation.\n[00:02] Every price factor travels through space, the y-axis, and time, the x-axis, in the chart. The negative market theory claims that the real vectors have a mirrored image in space and time, and these hidden abstract vectors can unveil interesting anchors and angles.\n[00:19] We have two types of negative extrapolations: single vectors and double vectors.\n[00:26] A single negative vector extrapolation is drawn by picking one price factor and drawing its three mirrored images in space and time. From this point, you have a series of abstract anchoring points that make geometric sense.\n[00:40] In this illustration, you can see how we accomplish the negative extrapolation.",
+        "startChar": 0,
+        "endChar": 738,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "Notice that the real vector travels upwards in space and forwards in time with a specific angle in relation to the x-axis and the y-axis. To create a spatial mirrored image of the real vector, we preserve the time angle but we invert the space angle of the vector while respecting the original length of the vector. To create a temporal mirrored image of the real vector, we preserve the positive space angle and invert the positive time angle. That way we create a mirrored image that goes up in space and backwards in time.\n[01:19] Finally, to create a temporal-spatial mirrored image, we invert both space and time angles of the real vector.",
+        "startChar": 738,
+        "endChar": 1383,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "That creates a mirrored image travelling down in space and backwards in time.\n[01:31] These three new vectors live in what we call abstract vector space in algebra. The extremes and midpoints of these new vectors can create interesting anchoring points for lines of several types. The process is exactly the same for downward vectors, of course.\n[01:48] In this image, you can see the power of abstract vector spaces in a real price chart. The real vector is drawn in black. We ground a line at the extreme of the temporal mirrored image of the real vector and connect it to the midpoint of the real vector.",
+        "startChar": 1383,
+        "endChar": 1991,
+        "sequenceNumber": 2
+      },
+      {
+        "id": "chunk_3",
+        "text": "Several candles later, the line projects a reversal point with great precision, as it is shown by the blue rectangle.\n[02:11] In the second image, we have a more sophisticated example of this technique. Here we have a real price factor A, and the three abstract negative vector extrapolations in B, C, and D. We have a blue pitchfork using the extreme of a temporal mirrored image as the A-axis, the real price vector as the B and C axis, and another fork that uses the extreme of the spatial-temporal mirrored image as the A-axis, the extreme of the spatial mirrored image as the B-axis, and the extreme of the real vector as the C-axis.\n[02:47] Notice how frequently and accurately price action treats these lines as barriers in the future, especially when you add the overthrow and underthrow line",
+        "startChar": 1991,
+        "endChar": 2791,
+        "sequenceNumber": 3
+      },
+      {
+        "id": "chunk_4",
+        "text": "s.\n[02:57] To create a double vector negative extrapolation, pick two alternating and adjacent price vectors and draw a parallelogram to find out the negative vectors. To create a parallelogram, we copy the length and the angle of the real vector and connect it to the extreme of the adjacent real vector. We can connect abstract vectors with abstract vectors as well to create more parallelograms like we see in the image. The same process happens for a down vector followed by an up vector.\n[03:28] In this image, we see a red line connecting the extremes of two abstract vectors in A to the extreme of a real vector in B. We can later create a simple extrapolation of this line and copy to C.",
+        "startChar": 2791,
+        "endChar": 3487,
+        "sequenceNumber": 4
+      },
+      {
+        "id": "chunk_5",
+        "text": "By using overthrowing and underthrowing lines, we can see price reacting to these sophisticated lines in the green rectangles. Notice that the original red line is like simply connecting A with B. That serves to show you the validity of anchoring the line on any other abstract vector.\n[04:00] In the second image, we have a more sophisticated and subtle example. We have a red fork grounded on two abstract anchor points and one real anchor point. And we have a blue fork grounded on two abstract anchor points. Later, the blue fork is extrapolated downwards with a Newtonian method. Notice the non-equidistant line in D following the angle of the red fork, and how this intersects with the blue fork line in the green rectangle. A major reversal happens at the intersection.",
+        "startChar": 3487,
+        "endChar": 4263,
+        "sequenceNumber": 5
+      }
+    ],
+    "chunkCount": 6,
+    "totalLength": 4263
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with the text 'Single and Double Negative Vector Extrapolation' over a faint, white bust of a classical philosopher (Aristotle) on a light gray background."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A green rectangular box appears with the title 'Negative Extrapolation:'. Inside, the text reads: 'Every price vector travels through space (y axis) and time (x axis) in the chart. The negative market theory claims that the real vectors have a mirrored image in space and time, and these hidden abstract vectors can unveil interesting anchors and angles.' Below this, two smaller boxes appear side-by-side, labeled 'Single Vector' and 'Double Vector'."
+      },
+      {
+        "timestamp": "00:26",
+        "description": "A new green rectangular box appears with the title 'Single Vector Negative Extrapolation:'. Inside, the text reads: 'Pick one price vector and draw its three mirrored images in space and time. From this point you have a series of abstract anchoring points that make geometric sense.'"
+      },
+      {
+        "timestamp": "00:41",
+        "description": "A Cartesian coordinate system is shown with 'Y Axis' and 'X Axis' labels. A single black vector, labeled 'Real Price Vector', originates from the center and points into the first quadrant (up and to the right). It is labeled with 'Positive Time Angle' relative to the Y-axis and 'Positive Space Angle' relative to the X-axis."
+      },
+      {
+        "timestamp": "00:56",
+        "description": "A yellow vector is added to the diagram, labeled 'Spatial Mirrored Image'. It is a reflection of the 'Real Price Vector' across the X-axis, pointing into the fourth quadrant (down and to the right)."
+      },
+      {
+        "timestamp": "01:06",
+        "description": "A light blue vector is added to the diagram, labeled 'Temporal Mirrored Image'. It is a reflection of the 'Real Price Vector' across the Y-axis, pointing into the second quadrant (up and to the left)."
+      },
+      {
+        "timestamp": "01:20",
+        "description": "A green vector is added to the diagram, labeled 'Spatial-Temporal Mirrored Image'. It is a reflection of the 'Real Price Vector' through the origin, pointing into the third quadrant (down and to the left)."
+      },
+      {
+        "timestamp": "01:48",
+        "description": "A candlestick chart for FX:EURUSD (5-minute) is displayed. An upward price movement is marked with a thick black line ('real vector'). Three other abstract vectors (blue, red) are drawn from its origin, mirrored in time and space. A thin black sloped line is anchored at an 'Abstract Anchor Point' (the extreme of the time-mirrored vector) and passes through the midpoint of the real vector. The line projects forward in time, and a blue rectangle highlights where future price action finds support and reverses precisely on this line. Text on the chart reads: 'The black upward vector generates 3 other abstract vectors by mirror imaging its temporal dimension. The thin sloped black line you see was anchored in the extreme of the time mirrored vector in blue, and in the midpoint of the real vector. Notice how the sloped line projects a reversal point in the rectangle.'"
+      },
+      {
+        "timestamp": "02:11",
+        "description": "A more complex candlestick chart for FX:EURUSD is shown. A downward real price vector is labeled 'A'. Its three abstract mirrored vectors are labeled 'B', 'C', and 'D'. Several pitchforks (one blue, one red) are drawn using the extremes of these real and abstract vectors as anchor points. The resulting lines create channels. Numerous green rectangles highlight points where the price action respects these projected lines, acting as support or resistance. A legend on the left defines the vectors. Text on the right reads: 'Notice how many times these lines act as barriers for price. You can also optimize these projections with overthrow and underthrow lines.'"
+      },
+      {
+        "timestamp": "02:58",
+        "description": "A green rectangular box appears with the title 'Double Vector Negative Extrapolation:'. Inside, the text reads: 'Pick two alternating and adjacent price vectors and draw a parallelogram to find out the negative extrapolation.'"
+      },
+      {
+        "timestamp": "03:09",
+        "description": "An animation shows two adjacent, alternating real vectors (in green). From these, a parallelogram is constructed using black lines, creating two new 'abstract' vectors. This process is then repeated, creating a grid of interconnected parallelograms extending into abstract space."
+      },
+      {
+        "timestamp": "03:28",
+        "description": "A candlestick chart for FX:EURUSD (120-minute) is displayed. Real price vectors are marked with thick black lines. Abstract vectors, derived from parallelograms, are shown with thin black lines. A legend defines the lines. A key red line connects an abstract extreme ('a') to a real extreme ('b'), and its parallel is drawn from another real extreme ('c'). Blue 'Overthrow and Underthrow' lines are added parallel to these red lines, forming a channel. Green rectangles highlight how future price finds support and resistance at these projected lines."
+      },
+      {
+        "timestamp": "04:00",
+        "description": "A final, highly complex candlestick chart for FX:GBPJPY (120-minute) is shown. The chart features a red pitchfork and two blue pitchforks anchored on a mix of real and abstract vector extremes (labeled a, b, c, e, f). The lines from these forks project far into the future. A non-equidistant line ('d') is also drawn. A green rectangle highlights a major price reversal occurring at the confluence of the line 'd' and a lower line from one of the blue pitchforks. A detailed text explanation is overlaid on the chart."
+      }
+    ],
+    "eventCount": 13
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the 'Negative Market Theory,' which posits that visible price movements ('real vectors' in price and time) have hidden, mirrored counterparts called 'abstract vectors.' The video teaches two methods to find these abstract vectors: 1) Single Vector Extrapolation, which involves reflecting a single price vector across the time axis, the price axis, and both simultaneously. 2) Double Vector Extrapolation, which involves taking two adjacent, alternating price vectors and constructing a parallelogram to derive the abstract vectors. The extremes and midpoints of these hidden vectors serve as non-obvious, yet geometrically significant, anchor points for tools like trendlines and pitchforks to project future price barriers with high precision.",
+    "deeperMeaning": "This methodology implies that the market possesses a deep, hidden geometric symmetry and structure that is not apparent from conventional technical analysis. It suggests that price action is not random but follows predictable paths governed by principles of reflection and geometric projection in a multi-dimensional price-time space (both 'real' and 'abstract'). By learning to 'unveil' this hidden structure, a trader can theoretically gain a predictive edge, identifying major reversal points that are invisible to those using standard support/resistance or trend analysis. The use of terms like 'abstract vector space' and 'Newtonian extrapolation' frames market analysis as a form of applied geometry or physics, suggesting a more deterministic order underlying the apparent chaos of price fluctuations.",
+    "educationalGoal": "The educational objective is to introduce advanced traders to a highly sophisticated and unconventional form of geometric market analysis. The video aims to equip them with a unique framework for identifying future turning points by moving beyond visible price action and charting a hidden, abstract market geometry. This serves as a specialized module within a broader trading curriculum focused on geometric principles, targeting traders who have mastered basic concepts and are seeking more complex, predictive models of market behavior."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:51:02.434Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

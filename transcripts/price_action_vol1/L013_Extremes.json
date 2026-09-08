@@ -1,0 +1,61 @@
+{
+  "id": "1A9EfgrxAGReEYkIeD1rnYju0LGKOZQnf",
+  "fileName": "13 - Extremes.mp4",
+  "displayTitle": "Extremes",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 13,
+    "globalLessonNumber": 13
+  },
+  "content": {
+    "fullText": "Extremes are points in the chart where the supply and demand balance got extremely tilted to one side of the spectrum, and therefore, price had no alternative but to reverse direction. These are the famous highs and lows in the chart that everybody is used to. However, you must be able to understand why a market extreme exists and how it happens following what you learned in the level zero. You must be able to comprehend that a market extreme represents an extreme unbalance between supply and demand where we have too much demand or supply on one side and very sparse demand or supply on the other. In this image, we can see several extremes in price action. Market extremes are fairly straightforward, but it's worth remembering their praxeological meaning. When the balance between supply and demand becomes too asymmetrical, price has no alternative but to reverse. It's an inevitability about the supply and demand mechanism of the market.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Extremes are points in the chart where the supply and demand balance got extremely tilted to one side of the spectrum, and therefore, price had no alternative but to reverse direction. These are the famous highs and lows in the chart that everybody is used to. However, you must be able to understand why a market extreme exists and how it happens following what you learned in the level zero. You must be able to comprehend that a market extreme represents an extreme unbalance between supply and demand where we have too much demand or supply on one side and very sparse demand or supply on the other. In this image, we can see several extremes in price action. Market extremes are fairly straightforward, but it's worth remembering their praxeological meaning.",
+        "startChar": 0,
+        "endChar": 764,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "When the balance between supply and demand becomes too asymmetrical, price has no alternative but to reverse. It's an inevitability about the supply and demand mechanism of the market.",
+        "startChar": 764,
+        "endChar": 948,
+        "sequenceNumber": 1
+      }
+    ],
+    "chunkCount": 2,
+    "totalLength": 948
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title slide is displayed on a light gray background. The text reads 'Extremes (Highs and Lows)' in a black, sans-serif font. Behind the text is a faded, white-on-white image of a classical Greek bust, likely representing Aristotle, setting a philosophical tone."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A green-colored rectangular text box appears over the faded bust. The box contains a formal definition: 'Extremes are points in the chart where the supply and demand balance got extremely tilted to one side of the spectrum, and therefore, price had no alternative but to reverse direction.'"
+      },
+      {
+        "timestamp": "00:40",
+        "description": "The slide transitions to a 5-minute candlestick chart for the British Pound / U.S. Dollar (GBP/USD). Multiple swing highs and swing lows across the price action are highlighted with light green ovals. The text 'Extremes in price action' is written below the main price area. The chart shows both bullish (green) and bearish (red) candles, illustrating the turning points."
+      }
+    ],
+    "eventCount": 3
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is that market extremes (highs and lows) are not arbitrary chart patterns but are the direct, causal result of a severe imbalance between supply and demand. An extreme represents the point where the prevailing force (either buying or selling pressure) is exhausted and the opposing force takes over, forcing a price reversal. This is framed as a fundamental law of market mechanics.",
+    "deeperMeaning": "Traders should view swing highs and lows as concrete evidence of supply/demand exhaustion, not just as simple technical reference points. This perspective provides a logical 'why' behind price reversals, encouraging a deeper analysis of market structure. A high signifies a point where willing buyers disappeared and were overwhelmed by sellers; a low signifies the opposite. The reference to 'praxeological meaning' implies that market phenomena should be understood through the lens of human action and choice, treating price movements as logical outcomes of supply and demand interactions rather than random noise.",
+    "educationalGoal": "The educational objective is to provide a foundational, first-principles definition of market extremes. It aims to elevate the student's understanding from simple pattern recognition (identifying 'highs and lows') to a causal understanding based on the economic principles of supply and demand. By referencing 'level zero,' it situates this lesson within a structured curriculum, building a logical framework for price action analysis. The use of the classical bust is intended to lend an air of authority and timelessness to the principles being taught."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:33:19.353Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

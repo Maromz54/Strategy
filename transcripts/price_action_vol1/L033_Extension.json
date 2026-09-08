@@ -1,0 +1,54 @@
+{
+  "id": "16meV9V-oAoZ1XzykdkNGWBpTjs_rSP5c",
+  "fileName": "33 - Extension.mp4",
+  "displayTitle": "Extension",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 33,
+    "globalLessonNumber": 33
+  },
+  "content": {
+    "fullText": "Extension. Extension is the principle that a connection between two or more anchoring points can be extended into the future to generate probable barriers for price. This is familiar to most of us, but the twist here is that we can connect all types of anchoring points. We can connect real anchors to abstract anchors, real with real, and abstract with abstract. In this image, we have a real anchor connected to an abstract anchor point, which gives a very nice projection for a reversal in the near future of price.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Extension. Extension is the principle that a connection between two or more anchoring points can be extended into the future to generate probable barriers for price. This is familiar to most of us, but the twist here is that we can connect all types of anchoring points. We can connect real anchors to abstract anchors, real with real, and abstract with abstract. In this image, we have a real anchor connected to an abstract anchor point, which gives a very nice projection for a reversal in the near future of price.",
+        "startChar": 0,
+        "endChar": 518,
+        "sequenceNumber": 0
+      }
+    ],
+    "chunkCount": 1,
+    "totalLength": 518
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A static slide with a light gray background. In the center is a faded, white, classical bust of a bearded man, likely the philosopher Aristotle. The word 'Extension' is written in black, sans-serif font over the bust."
+      },
+      {
+        "timestamp": "00:02",
+        "description": "A light green, semi-transparent rectangle appears over the Aristotle bust, containing white text that defines the principle of Extension. The text reads: 'Extension is the principle that a connection between two or more anchoring points can be extended into the future to generate probable barriers for price.'"
+      },
+      {
+        "timestamp": "00:24",
+        "description": "The video transitions to a financial candlestick chart from TradingView. The chart is for 'Euro / Japanese Yen, 180' (3-hour timeframe) from FXCM. A black downward-sloping trendline is drawn, connecting two price highs. Two red arrows point down at these two anchoring points. The trendline is extended into the future, where a light green square highlights an area where future price action touches the line and appears to reverse. A caption below the chart reads: 'A line anchored between two points (red arrows) can be extended into the future to project a barrier of price (green square).'"
+      }
+    ],
+    "eventCount": 3
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the 'Principle of Extension,' which posits that a line connecting two valid 'anchoring points' on a price chart can be projected into the future to identify probable price barriers (support or resistance). The video introduces a specific methodology with a 'twist': it distinguishes between 'real anchors' and 'abstract anchors' and provides rules for their connection (real-to-real, abstract-to-abstract, and real-to-abstract are all valid connections). The on-chart example demonstrates connecting a 'real anchor' to an 'abstract anchor' to forecast a future price reversal.",
+    "deeperMeaning": "The deeper implication is that trendline analysis is not an arbitrary exercise of connecting any two highs or lows. Instead, it is a structured, principle-based process that requires identifying and classifying specific types of 'anchors.' This suggests a more rigorous and less subjective approach to technical analysis. By introducing concepts like 'real' and 'abstract' anchors, the methodology implies a deeper understanding of market structure beyond simple visual patterns. The reference to Aristotle frames this technical tool within a philosophical context of logic and first principles, elevating it from a simple drawing tool to a method for understanding market causation.",
+    "educationalGoal": "The educational objective of this video is to introduce and define the 'Principle of Extension' as a predictive tool within a specific trading framework. It aims to refine the viewer's existing knowledge of trendlines by adding a layer of classification ('real' vs. 'abstract' anchors) and specific rules for application. This clip serves as a foundational lesson, likely part of a larger curriculum that would further define what constitutes real and abstract anchors, to build a systematic and repeatable method for forecasting future price behavior."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:46:44.326Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

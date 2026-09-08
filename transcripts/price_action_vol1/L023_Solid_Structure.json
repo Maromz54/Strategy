@@ -1,0 +1,58 @@
+{
+  "id": "1vDLRPEi_qzkuMdbmln3xGpo5gIRIIcCx",
+  "fileName": "23 - Solid Structure.mp4",
+  "displayTitle": "Solid Structure",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 23,
+    "globalLessonNumber": 23
+  },
+  "content": {
+    "fullText": "A solid low is when price closes above the high that precedes the low in question. A solid high is when price closes below the low that precedes the high in question. A solid structure means a point where a market player “proved its point” by advancing price in the player’s desired direction. Solid market extremes are very often used as good places to put a stop-loss order because we have the protection of a market player that has already proved himself, technically speaking. In this image, we can see a solid high being formed because the low that follows the high in question closes below the low that precedes the high in question. In this other image, we can see a solid low being formed because the high that follows it closes above the high that precedes the low in question.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "A solid low is when price closes above the high that precedes the low in question. A solid high is when price closes below the low that precedes the high in question. A solid structure means a point where a market player “proved its point” by advancing price in the player’s desired direction. Solid market extremes are very often used as good places to put a stop-loss order because we have the protection of a market player that has already proved himself, technically speaking. In this image, we can see a solid high being formed because the low that follows the high in question closes below the low that precedes the high in question. In this other image, we can see a solid low being formed because the high that follows it closes above the high that precedes the low in question.",
+        "startChar": 0,
+        "endChar": 786,
+        "sequenceNumber": 0
+      }
+    ],
+    "chunkCount": 1,
+    "totalLength": 786
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title slide is shown. The background is plain white with a faded, monochrome image of a classical bust, likely of the philosopher Aristotle. The text \"Solid Structure\" is centered over the image in a clean, black font."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A definition slide appears. A green text box is overlaid on the faded bust background. The text reads: \"A solid low is when price closes above the high that precedes the low in question. A solid high is when price closes below the low that precedes the high in question. A solid structure means a point where a market player “proved its point” by advancing price in the player’s desired direction.\""
+      },
+      {
+        "timestamp": "00:31",
+        "description": "A candlestick chart for \"Euro / U.S. Dollar, 240, FXCM\" is displayed, illustrating a \"Solid High.\" The chart shows a price rally to a peak labeled \"Solid High.\" This is followed by a minor dip to a point labeled \"Low.\" Price then declines sharply, forming a new low labeled \"Low.\" A black V-shape is drawn connecting these points. The text \"Price closed below last low\" is shown with an arrow pointing to the candle that confirms the break of the preceding low."
+      },
+      {
+        "timestamp": "00:41",
+        "description": "A second candlestick chart for \"Euro / U.S. Dollar, 240, FXCM\" is displayed, illustrating a \"Solid Low.\" The chart shows a price decline to a bottom labeled \"Solid Low.\" This is followed by a rally to a peak labeled \"High,\" which is marked with a red horizontal line. Price then rallies strongly past this line. The text \"Price closed above last high\" is shown with an arrow pointing to the large green candle that breaks and closes above the preceding high."
+      }
+    ],
+    "eventCount": 4
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is defining and identifying \"Solid Structure\" as a confirmed market turning point. A 'Solid High' is confirmed only when the price subsequently breaks and closes below the low that preceded that high. Conversely, a 'Solid Low' is confirmed only when the price subsequently breaks and closes above the high that preceded that low. This provides a specific, rule-based method for validating swing points, moving beyond subjective visual assessment.",
+    "deeperMeaning": "The deeper implication is that a 'Solid Structure' represents a point where a dominant market force (a 'player') has successfully defended its position and asserted control, thus 'proving its point.' This makes these levels structurally significant and defensible. For a trader, this means a solid high or low is a reliable location to place a stop-loss order, as it is protected by the same market interest that created the structure. A breach of this level would signify a fundamental shift in market control, validating the stop-loss.",
+    "educationalGoal": "The educational objective is to equip traders with a precise, mechanical definition for qualifying market structure highs and lows. This concept serves as a foundational element for a structured trading approach, particularly for risk management by providing a logical, non-arbitrary basis for stop-loss placement. The philosophical framing (the bust of Aristotle, the idea of 'proving a point') aims to lend the technical rule an air of logical rigor and first-principles thinking, positioning it as a more robust concept within a broader trading methodology."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:40:05.704Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

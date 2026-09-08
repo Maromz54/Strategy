@@ -1,0 +1,151 @@
+{
+  "id": "1_qNtF8wfTVP9tjgtuuQgm6RYLrLSh0by",
+  "fileName": "04 - Strange Manipulation and the Importance of the Reverse Engineering Principle.mp4",
+  "displayTitle": "Strange Manipulation and the Importance of the Reverse Engineering Principle",
+  "course": {
+    "name": "price_action_vol3",
+    "volumeNumber": 3,
+    "lessonNumber": 4,
+    "globalLessonNumber": 66
+  },
+  "content": {
+    "fullText": "In this lecture, we are going to study a market manipulation case that has some unusual details that steer away a little bit from the textbook definition of market manipulation. We're also going to observe the many possibilities and line work that could be identified for a possible entry and exit. One lesson that is perhaps more refined is that you are going to notice that pitchforks tend to work more effectively when the market is not trending too hard. In other words, pitchforks, for some reason I'm not quite sure, work better when you have a stationary market or when the market displays a moderate trend angle. Many other people have noticed this already, hence the modified Schiff pitchfork, which sort of takes care of this problem of steep trends.\n\nFrom number zero to number four, we need to clarify a few things that might confuse you if you are new to the methodology or the market in general. Highs one and three are more or less the same height, and lows two and four are obviously not. However, we can say that high one and three are solid market extremes because four surpassed number zero, not because it surpassed low number two. The reason for this is intuitive. Since the vectors 1-2-3 happen inside the vector 0-1, a solid high will only form once price closes below number zero, meaning that when price breaks out of the major 0-1 vector. Price could, for example, break down number two without breaking number zero. That would make high number three a solid extreme, but high number one would not be considered a solid extreme, so we have to be careful with this kind of detail. Both highs number one and number three have their importance in the overall context because they sit in the same level and they are obviously related. Even though the vector 1-2 is a failure to break down low zero, the previous vector 0-1 still creates the backbone of what should be broken down in the first place, meaning that high number one is part of both the backbone of what traders are expecting and part of a failure. Regardless of which information we want to take into account, high number one is as important as high number three. Once price dives below the level of number zero and number four, it immediately starts to come back up. Price even opens up in a small gap upwards.\n\nHere we can start deploying some line work to confirm a few details in this chart. First, we should notice that the fact that price comes back to the level of high number one and number three in number five. Price also pierces that important level without closing above it, and the bar that does it is a clear hybrid bar with fractal and selling pressure quality. In fact, it's a quite dramatic bar in its shape, even though it's not that dramatic in its volatility. If we plot a pitchfork using 0, 1, 4 as the axis, we'll see that the center line of the pitchfork cuts through the tip of the bar where the manipulation occurred. If we change the axis of the pitchfork to two, three, and four, which is also perfectly valid, we'll see that the center line points to the same area, but in this case, price gave a frequency shift a few bars back. Either way, high number five sits at a level that is considered to be an exhaustion point of everything else that came before.\n\nThis relates to what I said in the beginning of the lecture. Look how pitchforks with gentler angles tend to work more precisely. With all of that said, in this case, we don't see a clear Von Restorff effect, meaning that we don't see a volatility charge to the upside that gives the impression price will skyrocket once it breaks the level of one and three. A few bars before and a few bars after high number five, we have an important fact that confirms the manipulation maneuver, despite the lack of a Von Restorff effect. Look how before high number five, price began to form a minor flow, creating a minor solid low just before hitting number five. Once the hybrid bar happens at the top, price comes back charging down and wipes out that minor low. That creates a minor expanding pivot formation that is highlighted by the black lines. That charge down means that buyers went to the tip of the hybrid bar at the top of number five and then they realized that there were sellers much stronger coming in the other direction. Sellers then proceeded to wipe the minor buyers out and, according to our methodology, create an opportunity to go short. This leads us to the most difficult part of any analysis, which is identifying the precise level of entry. And in this case, we have several lines to consider. First, notice that in the expanding pivot formation, we have an inward frequency line marked by the horizontal black line, and we can clearly see that price action reacts to it a few bars later. Remember that because of the expanding pivot formation, high number five is a solid minor high at this point. So the inward frequency line represents a precise supply line. The other interesting detail here is that if we draw a smaller pitchfork in the expanding pivot formation, we'll see the hint for a confirmed entry in the inward frequency line. I say that it is a hint because price fails to reach the upper line of the fork, even though it hits the lower line perfectly. However, we must consider that in this situation, we already have an inward frequency line, and as you might be getting used to already, there are other frequencies that are not so obvious to see. The angle of the small pitchfork and the frequency of the upper tails in high number five give access to this other frequency I'm talking about. If we adjust the small pitchfork to those abstract frequencies at the top, you'll see that the upper line of that pitchfork converges with the inward frequency line. That happens more than once. In fact, price tests the upper line of the pitchfork three times in a row. This is the principle of reverse engineering that we talked about in the Price Action Trading Volume One. In other words, if we have an area of interest in the chart, which is in this case would be the inward frequency line, we need to find lines that will converge to the same level. It's virtually impossible to choose the correct line work for your analysis without this idea of reverse engineering because there are too many possible lines and it's really not clear which one you should use. The difficulty of this kind of analysis is that you need to think fast, and it all happens within a moving window, so to speak. On the advantage side, however, it's hard to imagine something more precise than this. If you notice on those three opportunities to enter this market with a stop above number five, in all three of them, price displays a fractal bar, which is something too perfect to be considered a mere coincidence. If we draw yet another pitchfork using high number five as the A axis and the third chance to get in the market as the C axis, we will see that getting out of the trade could also be done in a pitchfork line. Strangely enough, that exit point gives a little over 1-to-3 risk-reward ratio, which is the goal for most of the trades. Beyond the lesson about how market manipulations can work a little differently, I hope you take from this lecture the fact that the reverse engineering principle is of extreme importance if you want to be precise in your analysis. And as we saw in a previous lecture, being precise is not actually a futile exercise. It's a requirement if you want to minimize your risk and maximize your return in the market. Don't be fooled if someone says to you that trading is not risky or that you can trade with zero risk because that's a ridiculous idea. Every single action and inaction for that matter has a risk attached to it. And I'm not even talking about the market specifically. Everything you do or don't do in life has a risk. So your job is to do your best to minimize the risks you face for obvious reasons. The best tool for that is knowledge, of course. The more you understand the risks, the better you are at minimizing them, but at the same time, keep in mind that you won't get rid of the risks. The best you can do is get them under control.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "In this lecture, we are going to study a market manipulation case that has some unusual details that steer away a little bit from the textbook definition of market manipulation. We're also going to observe the many possibilities and line work that could be identified for a possible entry and exit. One lesson that is perhaps more refined is that you are going to notice that pitchforks tend to work more effectively when the market is not trending too hard. In other words, pitchforks, for some reason I'm not quite sure, work better when you have a stationary market or when the market displays a moderate trend angle.",
+        "startChar": 0,
+        "endChar": 621,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "Many other people have noticed this already, hence the modified Schiff pitchfork, which sort of takes care of this problem of steep trends.\n\nFrom number zero to number four, we need to clarify a few things that might confuse you if you are new to the methodology or the market in general. Highs one and three are more or less the same height, and lows two and four are obviously not. However, we can say that high one and three are solid market extremes because four surpassed number zero, not because it surpassed low number two. The reason for this is intuitive. Since the vectors 1-2-3 happen inside the vector 0-1, a solid high will only form once price closes below number zero, meaning that when price breaks out of the major 0-1 vector.",
+        "startChar": 621,
+        "endChar": 1365,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "Price could, for example, break down number two without breaking number zero. That would make high number three a solid extreme, but high number one would not be considered a solid extreme, so we have to be careful with this kind of detail. Both highs number one and number three have their importance in the overall context because they sit in the same level and they are obviously related. Even though the vector 1-2 is a failure to break down low zero, the previous vector 0-1 still creates the backbone of what should be broken down in the first place, meaning that high number one is part of both the backbone of what traders are expecting and part of a failure. Regardless of which information we want to take into account, high number one is as important as high number three.",
+        "startChar": 1365,
+        "endChar": 2149,
+        "sequenceNumber": 2
+      },
+      {
+        "id": "chunk_3",
+        "text": "Once price dives below the level of number zero and number four, it immediately starts to come back up. Price even opens up in a small gap upwards.\n\nHere we can start deploying some line work to confirm a few details in this chart. First, we should notice that the fact that price comes back to the level of high number one and number three in number five. Price also pierces that important level without closing above it, and the bar that does it is a clear hybrid bar with fractal and selling pressure quality. In fact, it's a quite dramatic bar in its shape, even though it's not that dramatic in its volatility. If we plot a pitchfork using 0, 1, 4 as the axis, we'll see that the center line of the pitchfork cuts through the tip of the bar where the manipulation occurred.",
+        "startChar": 2149,
+        "endChar": 2928,
+        "sequenceNumber": 3
+      },
+      {
+        "id": "chunk_4",
+        "text": "If we change the axis of the pitchfork to two, three, and four, which is also perfectly valid, we'll see that the center line points to the same area, but in this case, price gave a frequency shift a few bars back. Either way, high number five sits at a level that is considered to be an exhaustion point of everything else that came before.\n\nThis relates to what I said in the beginning of the lecture. Look how pitchforks with gentler angles tend to work more precisely. With all of that said, in this case, we don't see a clear Von Restorff effect, meaning that we don't see a volatility charge to the upside that gives the impression price will skyrocket once it breaks the level of one and three.",
+        "startChar": 2928,
+        "endChar": 3630,
+        "sequenceNumber": 4
+      },
+      {
+        "id": "chunk_5",
+        "text": "A few bars before and a few bars after high number five, we have an important fact that confirms the manipulation maneuver, despite the lack of a Von Restorff effect. Look how before high number five, price began to form a minor flow, creating a minor solid low just before hitting number five. Once the hybrid bar happens at the top, price comes back charging down and wipes out that minor low. That creates a minor expanding pivot formation that is highlighted by the black lines. That charge down means that buyers went to the tip of the hybrid bar at the top of number five and then they realized that there were sellers much stronger coming in the other direction. Sellers then proceeded to wipe the minor buyers out and, according to our methodology, create an opportunity to go short.",
+        "startChar": 3630,
+        "endChar": 4422,
+        "sequenceNumber": 5
+      },
+      {
+        "id": "chunk_6",
+        "text": "This leads us to the most difficult part of any analysis, which is identifying the precise level of entry. And in this case, we have several lines to consider. First, notice that in the expanding pivot formation, we have an inward frequency line marked by the horizontal black line, and we can clearly see that price action reacts to it a few bars later. Remember that because of the expanding pivot formation, high number five is a solid minor high at this point. So the inward frequency line represents a precise supply line. The other interesting detail here is that if we draw a smaller pitchfork in the expanding pivot formation, we'll see the hint for a confirmed entry in the inward frequency line.",
+        "startChar": 4422,
+        "endChar": 5128,
+        "sequenceNumber": 6
+      },
+      {
+        "id": "chunk_7",
+        "text": "I say that it is a hint because price fails to reach the upper line of the fork, even though it hits the lower line perfectly. However, we must consider that in this situation, we already have an inward frequency line, and as you might be getting used to already, there are other frequencies that are not so obvious to see. The angle of the small pitchfork and the frequency of the upper tails in high number five give access to this other frequency I'm talking about. If we adjust the small pitchfork to those abstract frequencies at the top, you'll see that the upper line of that pitchfork converges with the inward frequency line. That happens more than once. In fact, price tests the upper line of the pitchfork three times in a row.",
+        "startChar": 5128,
+        "endChar": 5867,
+        "sequenceNumber": 7
+      },
+      {
+        "id": "chunk_8",
+        "text": "This is the principle of reverse engineering that we talked about in the Price Action Trading Volume One. In other words, if we have an area of interest in the chart, which is in this case would be the inward frequency line, we need to find lines that will converge to the same level. It's virtually impossible to choose the correct line work for your analysis without this idea of reverse engineering because there are too many possible lines and it's really not clear which one you should use. The difficulty of this kind of analysis is that you need to think fast, and it all happens within a moving window, so to speak. On the advantage side, however, it's hard to imagine something more precise than this.",
+        "startChar": 5867,
+        "endChar": 6578,
+        "sequenceNumber": 8
+      },
+      {
+        "id": "chunk_9",
+        "text": "If you notice on those three opportunities to enter this market with a stop above number five, in all three of them, price displays a fractal bar, which is something too perfect to be considered a mere coincidence. If we draw yet another pitchfork using high number five as the A axis and the third chance to get in the market as the C axis, we will see that getting out of the trade could also be done in a pitchfork line. Strangely enough, that exit point gives a little over 1-to-3 risk-reward ratio, which is the goal for most of the trades. Beyond the lesson about how market manipulations can work a little differently, I hope you take from this lecture the fact that the reverse engineering principle is of extreme importance if you want to be precise in your analysis.",
+        "startChar": 6578,
+        "endChar": 7355,
+        "sequenceNumber": 9
+      },
+      {
+        "id": "chunk_10",
+        "text": "And as we saw in a previous lecture, being precise is not actually a futile exercise. It's a requirement if you want to minimize your risk and maximize your return in the market. Don't be fooled if someone says to you that trading is not risky or that you can trade with zero risk because that's a ridiculous idea. Every single action and inaction for that matter has a risk attached to it. And I'm not even talking about the market specifically. Everything you do or don't do in life has a risk. So your job is to do your best to minimize the risks you face for obvious reasons. The best tool for that is knowledge, of course. The more you understand the risks, the better you are at minimizing them, but at the same time, keep in mind that you won't get rid of the risks.",
+        "startChar": 7355,
+        "endChar": 8129,
+        "sequenceNumber": 10
+      },
+      {
+        "id": "chunk_11",
+        "text": "The best you can do is get them under control.",
+        "startChar": 8129,
+        "endChar": 8175,
+        "sequenceNumber": 11
+      }
+    ],
+    "chunkCount": 12,
+    "totalLength": 8175
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "The initial view is a candlestick chart for U.S. Dollar / Japanese Yen (USD/JPY) on a daily (1D) timeframe. Key swing points are labeled with numbers: a low at '0', a high at '1', a low at '2', a high at '3', a low at '4', and a final high at '5'. A horizontal line is drawn at the level of the low point '0' and extends to the right. Another horizontal line connects the highs of '1' and '3' and extends to the right. Black trend lines are drawn to highlight a minor expanding pivot formation at the peak of point '5'."
+      },
+      {
+        "timestamp": "02:58",
+        "description": "An Andrews' Pitchfork is drawn on the chart. The anchor points used are the low at '0', the high at '1', and the low at '4'. The resulting median line of the pitchfork is shown to pass directly through the wick of the high candlestick at point '5'."
+      },
+      {
+        "timestamp": "03:12",
+        "description": "The first pitchfork is removed. A second pitchfork is drawn using different anchor points: the low at '2', the high at '3', and the low at '4'. The median line of this new pitchfork points towards the area of high '5', but the price overshoots it, which the narrator describes as a 'frequency shift'."
+      },
+      {
+        "timestamp": "04:09",
+        "description": "Two small blue circles appear on the chart, highlighting the minor solid low formed just before the peak at '5', and the subsequent low formed after the peak."
+      },
+      {
+        "timestamp": "05:00",
+        "description": "A horizontal black line is drawn at the level of the minor low that occurred just before the major high at point '5'. This line is identified as an 'inward frequency line' from the expanding pivot formation."
+      },
+      {
+        "timestamp": "05:22",
+        "description": "A smaller, downward-sloping pitchfork is drawn. Its anchor points are the high of the first peak within the expanding pivot, the subsequent minor low, and the final high at point '5'. The price action is shown interacting with the lower and median lines of this pitchfork."
+      },
+      {
+        "timestamp": "05:51",
+        "description": "The anchor points of the small downward-sloping pitchfork are adjusted. The upper two points are moved to align with the wicks (upper tails) of the candles at the top of the expanding pivot. The narrator calls these 'abstract frequencies'. The upper parallel line of this adjusted pitchfork now converges with the horizontal 'inward frequency line' drawn earlier, highlighting multiple retests of this confluence zone."
+      },
+      {
+        "timestamp": "07:14",
+        "description": "A final downward-sloping pitchfork is drawn. The A-axis is anchored at the major high '5'. The B-axis is anchored at the low following the expanding pivot. The C-axis is anchored at the third retest of the confluence zone (the third selling opportunity). The lower parallel line of this pitchfork is shown to perfectly catch the subsequent major low, identifying a potential profit-taking target."
+      }
+    ],
+    "eventCount": 8
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the identification and analysis of a nuanced market manipulation pattern, which manifests as an expanding pivot at a key resistance level. The lesson demonstrates how to build a high-probability trading case by using multiple, confluent lines of force derived from Andrews' Pitchforks and price action principles. The primary methodology involves 'reverse engineering': starting with a known area of interest (a major resistance level or an inward frequency line) and then finding various geometric lines (pitchfork parallels, median lines) that converge on that area to confirm precise entry points.",
+    "deeperMeaning": "The lecture implies that markets are not random but possess an underlying geometric structure and rhythm ('frequencies') that can be mapped. Effective trading requires moving beyond rigid, textbook patterns to a more dynamic and flexible analysis. The repeated emphasis on finding converging lines suggests that a single indicator or line is insufficient; a robust trading thesis is built on multiple, independent pieces of evidence confirming the same price level. Furthermore, precision in analysis is not an academic exercise but a critical component of risk management, allowing for tighter stop-losses and an improved risk-reward ratio. The analysis subtly blends objective geometric tools with subjective interpretation of price action (e.g., 'abstract frequencies' of candle wicks), suggesting that high-level trading is both a science and an art.",
+    "educationalGoal": "The educational objective is to elevate a trader's analytical skills from basic pattern recognition to a sophisticated understanding of market structure and geometry. It aims to teach a systematic process for dissecting complex price action, identifying manipulation, and confirming high-probability trade setups through the principle of confluence. This lecture serves to bridge the gap between theoretical knowledge of tools like pitchforks and their practical, creative application in real-world, non-ideal market conditions, ultimately fostering a deeper, more precise approach to trade planning and risk management."
+  },
+  "metadata": {
+    "processedAt": "2025-08-24T00:29:56.881Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

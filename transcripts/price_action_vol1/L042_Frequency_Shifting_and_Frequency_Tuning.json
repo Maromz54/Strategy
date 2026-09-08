@@ -1,0 +1,84 @@
+{
+  "id": "1fmTQrLOqLqXV1MDBLgGECzg5sH-BXC4M",
+  "fileName": "42 - Frequency Shifting and Frequency Tuning.mp4",
+  "displayTitle": "Frequency Shifting and Frequency Tuning",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 42,
+    "globalLessonNumber": 42
+  },
+  "content": {
+    "fullText": "Frequency shifting is the principle of adjusting past line work using new market information to take the nonlinearity of price into account. Frequency tuning is the principle of projecting lines with tuned past frequencies.\n\nIn this image, we can see that price overthrows the upper pitchfork line, and then later, obeying Newton's third law, price underthrows at the lower pitchfork line.\n\nWe can predict these shifts in frequency by using overthrow and underthrow lines or by adjusting the whole pitchfork to the overshoot. Here we can see the whole pitchfork adjusted to the overshoot or overthrow. Notice how the fork moves away from its original grounding positions so we can predict the low with more accuracy.\n\nIn this image, we have a standard pitchfork grounded on real anchoring points.\n\nIn here, we are using the concept of frequency tuning to optimize the pitchfork. Notice how we adjust the fork tail to past frequencies as shown by the arrows. Notice also how the Newtonian extrapolation of the fork upwards catches the reversal in the green rectangle. This is like reverse engineering the principle of validation.\n\nIn this other image, we have a fork grounded on an abstract anchor point instead of the obvious real anchoring points, as you can see by the green arrows. We then see the center line respecting other frequencies in the red arrows. As a proof of concept, the fork catches two major highs in the green rectangles.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Frequency shifting is the principle of adjusting past line work using new market information to take the nonlinearity of price into account. Frequency tuning is the principle of projecting lines with tuned past frequencies.\n\nIn this image, we can see that price overthrows the upper pitchfork line, and then later, obeying Newton's third law, price underthrows at the lower pitchfork line.\n\nWe can predict these shifts in frequency by using overthrow and underthrow lines or by adjusting the whole pitchfork to the overshoot. Here we can see the whole pitchfork adjusted to the overshoot or overthrow.",
+        "startChar": 0,
+        "endChar": 602,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "Notice how the fork moves away from its original grounding positions so we can predict the low with more accuracy.\n\nIn this image, we have a standard pitchfork grounded on real anchoring points.\n\nIn here, we are using the concept of frequency tuning to optimize the pitchfork. Notice how we adjust the fork tail to past frequencies as shown by the arrows. Notice also how the Newtonian extrapolation of the fork upwards catches the reversal in the green rectangle. This is like reverse engineering the principle of validation.\n\nIn this other image, we have a fork grounded on an abstract anchor point instead of the obvious real anchoring points, as you can see by the green arrows. We then see the center line respecting other frequencies in the red arrows.",
+        "startChar": 602,
+        "endChar": 1361,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "As a proof of concept, the fork catches two major highs in the green rectangles.",
+        "startChar": 1361,
+        "endChar": 1441,
+        "sequenceNumber": 2
+      }
+    ],
+    "chunkCount": 3,
+    "totalLength": 1441
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with a faint, white bust of Aristotle in the background. The text reads: 'Frequency Shifting & Frequency Tuning'."
+      },
+      {
+        "timestamp": "00:02",
+        "description": "A semi-transparent green rectangle appears over the Aristotle bust, containing a definition. Text reads: 'Frequency shifting is the principle of adjusting past line work using new market information to take the nonlinearity of price into account. Frequency tuning is the principle of projecting lines with tuned past frequencies.'"
+      },
+      {
+        "timestamp": "00:15",
+        "description": "A candlestick chart for 'Euro / U.S. Dollar, 30, FXCM' is shown. A descending Andrews' Pitchfork is drawn. The text 'Price overshoots' points to an area where price action broke above the upper line of the pitchfork. The text 'Price undershoots' points to where price action broke below the lower line of the pitchfork."
+      },
+      {
+        "timestamp": "00:35",
+        "description": "The same chart is shown with additional annotations. The pitchfork has been shifted upwards. Red circles highlight the original anchor points that the shifted fork no longer touches. A green rectangle highlights the initial 'overshoot'. Another green rectangle highlights the subsequent 'undershoot', showing it landing precisely on the new lower line. Text annotations read: 'Red circles show frequency shift from the original fork anchors.', 'By adjusting the fork to the overshoot...', and '...we project the undershoot more precisely.'"
+      },
+      {
+        "timestamp": "00:47",
+        "description": "A new candlestick chart for 'Euro / U.S. Dollar, 30, FXCM' is displayed. An ascending standard pitchfork is drawn, anchored on clear price pivots. The text 'Here we have a standard fork' is at the bottom."
+      },
+      {
+        "timestamp": "00:51",
+        "description": "The same chart is shown with a modified pitchfork and additional annotations. A parallel line has been added above the standard pitchfork (a Newtonian extrapolation). The lower anchor point (tail) of the pitchfork has been adjusted downwards, indicated by a green spade symbol below the price action and several red arrows pointing to previous price lows. A green rectangle highlights a major price high that precisely touches the extrapolated upper line. A text box explains: 'By adjusting the tail to past frequencies as shown by the arrows, we generate a new angle. By creating a double line to the upside, we project the high in the green rectangle with precision.'"
+      },
+      {
+        "timestamp": "1:14",
+        "description": "A final chart for 'Euro / U.S. Dollar, 30, FXCM' is shown. An ascending pitchfork is drawn, but its lower anchor point is not on a clear price pivot, a technique labeled 'Abstract Frequency Anchoring'. Green spade symbols indicate the abstract anchor points. Red arrows point to areas where the price action interacts with the pitchfork's median line, showing it respects other frequencies. Two green rectangles highlight two separate major highs that are accurately projected by the upper line of this tuned fork. Text on the screen reads: 'By tuning the fork tail to the frequencies in the a-axis as shown by the green arrows, we find a slightly better angle that projects the edges of price at the green squares.' and 'Notice also how the new frequency tuned fork gives further clues of its validity by showing other frequencies at the red arrows.'"
+      }
+    ],
+    "eventCount": 7
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is that standard technical analysis tools, like the Andrews' Pitchfork, are not static and must be dynamically adjusted to reflect the non-linear, ever-changing nature of market price action. The video teaches two advanced methods for this adjustment: 1) **Frequency Shifting**, where the entire pitchfork is moved to align with a new price extreme (an 'overshoot') to more accurately project the subsequent counter-move ('undershoot'), and 2) **Frequency Tuning**, where a specific anchor point of the pitchfork is adjusted to align with past price frequencies (past highs/lows) to create a more accurate angle for future projections.",
+    "deeperMeaning": "The video implies that successful market analysis requires moving beyond rigid, textbook application of tools. It champions a more fluid, adaptive approach where the analyst actively 'tunes' their tools based on observed market behavior. The reference to 'Newton's third law' (action-reaction) for overshoots and undershoots suggests a view of the market as a system of forces. The concept of 'Abstract Frequency Anchoring' further implies that the most effective reference points for analysis may not be the obvious pivots, but rather hidden points of equilibrium or frequency that require deeper insight to identify. This elevates technical analysis from a simple drawing exercise to a sophisticated practice of 'reverse engineering' market dynamics.",
+    "educationalGoal": "The educational objective is to teach traders advanced, dynamic techniques for using the Andrews' Pitchfork to enhance its predictive accuracy. By demonstrating how to account for price nonlinearity through 'shifting' and 'tuning', the video aims to equip viewers with a more robust and flexible methodology for identifying high-probability reversal zones. This content is designed for traders who have already mastered the basics of the tool and are looking to refine their application to a professional level, moving from a static to a dynamic understanding of market geometry and frequency."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:54:10.215Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

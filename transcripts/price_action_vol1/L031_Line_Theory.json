@@ -1,0 +1,97 @@
+{
+  "id": "1fTFbE0qq3hbEjy8R_TSk6PZ9Jicx9vOV",
+  "fileName": "31 - Line Theory.mp4",
+  "displayTitle": "Line Theory",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 31,
+    "globalLessonNumber": 31
+  },
+  "content": {
+    "fullText": "The line theory I developed, I developed for this price action methodology is based on six different realms of science. There are three different types of geometry: Euclidean geometry, which is the two or three dimensional geometry most of us are familiar with; analytical geometry, which is the application of Euclidean geometry on a Cartesian graph like the price charts; and fractal geometry, which is a subset of Euclidean geometry related to chaos theory. We'll also work with the idea of abstract vector spaces in algebra to manipulate the raw price vectors in different ways. The idea of frequency in statistics, and the Newtonian laws of motion in classical mechanics. The line theory you'll find in this course functions under nine principles that will guide you to draw and discover new line relationships between price vectors. I will list the nine principles as an introduction, and in the next lectures, I will explain one by one with examples and all the techniques that come out of these principles. We have the principle of anchoring, extension, validation, extrapolation, frequency shifting and frequency tuning, convergence, cross-dimensionality, vectorization, and reverse engineering. In the next lecture, we'll begin with the principle of anchoring.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "The line theory I developed, I developed for this price action methodology is based on six different realms of science. There are three different types of geometry: Euclidean geometry, which is the two or three dimensional geometry most of us are familiar with; analytical geometry, which is the application of Euclidean geometry on a Cartesian graph like the price charts; and fractal geometry, which is a subset of Euclidean geometry related to chaos theory. We'll also work with the idea of abstract vector spaces in algebra to manipulate the raw price vectors in different ways. The idea of frequency in statistics, and the Newtonian laws of motion in classical mechanics.",
+        "startChar": 0,
+        "endChar": 677,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "The line theory you'll find in this course functions under nine principles that will guide you to draw and discover new line relationships between price vectors. I will list the nine principles as an introduction, and in the next lectures, I will explain one by one with examples and all the techniques that come out of these principles. We have the principle of anchoring, extension, validation, extrapolation, frequency shifting and frequency tuning, convergence, cross-dimensionality, vectorization, and reverse engineering. In the next lecture, we'll begin with the principle of anchoring.",
+        "startChar": 677,
+        "endChar": 1270,
+        "sequenceNumber": 1
+      }
+    ],
+    "chunkCount": 2,
+    "totalLength": 1270
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with the text \"Line Theory\" in a sans-serif font, centered over a faded, white-on-white bust of a classical philosopher, likely Aristotle."
+      },
+      {
+        "timestamp": "00:02",
+        "description": "A Venn-like diagram appears. In the center is the text \"Line Theory\" with arrows pointing to it from two rows of three overlapping blue circles. The top row of circles contains the text: \"Euclidean Geometry,\" \"Fractal Geometry,\" and \"Analytical Geometry.\" The bottom row of circles contains the text: \"Abstract Vector Spaces (Algebra),\" \"Frequency (Statistics),\" and \"Classical Mechanics (Newtonian Physics).\" The philosopher bust is faded in the background."
+      },
+      {
+        "timestamp": "00:47",
+        "description": "Slide changes to a title screen with the text \"9 Principles of Lines\" centered over the same faded philosopher bust."
+      },
+      {
+        "timestamp": "01:04",
+        "description": "A light green horizontal bar appears with the text \"Anchoring\" inside."
+      },
+      {
+        "timestamp": "01:06",
+        "description": "A second green bar appears below the first with the text \"Extension.\""
+      },
+      {
+        "timestamp": "01:07",
+        "description": "A third green bar appears with the text \"Validation.\""
+      },
+      {
+        "timestamp": "01:08",
+        "description": "A fourth green bar appears with the text \"Extrapolation.\""
+      },
+      {
+        "timestamp": "01:09",
+        "description": "A fifth green bar appears with the text \"Frequency Shifting/Tuning.\""
+      },
+      {
+        "timestamp": "01:12",
+        "description": "A sixth green bar appears with the text \"Convergence.\""
+      },
+      {
+        "timestamp": "01:13",
+        "description": "A seventh green bar appears with the text \"Cross Dimensionality.\""
+      },
+      {
+        "timestamp": "01:15",
+        "description": "An eighth green bar appears with the text \"Vectorization.\""
+      },
+      {
+        "timestamp": "01:16",
+        "description": "A ninth and final green bar appears with the text \"Reverse Engineering.\""
+      }
+    ],
+    "eventCount": 12
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the introduction of \"Line Theory,\" a proprietary price action methodology for financial markets. This theory is presented as a multi-disciplinary framework derived from six distinct scientific fields: Euclidean Geometry, Fractal Geometry, Analytical Geometry, Abstract Vector Spaces (Algebra), Statistics (Frequency), and Classical Mechanics (Newtonian Physics). The methodology is operationalized through nine fundamental principles: Anchoring, Extension, Validation, Extrapolation, Frequency Shifting/Tuning, Convergence, Cross Dimensionality, Vectorization, and Reverse Engineering. These principles govern how lines are drawn, interpreted, and used to analyze price vectors on a chart.",
+    "deeperMeaning": "The video implies that conventional technical analysis, particularly the drawing of trend lines, is often subjective and lacks a rigorous foundation. By grounding \"Line Theory\" in established principles from mathematics, physics, and statistics, the creator is positioning this methodology as a more objective, systematic, and intellectually robust approach to reading price action. The use of terms like \"vector spaces,\" \"fractal geometry,\" and \"Newtonian mechanics\" suggests that price is being modeled as a dynamic system with predictable, law-like properties, rather than random noise. This approach aims to transform the art of drawing lines into a scientific process, providing traders with a structured and repeatable framework for market analysis.",
+    "educationalGoal": "The overall purpose of this video segment is to serve as a high-level introduction and foundational lecture for a comprehensive course on the \"Line Theory\" of trading. It aims to establish the credibility and intellectual scope of the methodology by outlining its scientific underpinnings. The video functions as a syllabus, presenting a roadmap of the six core disciplines that inform the theory and the nine specific principles that will be taught in detail in subsequent lessons. This sets the stage and manages student expectations for a deep, rule-based curriculum that goes far beyond simple line-drawing techniques."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:45:23.180Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

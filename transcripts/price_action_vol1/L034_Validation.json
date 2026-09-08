@@ -1,0 +1,69 @@
+{
+  "id": "1qd-JNvfInz33qZGbDYtJaMq5oIg_XS3x",
+  "fileName": "34 - Validation.mp4",
+  "displayTitle": "Validation",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 34,
+    "globalLessonNumber": 34
+  },
+  "content": {
+    "fullText": "Validation. Validation is the principle that claims that if a line has been performing well in the recent past, it tends to perform well in the near future. We do that by analyzing past frequencies interacting with the line in question. In this image, we have a very clear example of the principle of validation in action. We have a standard pitchfork, and in the red squares, we can see how price displays frequencies along the pitchfork tail. This would be the recent past validation of this fork. In the green squares, we can see how price continues to respect the pitchfork lines. This is a simple idea, but it tends to be very effective with the application of any type of line. Again, the recent past gives clues about the near future. So, if we have a line that performs well with price in the recent past, we have a greater chance of seeing such a line working in the near future.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Validation. Validation is the principle that claims that if a line has been performing well in the recent past, it tends to perform well in the near future. We do that by analyzing past frequencies interacting with the line in question. In this image, we have a very clear example of the principle of validation in action. We have a standard pitchfork, and in the red squares, we can see how price displays frequencies along the pitchfork tail. This would be the recent past validation of this fork. In the green squares, we can see how price continues to respect the pitchfork lines. This is a simple idea, but it tends to be very effective with the application of any type of line. Again, the recent past gives clues about the near future.",
+        "startChar": 0,
+        "endChar": 742,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "So, if we have a line that performs well with price in the recent past, we have a greater chance of seeing such a line working in the near future.",
+        "startChar": 742,
+        "endChar": 888,
+        "sequenceNumber": 1
+      }
+    ],
+    "chunkCount": 2,
+    "totalLength": 888
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "The video opens with the word 'Validation' in a black sans-serif font centered over a faded, black-and-white bust of a classical Greek philosopher (resembling Aristotle) against a white background."
+      },
+      {
+        "timestamp": "00:02",
+        "description": "A semi-transparent green rectangle fades in, overlaying the philosopher's bust. Text appears inside the rectangle."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "The text inside the green rectangle reads: 'Validation is the principle that claims that if a line has been performing well in the recent past, it tends to perform well in the near future. We do that by analyzing past frequencies interacting with the line in question.'"
+      },
+      {
+        "timestamp": "00:15",
+        "description": "The slide transitions to a candlestick chart for the 'Euro / Japanese Yen, 180, FXCM'. A standard Andrews' Pitchfork is drawn on the chart. Text in the upper portion of the chart reads: 'Red squares show recent past frequencies validating the pitchfork. Green squares show how the pitchfork performed in the near future.'"
+      },
+      {
+        "timestamp": "00:16",
+        "description": "The chart remains static for the rest of the video. It displays: \n- A standard pitchfork with an upper parallel line, a median line, and a lower parallel line. \n- Three semi-transparent red squares highlighting price action from the recent past interacting with the pitchfork lines, demonstrating initial validation. \n- Four semi-transparent green squares highlighting subsequent price action in the near future, showing how the validated lines continued to act as support and resistance."
+      }
+    ],
+    "eventCount": 5
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the 'Principle of Validation' in technical analysis. This principle asserts that a technical line (e.g., a trendline, channel, or pitchfork line) gains predictive power if it has been demonstrably respected by price action in the recent past. The methodology involves identifying these historical interactions ('past frequencies') to confirm the line's significance before relying on it for future trading decisions.",
+    "deeperMeaning": "The principle of validation implies that not all technical lines are created equal. It introduces a critical filtering mechanism for traders, suggesting they should prioritize lines that have earned relevance through recent market behavior. This moves analysis from merely drawing geometric patterns to a more evidence-based approach of qualifying their significance. The use of the term 'frequencies' suggests a market view where price oscillates between established energetic or structural boundaries. Strategically, this encourages traders to seek confirmation and trade at high-probability levels that have a proven history, rather than acting on any arbitrary line.",
+    "educationalGoal": "The educational objective is to teach traders a fundamental and practical method for increasing the reliability of their technical analysis. By introducing the concept of validation, the video aims to instill a more disciplined and discerning approach to using tools like pitchforks. This lesson fits into a broader curriculum by establishing a foundational rule for qualifying a setup's potential, thereby helping traders filter out weak signals and improve the probability of their trades."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:47:25.907Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

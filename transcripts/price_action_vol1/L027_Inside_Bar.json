@@ -1,0 +1,54 @@
+{
+  "id": "1bALGFdfYBDzrVPNlmyLPB8yIz-D1R5Ue",
+  "fileName": "27 - Inside Bar.mp4",
+  "displayTitle": "Inside Bar",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 27,
+    "globalLessonNumber": 27
+  },
+  "content": {
+    "fullText": "An inside bar is a bar that is fully contained in the range of the previous candle. Inside bars imply a momentary stop of price. Inside bars are considered to be a weak signal because they can happen all over the place. As you can see by the vertical lines on the chart, inside bars happen in some sort of random way. The use of inside bars is when they appear in hybrid bars and or in combination with other powerful elements like supply and demand zones or complex line work.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "An inside bar is a bar that is fully contained in the range of the previous candle. Inside bars imply a momentary stop of price. Inside bars are considered to be a weak signal because they can happen all over the place. As you can see by the vertical lines on the chart, inside bars happen in some sort of random way. The use of inside bars is when they appear in hybrid bars and or in combination with other powerful elements like supply and demand zones or complex line work.",
+        "startChar": 0,
+        "endChar": 477,
+        "sequenceNumber": 0
+      }
+    ],
+    "chunkCount": 1,
+    "totalLength": 477
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "A title slide with a white background. In the center, there is a faded, white-grey bust of a classical Greek philosopher (resembling Aristotle). The text \"Inside Bar\" is written in black font across the center of the image."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "A semi-transparent green rectangle appears over the bust, containing white text that reads: \"An inside bar is a bar that is fully contained in the range of the previous candle. Inside bars imply a momentary stop of price.\""
+      },
+      {
+        "timestamp": "00:17",
+        "description": "The screen transitions to a candlestick chart from tradingview.com. The chart displays the Australian Dollar / U.S. Dollar (FX:AUDUSD) on a 240-minute timeframe. The candles are colored green (for bullish) and red (for bearish). The chart shows price action from approximately March 18 to April 9."
+      }
+    ],
+    "eventCount": 3
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the definition and strategic use of an 'inside bar' in technical analysis. An inside bar is a candlestick whose entire price range (high and low) is contained within the price range of the immediately preceding candle. The video emphasizes that, in isolation, the inside bar is a weak and unreliable signal for trading because it occurs frequently and randomly, signifying only a temporary consolidation or pause in price. Its practical utility arises only when it appears in confluence with other, more powerful analytical elements, such as within 'hybrid bars,' at significant 'supply and demand zones,' or in conjunction with 'complex line work.'",
+    "deeperMeaning": "The deeper implication is a warning against simplistic, isolated pattern recognition in trading. The video suggests that true market analysis requires a multi-layered, context-dependent approach. A pattern like the inside bar is not a standalone signal but a piece of information that gains significance only from its location and the surrounding market structure. This promotes a more robust trading methodology where signals must be confirmed by a confluence of factors, thereby increasing the probability of a successful trade and filtering out market noise.",
+    "educationalGoal": "The educational objective is to introduce traders to the inside bar candlestick pattern while immediately qualifying its limitations. The purpose is not just to define the pattern but to teach the proper, contextual way to interpret it. By highlighting its weakness as a standalone signal and stressing its use as a complementary tool, the video aims to prevent traders from making poor decisions based on a common but low-probability setup. This lesson fits into a broader curriculum focused on building a sophisticated, evidence-based trading framework rather than relying on individual, often misleading, indicators or patterns."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:42:46.302Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "1DtJIObSDqkXfTtE7OYMwCCM_P6P5puwk",
+  "fileName": "12 - Praxeological Elements.mp4",
+  "displayTitle": "Praxeological Elements",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 12,
+    "globalLessonNumber": 12
+  },
+  "content": {
+    "fullText": "[00:00] In this lecture, we are going to see a list of the 18 praxeological elements we can identify in the price chart. This is just an introduction to this idea of praxeological element. Each element or pattern will be presented individually in separate lectures so it's easier to review certain patterns quickly. Praxeological patterns are simply patterns that imply some sort of human behavior. Remember that praxeology means the logic of action or the logic of practice. So a praxeological element is a pattern that implies a specific human behavior that happens frequently in the markets. [00:41] We have extremes, midpoints, frequencies, inward frequencies, outward frequencies, precise supply and demand zones, dynamic frequency breakout, wick expansion, pressure zones, volatility shift lines, solid structures, fake structure, the manipulation pattern, fractal bar, inside bar, outside bar, pressure bar, and the hybrid bar. I will explain each pattern with examples in the following 18 lectures.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:00] In this lecture, we are going to see a list of the 18 praxeological elements we can identify in the price chart. This is just an introduction to this idea of praxeological element. Each element or pattern will be presented individually in separate lectures so it's easier to review certain patterns quickly. Praxeological patterns are simply patterns that imply some sort of human behavior. Remember that praxeology means the logic of action or the logic of practice. So a praxeological element is a pattern that implies a specific human behavior that happens frequently in the markets.",
+        "startChar": 0,
+        "endChar": 595,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "[00:41] We have extremes, midpoints, frequencies, inward frequencies, outward frequencies, precise supply and demand zones, dynamic frequency breakout, wick expansion, pressure zones, volatility shift lines, solid structures, fake structure, the manipulation pattern, fractal bar, inside bar, outside bar, pressure bar, and the hybrid bar. I will explain each pattern with examples in the following 18 lectures.",
+        "startChar": 595,
+        "endChar": 1006,
+        "sequenceNumber": 1
+      }
+    ],
+    "chunkCount": 2,
+    "totalLength": 1006
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with a white background. In the center, there is a faint, white-on-white marble bust of the philosopher Aristotle. Overlaid in black text is the title: \"Praxeological Elements\"."
+      },
+      {
+        "timestamp": "00:24",
+        "description": "The background image of Aristotle remains. A solid light-green rectangular box appears over the center of the image with the following text in black: \"Praxeological elements or patterns are events in the chart that imply some sort of human behavior.\""
+      },
+      {
+        "timestamp": "00:41",
+        "description": "A two-column list begins to form on the screen, with each item appearing sequentially as it is spoken. The list is contained within light-green boxes with black text. The first column contains: 'Extremes (Highs and Lows)', 'Midpoints', 'Frequencies', 'Inward Frequency', 'Outward Frequency', 'Precise Supply and Demand Zones', 'Dynamic Frequency Breakout', 'Wick Expansion', 'Pressure Zones'."
+      },
+      {
+        "timestamp": "00:57",
+        "description": "The second column of the list begins to populate next to the first one. The items are: 'Volatility Shift Lines', 'Solid Structure', 'Fake Structure', 'Manipulation Pattern', 'Fractal Bar', 'Inside Bar', 'Outside Bar', 'Pressure Bar', 'Hybrid Bar'. By the end, a complete 2x9 grid of 18 elements is displayed on the screen."
+      }
+    ],
+    "eventCount": 4
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept being taught is the framework of 'Praxeological Elements,' defined as 18 specific, recurring price chart patterns that are not random but rather signify predictable human behavior in financial markets. This lecture serves as an introduction and table of contents for these 18 elements, which will be detailed in subsequent lessons.",
+    "deeperMeaning": "The use of the term 'praxeology' (the logic of human action) and the visual of Aristotle implies a shift from conventional technical analysis to a more philosophical, first-principles approach. It suggests that market movements can be understood by analyzing the underlying human choices and actions that create them. Price charts are viewed as a direct record of human behavior, and by identifying these 'praxeological elements,' a trader can logically deduce market participants' intentions rather than just relying on lagging indicators or arbitrary pattern recognition.",
+    "educationalGoal": "The educational objective of this video is to introduce a specific, proprietary vocabulary and analytical framework for interpreting price action. It acts as a foundational syllabus for a larger course module. Its purpose is to define the core concept of praxeological elements and list the 18 patterns that students will be required to master, setting the stage for more in-depth, individual lessons on each pattern."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:32:40.192Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

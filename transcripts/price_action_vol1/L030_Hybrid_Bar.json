@@ -1,0 +1,54 @@
+{
+  "id": "1tWUAL_yrlUtygqAfi2Hfysy0ujqWaGqe",
+  "fileName": "30 - Hybrid Bar.mp4",
+  "displayTitle": "Hybrid Bar",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 30,
+    "globalLessonNumber": 30
+  },
+  "content": {
+    "fullText": "A hybrid bar is a combination of two or more bar types in one single bar. The interpretation of the bar is a combination of the individual interpretations of all bar patterns contained in the bar. In this chart, we have several hybrid bars, and they all imply two or more simple patterns. For example, at the bottom, we have a hybrid bar that is formed by a fractal bar and an outside bar simultaneously. So it implies a reversal and a burst of volatility at the same time. Also, at the bottom, we have a bar with three patterns implied into it: a fractal bar, a buy pressure bar, and an outside bar. In other words, this bar is signaling the market will go up, which it does quite dramatically right after.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "A hybrid bar is a combination of two or more bar types in one single bar. The interpretation of the bar is a combination of the individual interpretations of all bar patterns contained in the bar. In this chart, we have several hybrid bars, and they all imply two or more simple patterns. For example, at the bottom, we have a hybrid bar that is formed by a fractal bar and an outside bar simultaneously. So it implies a reversal and a burst of volatility at the same time. Also, at the bottom, we have a bar with three patterns implied into it: a fractal bar, a buy pressure bar, and an outside bar. In other words, this bar is signaling the market will go up, which it does quite dramatically right after.",
+        "startChar": 0,
+        "endChar": 707,
+        "sequenceNumber": 0
+      }
+    ],
+    "chunkCount": 1,
+    "totalLength": 707
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "The video opens with a title slide. A white marble bust of the Greek philosopher Aristotle is shown against a plain white background. The text 'Hybrid Bar' is centered over the bust in a black, sans-serif font."
+      },
+      {
+        "timestamp": "00:03",
+        "description": "The text 'Hybrid Bar' fades out. A semi-transparent green rectangle appears over the bust of Aristotle, containing the following white text: 'A hybrid bar is a combination of two or more bar types in one single bar. The interpretation of the bar is a combination of the individual interpretations of all bar patterns contained in the bar.'"
+      },
+      {
+        "timestamp": "00:15",
+        "description": "The screen transitions to a candlestick chart for the 'Australian Dollar / U.S. Dollar, 120' (AUD/USD, 2-hour timeframe). The chart displays green (bullish) and red (bearish) candles. Numerous text annotations with arrows are pointing to specific candles to identify them as hybrid bars. The annotations are:\n- 'Outside + Fractal Bar' (pointing to a red candle with a red down arrow)\n- 'Outside + Fractal Bar' (pointing to a large green candle with a green diamond symbol)\n- 'Fractal Bar + Buy Pressure' (pointing to a green candle with a green diamond symbol)\n- 'Fractal Bar + Buy & Sell Pressure' (pointing to a red candle with a red down arrow)\n- 'Fractal Bar + Buy Pressure + Outside Bar' (pointing to a green candle with a green diamond symbol)\n- 'Inside Bar + Buy Pressure' (pointing to a green candle with a green diamond symbol)\n- 'Fractal Bar + Sell Pressure' (pointing to a red candle with a long upper wick and a red down arrow)\n- 'Fractal Bar + Buy Pressure' (pointing to a red candle with a red down arrow)\n- 'Inside Bar + Buy Pressure' (pointing to a green candle with a green diamond symbol)"
+      }
+    ],
+    "eventCount": 3
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the 'Hybrid Bar,' defined as a single candlestick that simultaneously embodies the characteristics of two or more distinct price action patterns (e.g., a fractal bar that is also an outside bar and a buy pressure bar). The methodology for interpreting such a bar is to synthesize the individual meanings of each contained pattern to derive a more nuanced and potent trading signal.",
+    "deeperMeaning": "The deeper implication is that price action analysis should not be a rigid, one-dimensional process of identifying isolated patterns. A single bar can contain multiple layers of market information. By learning to recognize these confluences within one candle, a trader can develop a more sophisticated understanding of market dynamics. A hybrid bar that combines reversal, pressure, and volatility signals (like the 'Fractal + Buy Pressure + Outside Bar' example) suggests a higher probability setup than a bar showing only one of these characteristics. The use of Aristotle's bust subtly alludes to the philosophical concept of synthesis—combining separate elements to form a coherent whole—as a method for deeper analysis.",
+    "educationalGoal": "The educational objective is to advance a trader's understanding of candlestick analysis from basic pattern recognition to a more complex, integrated approach. This lesson serves to teach traders how to identify and interpret 'Hybrid Bars' to find higher-conviction trade signals. It fits within a broader curriculum after the foundational concepts of individual bar patterns (fractals, inside/outside bars, pressure bars) have already been mastered, acting as a lesson on how to combine that prior knowledge into a more powerful analytical framework."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:44:43.339Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

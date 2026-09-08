@@ -1,0 +1,88 @@
+{
+  "id": "16tl4-Fh_Tr5updOJgJHA2egrnibwUj2f",
+  "fileName": "15 - Frequencies.mp4",
+  "displayTitle": "Frequencies",
+  "course": {
+    "name": "price_action_vol1",
+    "volumeNumber": 1,
+    "lessonNumber": 15,
+    "globalLessonNumber": 15
+  },
+  "content": {
+    "fullText": "[00:00] Frequencies.\n[00:02] In statistics, frequency is how many times a data point occurs. In price, a frequency line shows a common path between a given number of wicks, or how many times a data point occurs in a given number of candle wicks.\n[00:16] In this first image, we can see a collection of candle wicks at a market extreme. Can you identify the common path between all those candle wicks?\n[00:25] A frequency line cannot violate candle bodies. It can only occur at the wicks.\n[00:30] In the second image, we can see a range that shows an area where all the four wicks have a common path.\n[00:37] In a high, the frequency line is the upper limit of this zone we identify because that's the most 'outward' frequency. In a low, the frequency line is the lower limit of such a zone because that's the most outward frequency.\n[00:53] The reason to choose the most outward frequency line is because inside the little range where all candle wicks have a common path, there is an infinite number of lines, so we must choose one. Technically speaking, the outward frequency shows the most extreme frequency line, which is better for both entries and exits in terms of precision.\n[1:14] Besides horizontal frequency lines, we also have sloped frequency lines, and they work in the exact same way.\n[1:20] In these three lows, we can see that the most outward frequency between the two lows predicts the frequency on the third low.\n[1:28] Frequencies can also have an overthrow, which is simply a range determined by a price spike.\n[1:34] In this same example, we see that price respects the frequency line by closing above it in the second low, but it creates a spike down. We can extrapolate the original frequency line with the same angle to the spike extreme. Notice how precisely that overthrow frequency line catches the third low.\n[1:52] This idea of overthrowing frequency lines has the built-in frequency shifting principle of lines that we are going to discuss later on.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:00] Frequencies.\n[00:02] In statistics, frequency is how many times a data point occurs. In price, a frequency line shows a common path between a given number of wicks, or how many times a data point occurs in a given number of candle wicks.\n[00:16] In this first image, we can see a collection of candle wicks at a market extreme. Can you identify the common path between all those candle wicks?\n[00:25] A frequency line cannot violate candle bodies. It can only occur at the wicks.\n[00:30] In the second image, we can see a range that shows an area where all the four wicks have a common path.\n[00:37] In a high, the frequency line is the upper limit of this zone we identify because that's the most 'outward' frequency.",
+        "startChar": 0,
+        "endChar": 727,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "In a low, the frequency line is the lower limit of such a zone because that's the most outward frequency.\n[00:53] The reason to choose the most outward frequency line is because inside the little range where all candle wicks have a common path, there is an infinite number of lines, so we must choose one. Technically speaking, the outward frequency shows the most extreme frequency line, which is better for both entries and exits in terms of precision.\n[1:14] Besides horizontal frequency lines, we also have sloped frequency lines, and they work in the exact same way.\n[1:20] In these three lows, we can see that the most outward frequency between the two lows predicts the frequency on the third low.\n[1:28] Frequencies can also have an overthrow, which is simply a range determined by a price sp",
+        "startChar": 727,
+        "endChar": 1527,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "ike.\n[1:34] In this same example, we see that price respects the frequency line by closing above it in the second low, but it creates a spike down. We can extrapolate the original frequency line with the same angle to the spike extreme. Notice how precisely that overthrow frequency line catches the third low.\n[1:52] This idea of overthrowing frequency lines has the built-in frequency shifting principle of lines that we are going to discuss later on.",
+        "startChar": 1527,
+        "endChar": 1980,
+        "sequenceNumber": 2
+      }
+    ],
+    "chunkCount": 3,
+    "totalLength": 1980
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide with the word 'Frequencies' in black text centered on a light grey background. A faint, white marble bust of the Greek philosopher Aristotle is visible behind the text."
+      },
+      {
+        "timestamp": "00:02",
+        "description": "A definition appears in a mint green rectangular box. The text reads: 'In statistics, frequency is how many times a data point occurs. In price, a frequency line shows a common path between a given number of wicks, or how many times a data points occurs in a given number of candle wicks.' The Aristotle bust remains faintly in the background."
+      },
+      {
+        "timestamp": "00:16",
+        "description": "A candlestick chart for 'British Pound / U.S. Dollar, 60, FXCM' is displayed. A light blue rectangle highlights a price high, encompassing four distinct candle wicks. Text on the right asks: 'What's the frequency between these four wicks?'"
+      },
+      {
+        "timestamp": "00:27",
+        "description": "The same chart is shown. The light blue rectangle is now smaller and more precise, with its top edge aligned with the lowest high of the four wicks and its bottom edge aligned with the top of the highest candle body in the group. Text below reads: 'A frequency cannot violate the candle body, so in those four wicks, the rectangle shows all the points where the wicks have a common path.'"
+      },
+      {
+        "timestamp": "00:37",
+        "description": "The same chart, but the rectangle is gone. Two horizontal red lines are drawn, marking the upper and lower boundaries of the common wick area identified previously. Text below reads: 'In a high, the frequency line is the upper line of the rectangle because that's the most \"outward\" frequency. In a low, it would be the lower line.'"
+      },
+      {
+        "timestamp": "01:15",
+        "description": "A new candlestick chart for 'Euro / U.S. Dollar, 5, FXCM' is shown. The price is in a downtrend followed by a consolidation at a low. A light blue rectangle highlights a series of lows, encompassing multiple candle wicks. Text on the right reads: 'What about a sloped frequency between these lows?'"
+      },
+      {
+        "timestamp": "01:23",
+        "description": "On the same EUR/USD chart, a sloped red line is drawn connecting the low points of the first two major wicks in the highlighted area. A small square highlights how a subsequent candle's wick touches this line precisely. The text below reads: 'The line shows the most \"outward\" path between those candle wicks. Notice how the lows inside the small square could be predicted by the frequency of the last two lows.'"
+      },
+      {
+        "timestamp": "01:30",
+        "description": "The EUR/USD chart is further annotated. The three main lows are numbered '1', '2', and '3'. The original sloped line is labeled 'Frequency Line'. A second, parallel sloped line is drawn below the first, starting from the absolute low of wick '2', which pierced the original line. This lower line is labeled 'Overthrow'. This overthrow line perfectly touches the bottom of wick '3'. The text in a box explains: 'Frequencies also show an overthrow. Notice how the exact candle low in 3 could be predicted by the frequency between 1 and 2, and the overthrow in 2, which respects the same angle as the original frequency.'"
+      }
+    ],
+    "eventCount": 8
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the 'frequency line,' a precise level of support or resistance derived from the common price path shared by the wicks of multiple candles. For a high, the frequency line is the highest price level common to all wicks in a set; for a low, it's the lowest common level. This principle applies to both horizontal and sloped lines. When price pierces a frequency line (an 'overthrow'), it creates a new, parallel frequency that can be used to predict subsequent price turning points with high precision.",
+    "deeperMeaning": "This methodology implies that price action is not random but geometrically structured. The market has a 'memory' at specific price levels defined by the overlap of candle wicks. These frequency lines represent a consensus point of rejection. An 'overthrow' is not a failure of the line but a quantifiable 'frequency shift,' suggesting that market volatility expands in predictable, parallel channels. This approach allows for a more precise and dynamic form of technical analysis than standard trendlines, enabling traders to anticipate exact entry and exit points.",
+    "educationalGoal": "The educational objective is to teach traders a specific, rule-based technique for identifying and utilizing highly precise support and resistance levels. By defining 'frequency' in the context of candle wicks and introducing the concept of 'overthrows,' the video aims to provide a sophisticated tool for price action analysis. This lesson fits into a broader curriculum focused on a geometric or fractal understanding of market behavior, moving beyond generic concepts to actionable, precise methodologies."
+  },
+  "metadata": {
+    "processedAt": "2025-08-23T23:34:49.700Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}
