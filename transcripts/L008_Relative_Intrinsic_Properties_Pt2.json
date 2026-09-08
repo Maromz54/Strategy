@@ -1,0 +1,203 @@
+{
+  "id": "1enLAaz5pxWGEGUvXWab7YYbaAptZh6co",
+  "fileName": "07 - Relative Intrinsic Properties Pt2 .mkv",
+  "displayTitle": "Relative Intrinsic Properties Pt2 ",
+  "course": {
+    "name": "fractal_trading",
+    "lessonNumber": 8,
+    "globalLessonNumber": 82
+  },
+  "content": {
+    "fullText": "[00:00] decrease or remain equal. Changes in upper shadow size are directly proportional to changes in selling pressure. Changes in lower shadow size are directly proportional to changes in buying pressure. Changes in shadows are different than range dynamics because the former is when we look at shadows individually, meaning the progression upper shadows or the progression in lower shadows, and the latter is when we look at both shadows simultaneously. [00:25] Changes in body percentage. Observing changes in body percentage is useful to assess the expansion or contraction of uncertainty behind candlestick action. Uncertainty can, of course, increase, decrease, or stay the same. This can be very useful in moments where the trader is trying to decide whether or not to pull the trigger on a trade or wait for further confirmation. As we saw previously, changes in body percentage are affected by candle range in significant ways. If body percentage increases, there is a decrease in uncertainty or an increase in certainty, depending on how one to look at it. If body percentage decreases, there is an increase in uncertainty or a decrease in certainty. No change in body percentage, of course, means a sustain in the current level of uncertainty. In other words, changes in body percentage are inversely proportional to uncertainty or directly proportional to certainty. [01:29] Changes in shadow symmetry or body position. Shadow symmetry or body position serve as a bias to the uncertainty measure of body percentage. This bias can also change in simple ways from one candle to another. An uncertain candle with high or low body position shows a bias to the direction where the candle body is in relation to the range. Take a look at these two sets of adjacent candles. The two sets are upward progressions in terms of range dynamics, meaning a higher high and a higher low. Both have a bias change from bullish to bearish. Both have the same decrease in body size, and both have the same decrease in body percentage, which represents a rise in uncertainty. The difference between the two sets lies in the change between shadow symmetry or body position, which also translates into a quantitative difference in terms of range dynamics. In the first set, we have a small upper shadow and a large lower shadow, which immediately translates into a high body position and a bias to the upside. In the second set, we have a large upper shadow and a small lower shadow, which translates into a low body position and a bias to the downside. Notice there is a paradox here. The candle set that implies a greater bearish power also shows a more prominent upward progression. This is why we must analyze these properties in context. By themselves, they have blind spots. [03:00] Before moving on to examples, we need to talk about gaps, which is an additional factor that can alter the interpretation of relative intrinsic properties in various ways. We can generalize gaps in two main categories: the explicit and the implicit gaps, which have bullish and bearish variations. The explicit gaps occur when there is a space between two adjacent candle ranges. These gaps are explicit because they are immediately obvious. Implicit gaps occur within candle ranges. They are called implicit because they are less obvious and can go unnoticed if the trader doesn't pay enough attention. Upward gaps represent bullish power, and downward gaps represent bearish power. Gaps, especially implicit gaps, can create several nuances of interpretation in terms of relative intrinsic properties. Another important idea here is that implicit gaps can create bullish power between bearish candles or bearish power between bullish candles. In this image, you can see two examples of that. When a novice trader sees two bullish candles without being aware of implicit gaps, he assumes bullish power only. But there is a bearish gap of the same size of the bullish body from one candle to the other. The case on the right is the precise opposite. Given the knowledge of intrinsic properties in absolute and relative terms, it's now time to see the practice of all these ideas, which is where the rubber meets the road, so to speak. The practical element is absolutely indispensable here. The natural path is to learn how to analyze candles in isolation, meaning in absolute terms, then to analyze two adjacent candles in relative terms, then to analyze a whole price vector, and then become aware of the dynamics of how price vectors continue or reverse. [04:54] Examples of relative intrinsic properties. In this image, we have a set of two candles. We can easily detect that there is a bearish bias continuation at the same time that there is an increase in body size. That means sellers are not only dominant, but they are gaining power. We have an increase in range from the first candle to the second, meaning an increase in volatility that accommodates the increase in body size. In terms of range dynamics, we have a downward progression, meaning that in terms of range dynamics in isolation, this movement implies a lower high and a lower low, another sign of bearish power. Looking at the shadows, we can perceive a decrease in upper shadow size, which implies a decrease in bearish pressure. Even though this seems in contradiction with the general tone of the movement, we have to recall that the selling pressure present at the upper shadow of the first candle transmuted into body size in the second candle. Lower shadows remain small and constant, so the degree of bullish pressure remains the same. But in comparison to the magnitude of the candle and the overall movement, the lower shadows are insignificant. In terms of body percentage, there is a very clear change from uncertainty to certainty, meaning that the body percentage goes from low to high. With that said, notice that even though body percentage is small in the first candle, it is also asymmetrical to the downside, meaning that there is already a bearish bias implied in the upper shadow of the first candle. In general, we see the movement from bearish uncertainty to bearish certainty in synchrony with an increase in volatility, a clear sign of bearish power. [06:37] In the second example, we can see a change in bias from bearish to bullish along with the decrease in body size. That means the control of the market changed from the hands of sellers to the hands of buyers, but buyers are not as strong as the sellers were in the previous candle, at least not when we analyze these two candles without the broader context. In terms of range, we have a decrease in volatility, and in terms of range dynamics, we have a contraction, which puts the second candle in the inside candle position. An important note here is that there are many kinds of inside candles despite what most traders think. In terms of shadows, there's nothing going on in terms of the upper shadows, but there is an interesting dynamic happening at the lower shadows. Even though they decrease, they draw our attention when we look at the candle set as a whole, which demonstrates some buying pressure. Most of the bullish power has already transformed into body size, though. Body percentage remains basically the same in this set, although range decreases. That means that uncertainty remains at a low level due to the high body percentage, but the decrease in volatility shows that the bias change is not so powerful, at least not right now. In general, we can see the market switching hands from sellers to buyers, but not in a violent way, which is a favorable scenario a lot of the times because we want to detect reversals in price before a burst in volatility occurs. That allows us to minimize risk and maximize return through the detection of the butterfly effect in price. More on that later. [08:16] Let's look at a third and final hypothetical example. In this set, we can see a bias change, but at the same time, we have small bodies and no change in body size. That means that even though we have a change of control from buyers to sellers, this change is far from being important due to the small body size. We also have an increase in range or volatility at the same time there is an upward progression in terms of range dynamics. That means price action is progressing to the upside in some sense, but this interpretation of range dynamics is nothing without deeper analysis of the geometry between shadows and bodies, which leads us directly to the notion of how the shadows are progressing. There is a small decrease in lower shadows, meaning that bullish pressure is decreasing slightly, while not being transformed into body size, which is an important detail. Upper shadows increased significantly, which shows a burst of selling pressure. Even though range dynamics tells us this is implying an upward price movement in a lower timeframe, the dynamics of shadows tells us that bullish pressure is dissipating and bearish pressure is rising. In terms of body percentage, there is an increase in uncertainty, although it's not obvious that this is the case. The size of the candle bodies remains the same, but range increases from one candle to the next, so the same candle body represents a lower body percentage in the second candle. Interestingly, the symmetry of shadows or the body position, depending on how you want to look at it, change from bias to the upside to a more neutral position. Given the analysis of these properties in context, we can detect a subtle transition from buyers to sellers beginning to emerge, although the general tone of this candle set is mostly uncertain. Hopefully, you can notice the pointlessness of memorizing different patterns for candles. The relationship between the intrinsic properties can spark too many interpretations. So once again, we have strong evidence that learning the meaning of the intrinsic properties in context is a much smarter and easier way of looking at candlesticks. With enough practice, you will be able to detect the narrative that emerges out of candlesticks without thinking too much about them, like we are doing in these hypothetical examples. Keep in mind that we are dissecting these examples as much as possible for educational purposes. Another important point here is that this kind of deeper analysis is only productive if made in specific points in the chart. Doing this in every single candle is counterproductive. It's important that you realize that some intrinsic properties may seem redundant in a first moment, but once you start to analyze the evolution of candles over time, the different perspectives of how to observe the same relationship allow you to create a deeper analysis.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:00] decrease or remain equal. Changes in upper shadow size are directly proportional to changes in selling pressure. Changes in lower shadow size are directly proportional to changes in buying pressure. Changes in shadows are different than range dynamics because the former is when we look at shadows individually, meaning the progression upper shadows or the progression in lower shadows, and the latter is when we look at both shadows simultaneously. [00:25] Changes in body percentage. Observing changes in body percentage is useful to assess the expansion or contraction of uncertainty behind candlestick action. Uncertainty can, of course, increase, decrease, or stay the same.",
+        "startChar": 0,
+        "endChar": 688,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "This can be very useful in moments where the trader is trying to decide whether or not to pull the trigger on a trade or wait for further confirmation. As we saw previously, changes in body percentage are affected by candle range in significant ways. If body percentage increases, there is a decrease in uncertainty or an increase in certainty, depending on how one to look at it. If body percentage decreases, there is an increase in uncertainty or a decrease in certainty. No change in body percentage, of course, means a sustain in the current level of uncertainty. In other words, changes in body percentage are inversely proportional to uncertainty or directly proportional to certainty. [01:29] Changes in shadow symmetry or body position.",
+        "startChar": 688,
+        "endChar": 1434,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "Shadow symmetry or body position serve as a bias to the uncertainty measure of body percentage. This bias can also change in simple ways from one candle to another. An uncertain candle with high or low body position shows a bias to the direction where the candle body is in relation to the range. Take a look at these two sets of adjacent candles. The two sets are upward progressions in terms of range dynamics, meaning a higher high and a higher low. Both have a bias change from bullish to bearish. Both have the same decrease in body size, and both have the same decrease in body percentage, which represents a rise in uncertainty.",
+        "startChar": 1434,
+        "endChar": 2070,
+        "sequenceNumber": 2
+      },
+      {
+        "id": "chunk_3",
+        "text": "The difference between the two sets lies in the change between shadow symmetry or body position, which also translates into a quantitative difference in terms of range dynamics. In the first set, we have a small upper shadow and a large lower shadow, which immediately translates into a high body position and a bias to the upside. In the second set, we have a large upper shadow and a small lower shadow, which translates into a low body position and a bias to the downside. Notice there is a paradox here. The candle set that implies a greater bearish power also shows a more prominent upward progression. This is why we must analyze these properties in context. By themselves, they have blind spots.",
+        "startChar": 2070,
+        "endChar": 2773,
+        "sequenceNumber": 3
+      },
+      {
+        "id": "chunk_4",
+        "text": "[03:00] Before moving on to examples, we need to talk about gaps, which is an additional factor that can alter the interpretation of relative intrinsic properties in various ways. We can generalize gaps in two main categories: the explicit and the implicit gaps, which have bullish and bearish variations. The explicit gaps occur when there is a space between two adjacent candle ranges. These gaps are explicit because they are immediately obvious. Implicit gaps occur within candle ranges. They are called implicit because they are less obvious and can go unnoticed if the trader doesn't pay enough attention. Upward gaps represent bullish power, and downward gaps represent bearish power.",
+        "startChar": 2773,
+        "endChar": 3465,
+        "sequenceNumber": 4
+      },
+      {
+        "id": "chunk_5",
+        "text": "Gaps, especially implicit gaps, can create several nuances of interpretation in terms of relative intrinsic properties. Another important idea here is that implicit gaps can create bullish power between bearish candles or bearish power between bullish candles. In this image, you can see two examples of that. When a novice trader sees two bullish candles without being aware of implicit gaps, he assumes bullish power only. But there is a bearish gap of the same size of the bullish body from one candle to the other. The case on the right is the precise opposite. Given the knowledge of intrinsic properties in absolute and relative terms, it's now time to see the practice of all these ideas, which is where the rubber meets the road, so to speak.",
+        "startChar": 3465,
+        "endChar": 4216,
+        "sequenceNumber": 5
+      },
+      {
+        "id": "chunk_6",
+        "text": "The practical element is absolutely indispensable here. The natural path is to learn how to analyze candles in isolation, meaning in absolute terms, then to analyze two adjacent candles in relative terms, then to analyze a whole price vector, and then become aware of the dynamics of how price vectors continue or reverse. [04:54] Examples of relative intrinsic properties. In this image, we have a set of two candles. We can easily detect that there is a bearish bias continuation at the same time that there is an increase in body size. That means sellers are not only dominant, but they are gaining power. We have an increase in range from the first candle to the second, meaning an increase in volatility that accommodates the increase in body size.",
+        "startChar": 4216,
+        "endChar": 4970,
+        "sequenceNumber": 6
+      },
+      {
+        "id": "chunk_7",
+        "text": "In terms of range dynamics, we have a downward progression, meaning that in terms of range dynamics in isolation, this movement implies a lower high and a lower low, another sign of bearish power. Looking at the shadows, we can perceive a decrease in upper shadow size, which implies a decrease in bearish pressure. Even though this seems in contradiction with the general tone of the movement, we have to recall that the selling pressure present at the upper shadow of the first candle transmuted into body size in the second candle. Lower shadows remain small and constant, so the degree of bullish pressure remains the same. But in comparison to the magnitude of the candle and the overall movement, the lower shadows are insignificant.",
+        "startChar": 4970,
+        "endChar": 5710,
+        "sequenceNumber": 7
+      },
+      {
+        "id": "chunk_8",
+        "text": "In terms of body percentage, there is a very clear change from uncertainty to certainty, meaning that the body percentage goes from low to high. With that said, notice that even though body percentage is small in the first candle, it is also asymmetrical to the downside, meaning that there is already a bearish bias implied in the upper shadow of the first candle. In general, we see the movement from bearish uncertainty to bearish certainty in synchrony with an increase in volatility, a clear sign of bearish power. [06:37] In the second example, we can see a change in bias from bearish to bullish along with the decrease in body size.",
+        "startChar": 5710,
+        "endChar": 6351,
+        "sequenceNumber": 8
+      },
+      {
+        "id": "chunk_9",
+        "text": "That means the control of the market changed from the hands of sellers to the hands of buyers, but buyers are not as strong as the sellers were in the previous candle, at least not when we analyze these two candles without the broader context. In terms of range, we have a decrease in volatility, and in terms of range dynamics, we have a contraction, which puts the second candle in the inside candle position. An important note here is that there are many kinds of inside candles despite what most traders think. In terms of shadows, there's nothing going on in terms of the upper shadows, but there is an interesting dynamic happening at the lower shadows. Even though they decrease, they draw our attention when we look at the candle set as a whole, which demonstrates some buying pressure.",
+        "startChar": 6351,
+        "endChar": 7146,
+        "sequenceNumber": 9
+      },
+      {
+        "id": "chunk_10",
+        "text": "Most of the bullish power has already transformed into body size, though. Body percentage remains basically the same in this set, although range decreases. That means that uncertainty remains at a low level due to the high body percentage, but the decrease in volatility shows that the bias change is not so powerful, at least not right now. In general, we can see the market switching hands from sellers to buyers, but not in a violent way, which is a favorable scenario a lot of the times because we want to detect reversals in price before a burst in volatility occurs. That allows us to minimize risk and maximize return through the detection of the butterfly effect in price. More on that later. [08:16] Let's look at a third and final hypothetical example.",
+        "startChar": 7146,
+        "endChar": 7909,
+        "sequenceNumber": 10
+      },
+      {
+        "id": "chunk_11",
+        "text": "In this set, we can see a bias change, but at the same time, we have small bodies and no change in body size. That means that even though we have a change of control from buyers to sellers, this change is far from being important due to the small body size. We also have an increase in range or volatility at the same time there is an upward progression in terms of range dynamics. That means price action is progressing to the upside in some sense, but this interpretation of range dynamics is nothing without deeper analysis of the geometry between shadows and bodies, which leads us directly to the notion of how the shadows are progressing.",
+        "startChar": 7909,
+        "endChar": 8554,
+        "sequenceNumber": 11
+      },
+      {
+        "id": "chunk_12",
+        "text": "There is a small decrease in lower shadows, meaning that bullish pressure is decreasing slightly, while not being transformed into body size, which is an important detail. Upper shadows increased significantly, which shows a burst of selling pressure. Even though range dynamics tells us this is implying an upward price movement in a lower timeframe, the dynamics of shadows tells us that bullish pressure is dissipating and bearish pressure is rising. In terms of body percentage, there is an increase in uncertainty, although it's not obvious that this is the case. The size of the candle bodies remains the same, but range increases from one candle to the next, so the same candle body represents a lower body percentage in the second candle.",
+        "startChar": 8554,
+        "endChar": 9301,
+        "sequenceNumber": 12
+      },
+      {
+        "id": "chunk_13",
+        "text": "Interestingly, the symmetry of shadows or the body position, depending on how you want to look at it, change from bias to the upside to a more neutral position. Given the analysis of these properties in context, we can detect a subtle transition from buyers to sellers beginning to emerge, although the general tone of this candle set is mostly uncertain. Hopefully, you can notice the pointlessness of memorizing different patterns for candles. The relationship between the intrinsic properties can spark too many interpretations. So once again, we have strong evidence that learning the meaning of the intrinsic properties in context is a much smarter and easier way of looking at candlesticks.",
+        "startChar": 9301,
+        "endChar": 9998,
+        "sequenceNumber": 13
+      },
+      {
+        "id": "chunk_14",
+        "text": "With enough practice, you will be able to detect the narrative that emerges out of candlesticks without thinking too much about them, like we are doing in these hypothetical examples. Keep in mind that we are dissecting these examples as much as possible for educational purposes. Another important point here is that this kind of deeper analysis is only productive if made in specific points in the chart. Doing this in every single candle is counterproductive. It's important that you realize that some intrinsic properties may seem redundant in a first moment, but once you start to analyze the evolution of candles over time, the different perspectives of how to observe the same relationship allow you to create a deeper analysis.",
+        "startChar": 9998,
+        "endChar": 10733,
+        "sequenceNumber": 14
+      }
+    ],
+    "chunkCount": 15,
+    "totalLength": 10733
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:00",
+        "description": "Title slide: 'Shadow Change'. Three glowing blue circles appear sequentially, labeled 'Increase', 'Decrease', and 'Sustain'."
+      },
+      {
+        "timestamp": "00:04",
+        "description": "Text slide with two key statements. 'The change in upper shadow size is directly proportional to changes in selling pressure.' ('upper shadow' and 'selling pressure' highlighted in red). 'The change in lower shadow size is directly proportional to changes in buying pressure.' ('lower shadow' and 'buying pressure' highlighted in green)."
+      },
+      {
+        "timestamp": "00:26",
+        "description": "Title slide: 'Change in Body%'."
+      },
+      {
+        "timestamp": "00:32",
+        "description": "Text slide stating: 'Changes in Body% relate to the expansion and contraction of uncertainty behind candle action.' The word 'uncertainty' is highlighted in blue."
+      },
+      {
+        "timestamp": "00:54",
+        "description": "Text slide stating: 'Changes in Body% are inversely proportional to uncertainty (or directly proportional to certainty)'. The phrase 'inversely proportional to uncertainty' is highlighted in blue."
+      },
+      {
+        "timestamp": "01:29",
+        "description": "Title slide: 'Change in Shadow Symmetry/Body Position'."
+      },
+      {
+        "timestamp": "01:35",
+        "description": "Text slide stating: 'Shadow symmetry/body position serve as a bias to the uncertainty measure of Body%'. The word 'bias' is highlighted in blue."
+      },
+      {
+        "timestamp": "01:55",
+        "description": "A diagram shows two sets of adjacent candlesticks. Both start with a green bullish candle and are followed by a smaller red bearish candle with a long upper shadow. Text below reads: 'Paradox: The more prominent upward progression also implies a stronger bearish power.' The text is color-coded green for 'upward progression' and red for 'stronger bearish power' to highlight the paradoxical relationship."
+      },
+      {
+        "timestamp": "03:02",
+        "description": "Title slide with the word 'Gaps' inside a glowing blue circle."
+      },
+      {
+        "timestamp": "03:14",
+        "description": "A slide with two glowing blue circles labeled 'Explicit Gaps' and 'Implicit Gaps'."
+      },
+      {
+        "timestamp": "03:19",
+        "description": "Diagram defining 'Explicit Gap: Space between adjacent candle ranges.' Visual examples of a bullish gap up and a bearish gap down are shown with gray boxes indicating the space."
+      },
+      {
+        "timestamp": "03:29",
+        "description": "Diagram defining 'Implicit Gap: Space within adjacent candle ranges.' Visual examples show a bearish implicit gap between two green candles and a bullish implicit gap between two red candles, highlighted with gray boxes and arrows."
+      },
+      {
+        "timestamp": "04:05",
+        "description": "Diagrams illustrating the concept of implicit gaps creating opposing pressure. Left side shows 'Bearish power between bullish candles' with two green candles. Right side shows 'Bullish power between bearish candles' with two red candles."
+      },
+      {
+        "timestamp": "04:58",
+        "description": "Hypothetical example 1: A small red candle with a long upper wick is followed by a large, solid red candle, illustrating a bearish continuation from uncertainty to certainty."
+      },
+      {
+        "timestamp": "06:37",
+        "description": "Hypothetical example 2: A long red bearish candle is followed by a smaller green bullish candle contained within the range of the first (an 'inside candle'), illustrating a potential reversal or shift in control."
+      },
+      {
+        "timestamp": "08:18",
+        "description": "Hypothetical example 3: A small green candle with a long lower shadow is followed by a small red candle with a long upper shadow. This shows a transition from bullish uncertainty to bearish uncertainty, with an overall increase in volatility."
+      }
+    ],
+    "eventCount": 16
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core lesson is that traders should analyze candlestick price action not by memorizing static patterns, but by understanding and interpreting the dynamic changes in a candle's 'relative intrinsic properties' from one candle to the next. These properties are: changes in shadow size (indicating buying/selling pressure), changes in body percentage (indicating certainty vs. uncertainty), changes in shadow symmetry/body position (indicating directional bias), and the presence of gaps (both explicit and implicit, which reveal hidden power dynamics).",
+    "deeperMeaning": "The video's methodology implies that a deeper, first-principles understanding of price action is superior to superficial pattern recognition. Memorizing patterns like 'dojis' or 'hammers' is pointless because the context and the relationship between candles create infinite variations of meaning. The 'paradox' example highlights this, showing how a seemingly bullish progression in range can conceal growing bearish power. This approach encourages traders to read the 'narrative' of the market as it unfolds candle by candle, focusing on the underlying battle between buyers and sellers rather than just identifying a pattern. The concept of 'implicit gaps' is particularly significant, as it suggests that even within seemingly uniform price action (e.g., two consecutive bullish candles), there can be underlying signs of opposing pressure that a novice trader would miss.",
+    "educationalGoal": "The educational objective is to transition the student from a basic level of candlestick analysis (pattern memorization) to an advanced, dynamic framework for reading price action. This video serves as a foundational module in a larger curriculum, teaching the core building blocks needed to analyze price vectors and market structure. The purpose is to equip the trader with a flexible and robust analytical toolset that can be applied to any market context, rather than relying on a rigid set of predefined patterns which may fail under different market conditions."
+  },
+  "metadata": {
+    "processedAt": "2025-08-24T00:55:13.899Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

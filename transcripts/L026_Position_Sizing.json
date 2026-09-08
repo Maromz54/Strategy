@@ -1,0 +1,133 @@
+{
+  "id": "17UPBZR2yJLc9BxB-SK9ZQyXM9hN8Dwy3",
+  "fileName": "25 - Position Sizing.mkv",
+  "displayTitle": "Position Sizing",
+  "course": {
+    "name": "fractal_trading",
+    "lessonNumber": 26,
+    "globalLessonNumber": 100
+  },
+  "content": {
+    "fullText": "Using the right ratios is useless if the trader doesn't use appropriate position sizing. It's pointless to use a good ratio if the trader's risks too much capital in each trade. For example, it's pointless to use a good ratio if the trader risks 10, 15 or 20 percent of capital in each trade. The smaller the percentage risk per trade, the more leeway the trader has to accommodate losing streaks. If you risk 1% of your capital in a trade, you need to produce 100 consecutive losing trades to lose all your capital. If you risk 10% per trade, you can only lose 10 trades in a row. The higher the percentage risk, the lower the losing streak you can accommodate. Another issue here is that the higher the percentage risk per trade, the higher the standard deviation of your returns. And the higher the standard deviation of your returns, the lower the sustainability of returns. In other words, sustainability is inversely proportional to percentage risk. Retail traders that aim to be sustainable while using high leverage are trying to walk on two opposite sides of the road simultaneously, which is impossible. There is no answer that fits all regarding this matter because this depends on risk tolerance, which is unique to each trader. However, we can establish the guideline that percentage risk should be low enough so you don't care if you lose a large series of trades. If you're concerned about losing the trade, you are risking capital you cannot really afford to lose. And in that case, your market analysis will be tainted by what you want the market to do, and that never ends well. There are several methods for deciding the optimal amount to risk in a trade, but we'll talk about that in another course. For this course, we should keep things simple. There is a general guideline in retail trading that you should risk 1% of your capital in each trade, but again, this depends on your risk tolerance. 1% might be too much for you. My advice here is that you use a percentage risk that makes you completely forget about risk. That will certainly be equal or less than 1%. The higher your predictive power and risk management skills, the lower your percentage risk needs to be. The other question of position sizing is whether you should risk a percentage of your initial capital or a percentage of your current capital. As is often the case, there are no solutions, only tradeoffs. Position sizing models that grow capital faster do that at the expense of being riskier, and therefore, decreasing sustainability. There are mainly three choices here: the linear method, the geometric, and the geolinear. In linear position sizing, you always risk a percentage of your initial capital. That is a slower and safer way of growing capital, but it doesn't benefit from compounding. In geometric position sizing, you always risk a percentage of your current capital. That will compound profits, but it will also compound losses. Geolinear is a combination of both, in some sense. You decide on specific levels of capital and you update the percentage risk as you reach these predefined levels. You update the percentage risk every time your capital increases or decreases X percent. This predetermined level is discretionary. The lower the distance between these levels of capital, the higher the risk. For example, you update your percentage risk every time your equity increases or decreases by 25%. Once again, this level is discretionary. The geolinear method seems to be the optimal choice while being practical. But we'll dive into the peculiarities of these methods in a course specifically focused on risk management and position sizing.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "Using the right ratios is useless if the trader doesn't use appropriate position sizing. It's pointless to use a good ratio if the trader's risks too much capital in each trade. For example, it's pointless to use a good ratio if the trader risks 10, 15 or 20 percent of capital in each trade. The smaller the percentage risk per trade, the more leeway the trader has to accommodate losing streaks. If you risk 1% of your capital in a trade, you need to produce 100 consecutive losing trades to lose all your capital. If you risk 10% per trade, you can only lose 10 trades in a row. The higher the percentage risk, the lower the losing streak you can accommodate. Another issue here is that the higher the percentage risk per trade, the higher the standard deviation of your returns.",
+        "startChar": 0,
+        "endChar": 783,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "And the higher the standard deviation of your returns, the lower the sustainability of returns. In other words, sustainability is inversely proportional to percentage risk. Retail traders that aim to be sustainable while using high leverage are trying to walk on two opposite sides of the road simultaneously, which is impossible. There is no answer that fits all regarding this matter because this depends on risk tolerance, which is unique to each trader. However, we can establish the guideline that percentage risk should be low enough so you don't care if you lose a large series of trades. If you're concerned about losing the trade, you are risking capital you cannot really afford to lose.",
+        "startChar": 783,
+        "endChar": 1481,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "And in that case, your market analysis will be tainted by what you want the market to do, and that never ends well. There are several methods for deciding the optimal amount to risk in a trade, but we'll talk about that in another course. For this course, we should keep things simple. There is a general guideline in retail trading that you should risk 1% of your capital in each trade, but again, this depends on your risk tolerance. 1% might be too much for you. My advice here is that you use a percentage risk that makes you completely forget about risk. That will certainly be equal or less than 1%. The higher your predictive power and risk management skills, the lower your percentage risk needs to be.",
+        "startChar": 1481,
+        "endChar": 2192,
+        "sequenceNumber": 2
+      },
+      {
+        "id": "chunk_3",
+        "text": "The other question of position sizing is whether you should risk a percentage of your initial capital or a percentage of your current capital. As is often the case, there are no solutions, only tradeoffs. Position sizing models that grow capital faster do that at the expense of being riskier, and therefore, decreasing sustainability. There are mainly three choices here: the linear method, the geometric, and the geolinear. In linear position sizing, you always risk a percentage of your initial capital. That is a slower and safer way of growing capital, but it doesn't benefit from compounding. In geometric position sizing, you always risk a percentage of your current capital. That will compound profits, but it will also compound losses. Geolinear is a combination of both, in some sense.",
+        "startChar": 2192,
+        "endChar": 2988,
+        "sequenceNumber": 3
+      },
+      {
+        "id": "chunk_4",
+        "text": "You decide on specific levels of capital and you update the percentage risk as you reach these predefined levels. You update the percentage risk every time your capital increases or decreases X percent. This predetermined level is discretionary. The lower the distance between these levels of capital, the higher the risk. For example, you update your percentage risk every time your equity increases or decreases by 25%. Once again, this level is discretionary. The geolinear method seems to be the optimal choice while being practical. But we'll dive into the peculiarities of these methods in a course specifically focused on risk management and position sizing.",
+        "startChar": 2988,
+        "endChar": 3653,
+        "sequenceNumber": 4
+      }
+    ],
+    "chunkCount": 5,
+    "totalLength": 3653
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:02",
+        "description": "A teal-colored circle with a soft glow appears on a dark, textured background. The text 'Position Sizing' is written in white inside the circle."
+      },
+      {
+        "timestamp": "00:06",
+        "description": "Text appears on screen: 'Using good ratios is useless if the trader doesn't use proper position sizing.' The word 'useless' is highlighted in red, and 'proper position sizing' is highlighted in green."
+      },
+      {
+        "timestamp": "00:24",
+        "description": "A diagram appears illustrating an inverse relationship. On the left, a red circle contains the text '%Risk'. A white down arrow points away from it. On the right, a red circle contains the text 'Capacity to accommodate losing streaks'. A white up arrow points away from it."
+      },
+      {
+        "timestamp": "00:48",
+        "description": "A diagram with three red circles appears. The top left circle says '%Risk'. The top right says 'Standard deviation of returns'. The bottom center says 'Sustainability of returns'. A white up arrow points from '%Risk' to 'Standard deviation of returns'. A white down arrow points from '%Risk' to 'Sustainability of returns'."
+      },
+      {
+        "timestamp": "01:01",
+        "description": "Text on screen reads: 'Sustainability of returns is inversely proportional to %risk.' The words 'inversely proportional' are highlighted in red."
+      },
+      {
+        "timestamp": "01:05",
+        "description": "Additional text appears below the previous statement: 'Retail traders that aim to be sustainable while using high leverage are trying to walk on two opposite sides of the road simultaneously, which is impossible.' The word 'while' is underlined in white, and 'impossible' is highlighted in red."
+      },
+      {
+        "timestamp": "01:18",
+        "description": "Text on screen reads: '%Risk also depends on risk tolerance, which is unique to each trader.' The words 'risk tolerance' are highlighted in yellow."
+      },
+      {
+        "timestamp": "01:24",
+        "description": "Text on screen reads: '%Risk should be low enough, so you don't care if you lose a large series of trades.' The words 'be low enough' and 'so you don't care' are highlighted in blue and white respectively."
+      },
+      {
+        "timestamp": "01:54",
+        "description": "Text on screen reads: '%Risk should never be above 1% per trade.' The word 'never' is highlighted in a dark teal color."
+      },
+      {
+        "timestamp": "02:13",
+        "description": "Text on screen reads: 'The greater your predictive power and risk management skills, the lower your %risk needs to be.' The entire text is highlighted in a bright teal color."
+      },
+      {
+        "timestamp": "02:20",
+        "description": "Text on screen poses a question: 'Should you risk a % of your initial capital or a % of your current capital?' The words 'initial capital' and 'current capital' are highlighted in teal."
+      },
+      {
+        "timestamp": "02:31",
+        "description": "Text on screen reads: 'Position sizing models that grow capital faster do that at the expense of being riskier, and therefore, decreasing sustainability.' The words 'grow capital faster' are highlighted in green, while 'riskier' and 'decreasing sustainability' are highlighted in red."
+      },
+      {
+        "timestamp": "02:41",
+        "description": "Three glowing teal circles appear in a row with the labels: 'Linear', 'Geometric', and 'Geolinear'."
+      },
+      {
+        "timestamp": "02:46",
+        "description": "Text on screen defining the 'Linear' method: 'Linear: Risking a percentage of your initial capital. That is a slower and safer way of growing capital, but it doesn't benefit from compounding.' The word 'Linear' is teal, and 'initial capital' is underlined."
+      },
+      {
+        "timestamp": "02:56",
+        "description": "Text on screen defining the 'Geometric' method: 'Geometric: Risking a percentage of your current capital. That will compound profits, but it will also compound losses.' The word 'Geometric' is yellow, and 'current capital' is underlined."
+      },
+      {
+        "timestamp": "03:06",
+        "description": "Text on screen defining the 'Geolinear' method: 'Geolinear: A combination of both. You update %Risk based on predetermined levels of capital.' The word 'Geolinear' is green."
+      }
+    ],
+    "eventCount": 16
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is that proper position sizing is more critical to long-term trading success than having a high win-rate or good risk/reward ratios. The percentage of capital risked per trade (%Risk) dictates a trader's ability to withstand inevitable losing streaks and determines the sustainability of their returns. High %Risk leads to high volatility (standard deviation) and an unsustainable equity curve, guaranteeing eventual ruin.",
+    "deeperMeaning": "The lesson implies a fundamental shift in a trader's mindset from 'how much can I win on this trade?' to 'how much can I lose and still survive to trade tomorrow?'. It's a critique of the common retail approach of using high leverage to chase large, fast profits, framing it as mathematically impossible to sustain. The true mark of a professional trader is not their predictive skill alone, but their disciplined risk management. The optimal risk is so small that it removes emotional decision-making, allowing for objective market analysis.",
+    "educationalGoal": "The educational objective is to establish position sizing as a foundational pillar of risk management. It aims to equip the student with the understanding that without controlling the %Risk per trade, any trading strategy, no matter how effective, will ultimately fail. By introducing the Linear, Geometric, and Geolinear models, it provides a framework for how to approach capital management, setting the stage for more advanced discussions on the topic while recommending a conservative and practical starting point."
+  },
+  "metadata": {
+    "processedAt": "2025-08-24T01:28:28.783Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

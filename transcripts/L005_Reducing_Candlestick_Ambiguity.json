@@ -1,0 +1,75 @@
+{
+  "id": "1yPaFWt1RnU09Tbtt9PFprJtIUhR3YCU_",
+  "fileName": "05 - Reducing Candlestick Ambiguity.mkv",
+  "displayTitle": "Reducing Candlestick Ambiguity",
+  "course": {
+    "name": "fractal_trading",
+    "lessonNumber": 5,
+    "globalLessonNumber": 79
+  },
+  "content": {
+    "fullText": "[00:00] Before we learn how to analyze a candlestick in isolation, we must solve the problem of ambiguity in the formation of a candle. The basic problem is that there is no way to tell whether the candle high is formed before the candle low without switching to lower time frames. And switching time frames can generate paradoxical situations where the increase in market information leads to a worse analysis. It's a paradox because more information should lead to a better analysis. In other words, we have to assume that the candle is formed in a certain way most of the time in order to get around this problem. The way to do that is to assume that the candle is formed through a path of least resistance, meaning that price navigates through the four prices of the candlestick in the most efficient way. That's a logical assumption most of the time, but it's not always the case. That's very simple to observe. The price will move from the open to the nearest extreme, then to the opposite extreme, and then to the close. That will give us an insight into the probable oscillatory path within the candlestick without the problem of switching time frames. That is, of course, not always the case, but it is what happens most of the time since it's the path of least resistance in the formation of price. In this hypothetical example, we can see that price goes from the open to the high simply because the distance between the open and the high is smaller than the distance between the open and the low. Notice that in candles where the open is equal to the close and the body is perfectly centered, both extremes are exactly the same distance from the open, so there is no way to use this ambiguity reduction concept, and that's part of the reason why a candlestick with this shape is interpreted as indecisive. This idea is useful if you are unsure about the probable path of formation of a candle.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:00] Before we learn how to analyze a candlestick in isolation, we must solve the problem of ambiguity in the formation of a candle. The basic problem is that there is no way to tell whether the candle high is formed before the candle low without switching to lower time frames. And switching time frames can generate paradoxical situations where the increase in market information leads to a worse analysis. It's a paradox because more information should lead to a better analysis. In other words, we have to assume that the candle is formed in a certain way most of the time in order to get around this problem.",
+        "startChar": 0,
+        "endChar": 617,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "The way to do that is to assume that the candle is formed through a path of least resistance, meaning that price navigates through the four prices of the candlestick in the most efficient way. That's a logical assumption most of the time, but it's not always the case. That's very simple to observe. The price will move from the open to the nearest extreme, then to the opposite extreme, and then to the close. That will give us an insight into the probable oscillatory path within the candlestick without the problem of switching time frames. That is, of course, not always the case, but it is what happens most of the time since it's the path of least resistance in the formation of price.",
+        "startChar": 617,
+        "endChar": 1309,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "In this hypothetical example, we can see that price goes from the open to the high simply because the distance between the open and the high is smaller than the distance between the open and the low. Notice that in candles where the open is equal to the close and the body is perfectly centered, both extremes are exactly the same distance from the open, so there is no way to use this ambiguity reduction concept, and that's part of the reason why a candlestick with this shape is interpreted as indecisive. This idea is useful if you are unsure about the probable path of formation of a candle.",
+        "startChar": 1309,
+        "endChar": 1905,
+        "sequenceNumber": 2
+      }
+    ],
+    "chunkCount": 3,
+    "totalLength": 1905
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:02",
+        "description": "A title card appears on a dark, textured background. It features a glowing blue circle with white text inside that reads: 'Reducing Candlestick Ambiguity'."
+      },
+      {
+        "timestamp": "00:39",
+        "description": "Text appears on screen: 'Assume that candles are formed through the path of least resistance, meaning that price goes to the nearest of the four prices first.' The phrases 'path of least resistance' and 'nearest' are highlighted in a glowing blue color."
+      },
+      {
+        "timestamp": "00:55",
+        "description": "A vertical flowchart appears with white text and arrows pointing downwards: 'Open' -> 'Nearest Extreme' -> 'Opposite Extreme' -> 'Close'."
+      },
+      {
+        "timestamp": "01:18",
+        "description": "A diagram illustrates the concept. On the right, a single green candlestick is shown with a long lower wick. On the left, a larger green box represents the candle's range. A green line path is traced inside, starting from the 'open', moving up to the 'high', then down to the 'low', and finally up to the 'close'. Text above reads: 'Open is nearer to the high than the low'."
+      },
+      {
+        "timestamp": "01:31",
+        "description": "A diagram illustrates an indecisive candle. On the left, a Doji candle (a cross shape where open equals close) is shown. To its right are two boxes, each showing a different potential price path: one path goes from the open to the high first, then the low, then the close; the other goes from the open to the low first, then the high, then the close. Text below reads: 'Indecisive path'."
+      }
+    ],
+    "eventCount": 5
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is to resolve the inherent ambiguity of a single candlestick's formation—whether the high or low was formed first—by assuming the price follows the 'path of least resistance'. This heuristic dictates that price moves from the open to the nearest extreme (either the high or the low) before moving to the opposite extreme and finally settling at the close.",
+    "deeperMeaning": "This approach provides a standardized, probabilistic model for interpreting intra-bar price action without resorting to lower timeframes, which the narrator suggests can lead to paradoxical analysis (more information leading to worse decisions). It allows a trader to construct a logical narrative of the buying and selling pressure within a single candle based on a principle of market efficiency. This method also provides a logical basis for why certain candlestick patterns, like Dojis where the open is equidistant from the high and low, are considered 'indecisive'—the path of least resistance itself is ambiguous.",
+    "educationalGoal": "The educational objective is to provide traders with a foundational tool for analyzing individual candlesticks in isolation. By establishing a default assumption for how a candle is formed, this lesson aims to remove a key variable of uncertainty. This allows for a more consistent and less complex analysis, which serves as a building block for understanding more complex candlestick patterns and market structures."
+  },
+  "metadata": {
+    "processedAt": "2025-08-24T00:49:51.867Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

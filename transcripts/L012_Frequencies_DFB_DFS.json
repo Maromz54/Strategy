@@ -1,0 +1,245 @@
+{
+  "id": "1mVgu_Dy3Goq-MpGn2v9mcIutEErnzPwW",
+  "fileName": "10 - Frequencies DFB & DFS.mp4",
+  "displayTitle": "Frequencies DFB & DFS",
+  "course": {
+    "name": "fractal_trading",
+    "lessonNumber": 12,
+    "globalLessonNumber": 86
+  },
+  "content": {
+    "fullText": "[00:01] Frequencies are an important idea that emerges from the study of shadows in relative terms. [00:08] Another way of looking at this is that the idea of frequency emerges when we apply the layer of fractal analysis onto traditional support and resistance lines. [00:18] In general, frequencies allow us to observe precise support and resistance levels in the chart. [00:24] And they also give rise to the idea of dynamic frequency breakouts and dynamic frequency stops, which can be used as confirmation for triggering trades once there is a trade context. [00:36] We want the precision of lower timeframes with the perspective of the home timeframe without the pitfalls of switching timeframes. [00:44] Technically speaking, frequency is the rate at which something is repeated over time. [00:50] In theory, only one candle shadow is necessary to find a frequency, but the concept becomes clearer when there is a series of candle shadows. [00:59] Another way of looking at this, which is perhaps simpler to understand, is that we treat candlestick highs and lows as broad highs and lows and aim to find support and resistance levels in the micro scale. [01:11] Let's observe a hypothetical example. [01:14] Take a look at this candle. The high and low were highlighted because these will serve as support and resistance levels for the next candle in a way. When only one candle is present, there is no difference between a conventional support or resistance line and a frequency line. When we add the second candle, the concept of frequency line becomes clearer. [01:34] Notice that the two yellow lines have shifted. They are drawn in such a way that they touch both shadows without violating the candle bodies. The line that captures the greatest number of candle shadows in a set of candles without violating the candle bodies is the frequency line. It means that price is touching but not breaking that level at the highest possible rate. Let's add another candle to see how these lines will shift. [02:01] Here you can see that the upper line stayed the same because the lowest shadow happened in the second candle. The lower line shifted up because now there is a shadow that allows us to get the frequency line closer to the candle bodies without violating them. [02:15] You must keep that in mind. You are trying to detect a level that captures the greatest number of shadows without violating candle bodies. If a fourth candle like this occurs, the lines don't change at all. Moving the upper line to the upper shadow of this new candle would mean the violation of previous candle bodies. The same would occur with the lower line. This is the basic intuition we need for frequency lines. A whole set of interesting ideas and techniques come out of this simple intuition about the relationship between shadows and bodies. Frequency lines can be horizontal, but they can also be sloped. The principle is the same. In this illustration, you can see an example of horizontal frequency in the lower shadows and an example of sloped frequency in the lower shadows as well. Notice how the line has an angle that captures all the lower shadows without cutting through any of the candle bodies. [03:12] Dynamic Frequency. Recall that when there is only one candle shadow, a traditional support/resistance line is indistinguishable from a frequency line. We want to apply this idea to how candles evolve in the formation of upward and downward price movements because interesting things happen in terms of frequency when price action reverses direction or when it resumes its main direction after stalling for a while. In any price movement, we can observe the evolution of upper and lower frequencies as new candles appear. Since we are analyzing the evolution of frequencies over time, we call them dynamic frequencies. Upper shadows point to the upper dynamic frequencies and lower shadows point to lower dynamic frequencies. [03:56] In an upward price movement, the trader will pay attention to the upper dynamic frequency in order to observe signs of continuation, and to the lower dynamic frequency in order to observe signs of reversal. In downward price movements, it's the opposite. The lower dynamic frequency displays signs of continuation, and the upper dynamic frequency displays signs of reversal. [04:21] In an upward price movement, you notice that the upper dynamic frequency either gets broken on a consistent basis or it stops for a while before being broken. That's normal since it's the main direction of price movement. The lower dynamic frequency is not broken throughout the entire movement, so when it does, a new price movement in the other direction is born. [04:44] In a downward price movement, you notice that the lower dynamic frequency either gets broken on a consistent basis or stops for a while before being broken. That's normal since it's the main direction of the price movement. The upper dynamic frequency is not broken throughout the entire movement, so when it does, a new price movement to the other direction is born. [05:07] In the same way that the DFB is a sign of reversal, the DFS is a sign of continuation. In upward price vectors, a DFB in the lower frequency is a sign of reversal and the breakout of a DFS in the upper frequency is a sign of continuation. In downward price vectors, a DFB in the upper frequency is a sign of reversal and the breakout of a DFS in the lower frequency is a sign of continuation. It's useful to observe how these things will play out in practical terms. Let's see how the development of upper and lower frequencies work in a hypothetical situation. First, we'll look for signs of reversal at the lower frequencies in an upward price movement. Assume that this is the beginning of an upward price movement. The trader would place a horizontal line at the candle low to mark the lower dynamic frequency. Remember that this will serve as support for the next candle to some degree. In the next candle, we can see that the support was not tested. The candle created a higher low, so we move the dynamic frequency to the new low. The process is the same here. This new low will serve as support for the next candle to some degree. In the next candle, we can see that the support was tested but not broken. That is a DFS. The lower frequency stopped advancing to the upside for a brief moment, but it was not broken. Now we have a more obvious frequency line because there are two candle shadows in common. Notice how the line captures two shadows in the most efficient way, which is to say the closest path to the candle bodies. Like before, this frequency line will serve as support for the next candle. But this time, it's a stronger support since the level has already been tested two times without violation. In the next candle, we have something that might confuse traders who are not aware of the principle of dynamic frequency. We have a bearish candle which may give the impression that price will reverse. However, if we look at the behavior of the lower frequency, we will see that it's respecting the current dynamic frequency line by testing it without violating it. Now the frequency has three common shadows. In the next candle, we can see that price touches the frequency line a fourth time and takes off to the upside, resuming the upward price movement. In this way, the dynamic frequency line acts as a filter a lot of the times. Sometimes price looks like it's going to reverse, but when we look at the dynamic frequency, we can see that it won't. In the next candle, price creates a higher low, so we move the dynamic frequency to that new low. The same happens in the next candle. In the next candle, an unprecedented event occurs. This is the first time that price closes below the lower dynamic frequency line. Even though it looks unimportant, this is a unique event that we call Dynamic Frequency Breakout. It signals a reversal in price action, which for this example means the beginning of a downward price movement. Before moving on to other ideas, let's observe what happened with the upper dynamic frequency of this upward price movement to look for signs of continuation or stop patterns. Since we are dealing with an upward price movement, it's normal that candle highs get broken with each new candle. The second breaks the high of the first, and the third breaks the high of the second. However, the fourth doesn't break the high of the third. In the fourth candle, we can also update the upper frequency generated at the high of the third candle. Notice that the line that captures both highs lives slightly below the high of the third candle. When the upper frequency stops being broken, or it can be updated lower in an upward price movement, we have a dynamic frequency stop pattern. In the fifth candle, price breaks that pattern to the upside, resuming the upward price movement. When the dynamic frequency stop is broken, we have a sign that the current price vector will continue its main direction. The sixth candle breaks the high of the fifth, and the seventh breaks the high of the sixth, as it is expected. In the eighth candle, we have another example of a DFS pattern in the upper frequency. Notice that price tests the upper frequency but it doesn't break it. Interestingly, this is also the candle that produced the dynamic frequency breakout in the lower frequency. So not only did price stopped in the upper shadows, but it also broke the frequency in the lower shadows, which adds more strength to the reversal signal. In summary, when we deal with an upward price movement, a break in the upper frequency means continuation while a stop means that price might stop for a while or reverse. A break in the lower frequency means that price might reverse. The same exact principles apply to downward price movements, but the signs of continuation or stop happen in the lower shadows and the reversal signs happen in the upper shadows. Notice that it's useful to observe the counterpoint between upper and lower frequencies. In this hypothetical example we just saw, the stop in the upper frequencies coincided with the stop in the lower frequencies in the middle of the price movement. Beyond that, the stop in the upper frequencies at the end of the price movement coincided with the breakout in the lower frequencies. Notice that Dynamic Frequency Stops usually mean that the fractal dimension of price is increasing, which is a warning because we want the fractal dimension of price to be as low as possible. If we observe simultaneous DFB and DFS patterns happening within a low fractal dimension setting, meaning with smooth price action or gradual change in the intrinsic properties, we have a stronger sign of reversal. Even though the idea of dynamic frequency breakouts and stops is great to identify when price movements are going to continue or reverse, it's not a good idea to rely solely on this technique as tempting as it might be because in many occasions, price vectors are too small to generate enough profit potential with a good risk-reward ratio. [11:25] Real-time frequencies and historical frequencies. In the hypothetical examples we saw, it's clear that price will react to the current dynamic frequency level. This is what is called the real-time frequency. Historical frequency is nothing more than the prominent frequencies of the recent past which used to be important real-time frequencies. When the dynamic frequency is broken and price starts a new price vector in the opposite direction, the new price vector will often react to the more prominent frequencies of the last vector against which the new vector is retracing. The frequencies of price vectors that are terminated are called historical frequencies. Just like price reacts to real-time and historical frequencies, it will also react to the level where dynamic frequencies were broken or stopped in the edge of the price vector. This is very useful when dealing with trading techniques like supply and demand zones for example, but that's a topic for another time. Notice also that DFB and DFS patterns are subjected to the common test, switch, retest dynamics most traders are used to observing in common support and resistance lines. This idea can be used to enter trades using limit orders instead of waiting for the opening of the new candle. This can dramatically enhance the risk-reward ratio of trades, but it's also a more dangerous and difficult technique to apply. The concept of frequency lines is incredibly useful in many areas of our methodology, and it's nothing more than the idea of support and resistance lines overlaid by the concept of fractal analysis. Once again, we find that using fractal geometry enhances the understanding of the market. It increases precision without losing perspective.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:01] Frequencies are an important idea that emerges from the study of shadows in relative terms. [00:08] Another way of looking at this is that the idea of frequency emerges when we apply the layer of fractal analysis onto traditional support and resistance lines. [00:18] In general, frequencies allow us to observe precise support and resistance levels in the chart. [00:24] And they also give rise to the idea of dynamic frequency breakouts and dynamic frequency stops, which can be used as confirmation for triggering trades once there is a trade context. [00:36] We want the precision of lower timeframes with the perspective of the home timeframe without the pitfalls of switching timeframes. [00:44] Technically speaking, frequency is the rate at which something is repeated over time.",
+        "startChar": 0,
+        "endChar": 796,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "[00:50] In theory, only one candle shadow is necessary to find a frequency, but the concept becomes clearer when there is a series of candle shadows. [00:59] Another way of looking at this, which is perhaps simpler to understand, is that we treat candlestick highs and lows as broad highs and lows and aim to find support and resistance levels in the micro scale. [01:11] Let's observe a hypothetical example. [01:14] Take a look at this candle. The high and low were highlighted because these will serve as support and resistance levels for the next candle in a way. When only one candle is present, there is no difference between a conventional support or resistance line and a frequency line. When we add the second candle, the concept of frequency line becomes clearer.",
+        "startChar": 796,
+        "endChar": 1570,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "[01:34] Notice that the two yellow lines have shifted. They are drawn in such a way that they touch both shadows without violating the candle bodies. The line that captures the greatest number of candle shadows in a set of candles without violating the candle bodies is the frequency line. It means that price is touching but not breaking that level at the highest possible rate. Let's add another candle to see how these lines will shift. [02:01] Here you can see that the upper line stayed the same because the lowest shadow happened in the second candle. The lower line shifted up because now there is a shadow that allows us to get the frequency line closer to the candle bodies without violating them. [02:15] You must keep that in mind.",
+        "startChar": 1570,
+        "endChar": 2313,
+        "sequenceNumber": 2
+      },
+      {
+        "id": "chunk_3",
+        "text": "You are trying to detect a level that captures the greatest number of shadows without violating candle bodies. If a fourth candle like this occurs, the lines don't change at all. Moving the upper line to the upper shadow of this new candle would mean the violation of previous candle bodies. The same would occur with the lower line. This is the basic intuition we need for frequency lines. A whole set of interesting ideas and techniques come out of this simple intuition about the relationship between shadows and bodies. Frequency lines can be horizontal, but they can also be sloped. The principle is the same. In this illustration, you can see an example of horizontal frequency in the lower shadows and an example of sloped frequency in the lower shadows as well.",
+        "startChar": 2313,
+        "endChar": 3083,
+        "sequenceNumber": 3
+      },
+      {
+        "id": "chunk_4",
+        "text": "Notice how the line has an angle that captures all the lower shadows without cutting through any of the candle bodies. [03:12] Dynamic Frequency. Recall that when there is only one candle shadow, a traditional support/resistance line is indistinguishable from a frequency line. We want to apply this idea to how candles evolve in the formation of upward and downward price movements because interesting things happen in terms of frequency when price action reverses direction or when it resumes its main direction after stalling for a while. In any price movement, we can observe the evolution of upper and lower frequencies as new candles appear. Since we are analyzing the evolution of frequencies over time, we call them dynamic frequencies.",
+        "startChar": 3083,
+        "endChar": 3828,
+        "sequenceNumber": 4
+      },
+      {
+        "id": "chunk_5",
+        "text": "Upper shadows point to the upper dynamic frequencies and lower shadows point to lower dynamic frequencies. [03:56] In an upward price movement, the trader will pay attention to the upper dynamic frequency in order to observe signs of continuation, and to the lower dynamic frequency in order to observe signs of reversal. In downward price movements, it's the opposite. The lower dynamic frequency displays signs of continuation, and the upper dynamic frequency displays signs of reversal. [04:21] In an upward price movement, you notice that the upper dynamic frequency either gets broken on a consistent basis or it stops for a while before being broken. That's normal since it's the main direction of price movement.",
+        "startChar": 3828,
+        "endChar": 4548,
+        "sequenceNumber": 5
+      },
+      {
+        "id": "chunk_6",
+        "text": "The lower dynamic frequency is not broken throughout the entire movement, so when it does, a new price movement in the other direction is born. [04:44] In a downward price movement, you notice that the lower dynamic frequency either gets broken on a consistent basis or stops for a while before being broken. That's normal since it's the main direction of the price movement. The upper dynamic frequency is not broken throughout the entire movement, so when it does, a new price movement to the other direction is born. [05:07] In the same way that the DFB is a sign of reversal, the DFS is a sign of continuation. In upward price vectors, a DFB in the lower frequency is a sign of reversal and the breakout of a DFS in the upper frequency is a sign of continuation.",
+        "startChar": 4548,
+        "endChar": 5315,
+        "sequenceNumber": 6
+      },
+      {
+        "id": "chunk_7",
+        "text": "In downward price vectors, a DFB in the upper frequency is a sign of reversal and the breakout of a DFS in the lower frequency is a sign of continuation. It's useful to observe how these things will play out in practical terms. Let's see how the development of upper and lower frequencies work in a hypothetical situation. First, we'll look for signs of reversal at the lower frequencies in an upward price movement. Assume that this is the beginning of an upward price movement. The trader would place a horizontal line at the candle low to mark the lower dynamic frequency. Remember that this will serve as support for the next candle to some degree. In the next candle, we can see that the support was not tested. The candle created a higher low, so we move the dynamic frequency to the new low.",
+        "startChar": 5315,
+        "endChar": 6114,
+        "sequenceNumber": 7
+      },
+      {
+        "id": "chunk_8",
+        "text": "The process is the same here. This new low will serve as support for the next candle to some degree. In the next candle, we can see that the support was tested but not broken. That is a DFS. The lower frequency stopped advancing to the upside for a brief moment, but it was not broken. Now we have a more obvious frequency line because there are two candle shadows in common. Notice how the line captures two shadows in the most efficient way, which is to say the closest path to the candle bodies. Like before, this frequency line will serve as support for the next candle. But this time, it's a stronger support since the level has already been tested two times without violation.",
+        "startChar": 6114,
+        "endChar": 6797,
+        "sequenceNumber": 8
+      },
+      {
+        "id": "chunk_9",
+        "text": "In the next candle, we have something that might confuse traders who are not aware of the principle of dynamic frequency. We have a bearish candle which may give the impression that price will reverse. However, if we look at the behavior of the lower frequency, we will see that it's respecting the current dynamic frequency line by testing it without violating it. Now the frequency has three common shadows. In the next candle, we can see that price touches the frequency line a fourth time and takes off to the upside, resuming the upward price movement. In this way, the dynamic frequency line acts as a filter a lot of the times. Sometimes price looks like it's going to reverse, but when we look at the dynamic frequency, we can see that it won't.",
+        "startChar": 6797,
+        "endChar": 7551,
+        "sequenceNumber": 9
+      },
+      {
+        "id": "chunk_10",
+        "text": "In the next candle, price creates a higher low, so we move the dynamic frequency to that new low. The same happens in the next candle. In the next candle, an unprecedented event occurs. This is the first time that price closes below the lower dynamic frequency line. Even though it looks unimportant, this is a unique event that we call Dynamic Frequency Breakout. It signals a reversal in price action, which for this example means the beginning of a downward price movement. Before moving on to other ideas, let's observe what happened with the upper dynamic frequency of this upward price movement to look for signs of continuation or stop patterns. Since we are dealing with an upward price movement, it's normal that candle highs get broken with each new candle.",
+        "startChar": 7551,
+        "endChar": 8319,
+        "sequenceNumber": 10
+      },
+      {
+        "id": "chunk_11",
+        "text": "The second breaks the high of the first, and the third breaks the high of the second. However, the fourth doesn't break the high of the third. In the fourth candle, we can also update the upper frequency generated at the high of the third candle. Notice that the line that captures both highs lives slightly below the high of the third candle. When the upper frequency stops being broken, or it can be updated lower in an upward price movement, we have a dynamic frequency stop pattern. In the fifth candle, price breaks that pattern to the upside, resuming the upward price movement. When the dynamic frequency stop is broken, we have a sign that the current price vector will continue its main direction.",
+        "startChar": 8319,
+        "endChar": 9026,
+        "sequenceNumber": 11
+      },
+      {
+        "id": "chunk_12",
+        "text": "The sixth candle breaks the high of the fifth, and the seventh breaks the high of the sixth, as it is expected. In the eighth candle, we have another example of a DFS pattern in the upper frequency. Notice that price tests the upper frequency but it doesn't break it. Interestingly, this is also the candle that produced the dynamic frequency breakout in the lower frequency. So not only did price stopped in the upper shadows, but it also broke the frequency in the lower shadows, which adds more strength to the reversal signal. In summary, when we deal with an upward price movement, a break in the upper frequency means continuation while a stop means that price might stop for a while or reverse. A break in the lower frequency means that price might reverse.",
+        "startChar": 9026,
+        "endChar": 9791,
+        "sequenceNumber": 12
+      },
+      {
+        "id": "chunk_13",
+        "text": "The same exact principles apply to downward price movements, but the signs of continuation or stop happen in the lower shadows and the reversal signs happen in the upper shadows. Notice that it's useful to observe the counterpoint between upper and lower frequencies. In this hypothetical example we just saw, the stop in the upper frequencies coincided with the stop in the lower frequencies in the middle of the price movement. Beyond that, the stop in the upper frequencies at the end of the price movement coincided with the breakout in the lower frequencies. Notice that Dynamic Frequency Stops usually mean that the fractal dimension of price is increasing, which is a warning because we want the fractal dimension of price to be as low as possible.",
+        "startChar": 9791,
+        "endChar": 10547,
+        "sequenceNumber": 13
+      },
+      {
+        "id": "chunk_14",
+        "text": "If we observe simultaneous DFB and DFS patterns happening within a low fractal dimension setting, meaning with smooth price action or gradual change in the intrinsic properties, we have a stronger sign of reversal. Even though the idea of dynamic frequency breakouts and stops is great to identify when price movements are going to continue or reverse, it's not a good idea to rely solely on this technique as tempting as it might be because in many occasions, price vectors are too small to generate enough profit potential with a good risk-reward ratio. [11:25] Real-time frequencies and historical frequencies. In the hypothetical examples we saw, it's clear that price will react to the current dynamic frequency level. This is what is called the real-time frequency.",
+        "startChar": 10547,
+        "endChar": 11319,
+        "sequenceNumber": 14
+      },
+      {
+        "id": "chunk_15",
+        "text": "Historical frequency is nothing more than the prominent frequencies of the recent past which used to be important real-time frequencies. When the dynamic frequency is broken and price starts a new price vector in the opposite direction, the new price vector will often react to the more prominent frequencies of the last vector against which the new vector is retracing. The frequencies of price vectors that are terminated are called historical frequencies. Just like price reacts to real-time and historical frequencies, it will also react to the level where dynamic frequencies were broken or stopped in the edge of the price vector. This is very useful when dealing with trading techniques like supply and demand zones for example, but that's a topic for another time.",
+        "startChar": 11319,
+        "endChar": 12092,
+        "sequenceNumber": 15
+      },
+      {
+        "id": "chunk_16",
+        "text": "Notice also that DFB and DFS patterns are subjected to the common test, switch, retest dynamics most traders are used to observing in common support and resistance lines. This idea can be used to enter trades using limit orders instead of waiting for the opening of the new candle. This can dramatically enhance the risk-reward ratio of trades, but it's also a more dangerous and difficult technique to apply. The concept of frequency lines is incredibly useful in many areas of our methodology, and it's nothing more than the idea of support and resistance lines overlaid by the concept of fractal analysis. Once again, we find that using fractal geometry enhances the understanding of the market. It increases precision without losing perspective.",
+        "startChar": 12092,
+        "endChar": 12841,
+        "sequenceNumber": 16
+      }
+    ],
+    "chunkCount": 17,
+    "totalLength": 12841
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:02",
+        "description": "Title slide with a dark, textured background. A glowing blue circle animates to reveal the white text 'Frequencies'."
+      },
+      {
+        "timestamp": "00:11",
+        "description": "A Venn diagram appears. Two overlapping, glowing blue circles are shown. The left circle is labeled 'Fractal Analysis'. The right circle is labeled 'Support & Resistance'. A vertical white line points down from their intersection to the text 'Frequency Lines'."
+      },
+      {
+        "timestamp": "00:20",
+        "description": "A text slide appears: 'Frequency lines allow traders to observe precise support/resistance levels and dynamic frequency breakouts/stops.' The words 'precise' and 'dynamic frequency breakouts/stops' are highlighted in a glowing blue color."
+      },
+      {
+        "timestamp": "00:37",
+        "description": "A text slide appears: 'We want the precision of lower timeframes with the perspective of the home timeframe without the pitfalls of switching timeframes.' 'precision', 'perspective', and 'home timeframe' are underlined. 'pitfalls of switching timeframes' is highlighted in glowing blue."
+      },
+      {
+        "timestamp": "00:46",
+        "description": "A definition slide appears with the title 'Frequencies'. The text reads: 'The rate at which something is repeated over time.' The word 'rate' is highlighted in glowing blue."
+      },
+      {
+        "timestamp": "01:16",
+        "description": "An animation demonstrating the concept of a frequency line. A single green candlestick is shown. Two horizontal yellow lines extend from the absolute high and low of the candle's shadows (wicks)."
+      },
+      {
+        "timestamp": "01:32",
+        "description": "A second green candle is added to the animation. The yellow frequency lines adjust to touch the highest high and the lowest low of the two-candle set, without intersecting the body of either candle."
+      },
+      {
+        "timestamp": "02:01",
+        "description": "A third, red candle is added. The yellow lines adjust again. The upper line remains unchanged, while the lower line moves up to the bottom of the third candle's shadow, tightening the frequency channel."
+      },
+      {
+        "timestamp": "02:26",
+        "description": "A fourth, small green candle appears inside the established frequency channel. Red lines illustrate potential new frequency lines based on this candle's shadows, but they are immediately crossed out with large red 'no' symbols to show that the existing frequency lines are not changed because moving them would violate the bodies of the prior candles."
+      },
+      {
+        "timestamp": "02:54",
+        "description": "Title slide appears: 'Sloped Frequency'."
+      },
+      {
+        "timestamp": "02:57",
+        "description": "An animation of five candlesticks in an uptrend is shown. First, a horizontal yellow line marks the lowest low. Then, a sloped yellow line is drawn, connecting the progressive higher lows, illustrating a sloped or dynamic frequency."
+      },
+      {
+        "timestamp": "03:15",
+        "description": "Title slide with a blue circle appears, labeled 'Dynamic Frequency'."
+      },
+      {
+        "timestamp": "03:42",
+        "description": "A diagram titled 'Dynamic Frequencies' shows two sets of candlestick patterns. On the left, an upward trend of green candles with sloped lines labeled 'Upper Dynamic Frequency' and 'Lower Dynamic Frequency'. On the right, a downward trend of red candles with similar labels."
+      },
+      {
+        "timestamp": "03:57",
+        "description": "A table diagram explains the relationship between price movement and dynamic frequencies for identifying continuation and reversal signals. Green boxes indicate bullish context, red indicates bearish."
+      },
+      {
+        "timestamp": "04:23",
+        "description": "A green text box under the title 'Upward Price Movement' outlines the rules for upper and lower dynamic frequencies in an uptrend, explaining how breaks signal continuation or reversal."
+      },
+      {
+        "timestamp": "04:46",
+        "description": "A red text box under the title 'Downward Price Movement' outlines the rules for upper and lower dynamic frequencies in a downtrend."
+      },
+      {
+        "timestamp": "05:15",
+        "description": "A text slide summarizes the rules for Dynamic Frequency Breakouts (DFB) and Dynamic Frequency Stops (DFS) in both upward and downward price vectors."
+      },
+      {
+        "timestamp": "05:51",
+        "description": "A detailed animation begins, building a hypothetical upward price movement candle by candle. White lines trace the evolution of the lower and upper dynamic frequencies, illustrating how they are updated with each new candle and demonstrating concepts like DFS (Dynamic Frequency Stop) and DFB (Dynamic Frequency Breakout)."
+      },
+      {
+        "timestamp": "11:13",
+        "description": "A red text slide provides a warning: 'Don't rely solely on DFBs and DFSs because small price vectors will hinder the quality of your trades.'"
+      },
+      {
+        "timestamp": "11:28",
+        "description": "A text slide defines 'Real-Time Frequencies' and 'Historical Frequencies', highlighting key phrases in glowing blue."
+      },
+      {
+        "timestamp": "11:59",
+        "description": "A chart diagram titled 'Real Time and Historical Frequencies' illustrates how a Real-Time Frequency (RTF) of a completed price move becomes a Historical Frequency (HF) that influences a subsequent price move."
+      },
+      {
+        "timestamp": "12:19",
+        "description": "A chart diagram titled 'Last Dynamic Frequency Breakouts' shows price reacting to the support/resistance level created by the last DFB/DFS of a previous trend."
+      },
+      {
+        "timestamp": "12:32",
+        "description": "A chart diagram titled 'Test/Switch/Retest in DFBs & DFSs' illustrates how a level created by a DFB is tested, broken (switched from support to resistance), and then retested before price continues in the new direction."
+      }
+    ],
+    "eventCount": 23
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is the introduction of 'Frequency Lines' as a more precise evolution of traditional support and resistance, derived from overlaying fractal analysis. These lines are drawn to touch the maximum number of candle shadows without violating any candle bodies. The video further develops this into 'Dynamic Frequencies,' which are frequency lines that evolve in real-time as new price action forms. The central methodologies taught are identifying 'Dynamic Frequency Breakouts' (DFBs), where price breaks a counter-trend frequency, signaling a potential trend reversal, and 'Dynamic Frequency Stops' (DFSs), where price tests but fails to break a frequency, signaling trend continuation.",
+    "deeperMeaning": "The video implies that conventional support and resistance analysis is insufficient and lacks precision. By focusing on the 'frequency' of price tests at the micro-level of candle shadows, a trader can filter out market noise and gain a clearer, more dynamic understanding of market structure. The methodology suggests that support and resistance are not static, predetermined levels but are fluid boundaries that are constantly being defined and redefined by price action. This approach encourages traders to move from a static view of the market to a dynamic one, paying close attention to the evolution of price vectors. It provides a specific, rule-based framework for confirming trend strength and identifying high-probability reversal points with greater precision than traditional methods.",
+    "educationalGoal": "The educational objective is to teach traders an advanced, proprietary technical analysis technique that integrates fractal geometry with price action. The purpose is to enhance a trader's ability to read charts with higher precision, allowing for better-timed entries and more accurate identification of trend continuation and reversal signals. This lesson serves as a foundational element in a broader trading system that likely emphasizes fractal analysis, helping traders to understand the market's behavior on a deeper, more geometric level and to avoid low-quality trades within small, unprofitable price vectors."
+  },
+  "metadata": {
+    "processedAt": "2025-08-24T01:05:15.235Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

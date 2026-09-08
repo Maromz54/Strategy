@@ -1,0 +1,109 @@
+{
+  "id": "1rx8V9dLGX4jo77Mrgg47ffx5wiJSnu4x",
+  "fileName": "01 - Introduction.mkv",
+  "displayTitle": "Introduction",
+  "course": {
+    "name": "fractal_trading",
+    "lessonNumber": 1,
+    "globalLessonNumber": 75
+  },
+  "content": {
+    "fullText": "[00:04] Welcome to Fractal Trading: Mastering Price Action & Beyond. [00:08] This course is designed for traders in all levels of experience. [00:13] The way this works is that the course starts with simple, basic, and necessary ideas, and the level of difficulty and complexity rises with each lesson, all the way to the last lessons. [00:24] If you are new to the fractal flow way of looking at the markets, you'll get in touch with many reliable techniques. And if you are an old fractal flow student, you'll get access to the interesting developments of those techniques, some very powerful new tools, and perhaps most importantly, to a new framework of analysis that makes it easier to tie all of these techniques together so you can smoothly go from blank chart to trade entry, stop, and target. [00:50] One of the most difficult problems of price action reading is that the trader must know when to have a broad perspective of the chart and when to have narrow focus on a specific piece of price and how to navigate between these two modes effectively. This is the problem that this new framework attempts to solve. This course uses the theoretical foundation of the last course called Advanced Trading Course: Introduction to Fractal Trading, and it incorporates it in the context of candlesticks in a very practical way. [01:21] There are loads of actionable trading tools and insights. We are focusing on candles first because they are a foundation for everything that comes next. Even though the focus is on candles, we are going to touch on many other subjects like phase analysis, divergence, volume, barriers, pitchforks, linear regression channels, market manipulations, risk management, trading psychology, performance evaluation, and much more. [01:48] In trading, it's impossible to talk meaningfully about one thing in isolation. That means this course gives you full power to make high quality trades from a broad perspective. The application of these techniques in the markets holds many insights and nuances that take a long time to learn. Perhaps the greatest value this course can add to you beyond the awareness of these techniques is the fact that I have applied these techniques for a long time, which means I already learned all these peculiarities, details, and pitfalls, and I can show and explain them to you quickly and explicitly. That means by watching this course, you can dramatically shorten your learning curve. Instead of taking years to reach certain conclusions by yourself, you can have access to these conclusions in a few hours. That's what a good trading course must do in my opinion. [02:38] Another important detail here is that in the fractal flow way of learning, we are interested in descriptive theories, not normative ones. A normative theory is concerned with how things should be. A descriptive theory seeks to describe how things actually are. In other words, we don't want to self-impose what we want to happen in the market. We want to use tools and perspectives that describe what the market is doing so we can make the best decisions. [03:06] To ensure proper learning and protect the course material, the student has to answer a few questions correctly at the end of each lesson in order to access the next lesson. At the end, you'll receive a certificate of completion. This certificate indicates that you have mastery about the important subject of candles in the context of fractal price action trading.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:04] Welcome to Fractal Trading: Mastering Price Action & Beyond. [00:08] This course is designed for traders in all levels of experience. [00:13] The way this works is that the course starts with simple, basic, and necessary ideas, and the level of difficulty and complexity rises with each lesson, all the way to the last lessons. [00:24] If you are new to the fractal flow way of looking at the markets, you'll get in touch with many reliable techniques. And if you are an old fractal flow student, you'll get access to the interesting developments of those techniques, some very powerful new tools, and perhaps most importantly, to a new framework of analysis that makes it easier to tie all of these techniques together so you can smoothly go from blank chart to trade entry, stop, and target.",
+        "startChar": 0,
+        "endChar": 802,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "[00:50] One of the most difficult problems of price action reading is that the trader must know when to have a broad perspective of the chart and when to have narrow focus on a specific piece of price and how to navigate between these two modes effectively. This is the problem that this new framework attempts to solve. This course uses the theoretical foundation of the last course called Advanced Trading Course: Introduction to Fractal Trading, and it incorporates it in the context of candlesticks in a very practical way. [01:21] There are loads of actionable trading tools and insights. We are focusing on candles first because they are a foundation for everything that comes next.",
+        "startChar": 802,
+        "endChar": 1491,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "Even though the focus is on candles, we are going to touch on many other subjects like phase analysis, divergence, volume, barriers, pitchforks, linear regression channels, market manipulations, risk management, trading psychology, performance evaluation, and much more. [01:48] In trading, it's impossible to talk meaningfully about one thing in isolation. That means this course gives you full power to make high quality trades from a broad perspective. The application of these techniques in the markets holds many insights and nuances that take a long time to learn.",
+        "startChar": 1491,
+        "endChar": 2062,
+        "sequenceNumber": 2
+      },
+      {
+        "id": "chunk_3",
+        "text": "Perhaps the greatest value this course can add to you beyond the awareness of these techniques is the fact that I have applied these techniques for a long time, which means I already learned all these peculiarities, details, and pitfalls, and I can show and explain them to you quickly and explicitly. That means by watching this course, you can dramatically shorten your learning curve. Instead of taking years to reach certain conclusions by yourself, you can have access to these conclusions in a few hours. That's what a good trading course must do in my opinion. [02:38] Another important detail here is that in the fractal flow way of learning, we are interested in descriptive theories, not normative ones. A normative theory is concerned with how things should be.",
+        "startChar": 2062,
+        "endChar": 2835,
+        "sequenceNumber": 3
+      },
+      {
+        "id": "chunk_4",
+        "text": "A descriptive theory seeks to describe how things actually are. In other words, we don't want to self-impose what we want to happen in the market. We want to use tools and perspectives that describe what the market is doing so we can make the best decisions. [03:06] To ensure proper learning and protect the course material, the student has to answer a few questions correctly at the end of each lesson in order to access the next lesson. At the end, you'll receive a certificate of completion. This certificate indicates that you have mastery about the important subject of candles in the context of fractal price action trading.",
+        "startChar": 2835,
+        "endChar": 3466,
+        "sequenceNumber": 4
+      }
+    ],
+    "chunkCount": 5,
+    "totalLength": 3466
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:04",
+        "description": "Title slide appears on a dark, textured background. Main title 'Fractal Trading' is in glowing blue text. Subtitle 'Mastering Price Action & Beyond' is in glowing yellow text below it."
+      },
+      {
+        "timestamp": "00:10",
+        "description": "Text appears on screen: 'All levels of experience.' in white, glowing letters."
+      },
+      {
+        "timestamp": "00:16",
+        "description": "Text appears below the previous line: 'Difficulty level rises progressively with each lesson.' in glowing blue text."
+      },
+      {
+        "timestamp": "00:29",
+        "description": "Text on screen: 'Many reliable techniques, new developments, new tools, and a new framework of analysis.' The last phrase, 'a new framework of analysis,' is highlighted in glowing blue."
+      },
+      {
+        "timestamp": "00:56",
+        "description": "A Venn-like diagram appears. It features a large blue circle labeled 'Broad Perspective' and a smaller, contained blue circle labeled 'Narrow Focus'. A vertical, double-headed arrow connects the two labels, signifying a relationship or transition between them."
+      },
+      {
+        "timestamp": "01:22",
+        "description": "Text on screen: 'Loads of actionable trading insights, tools, and techniques.' The word 'actionable' is highlighted in glowing blue."
+      },
+      {
+        "timestamp": "01:55",
+        "description": "Text on screen: 'This course gives you full power to make high quality trades'. The phrase 'full power' is highlighted in glowing blue."
+      },
+      {
+        "timestamp": "02:16",
+        "description": "Text on screen: 'You'll have access to insights from years of practical application in just a few hours.' The text is displayed with a blue-to-green color gradient and a soft glow."
+      },
+      {
+        "timestamp": "02:44",
+        "description": "Text on screen: 'We are interested in descriptive theories. Not normative ones.' The word 'descriptive' is highlighted in glowing blue."
+      },
+      {
+        "timestamp": "03:17",
+        "description": "A blue icon of a rolled-up diploma appears. Below it, text reads: 'By the end of the course, you will have mastery of candlesticks in the context of fractal price action trading.' The word 'mastery' is highlighted in glowing blue."
+      }
+    ],
+    "eventCount": 10
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The course introduces a comprehensive 'framework of analysis' for fractal price action trading, which aims to solve the core trader's dilemma of shifting between a 'broad perspective' (macro context) and a 'narrow focus' (specific price action). It builds upon a previous course, using candlestick analysis as the foundational element to integrate numerous advanced concepts like phase analysis, volume, and pitchforks. A key tenet of the methodology is its reliance on 'descriptive theories'—analyzing what the market is actually doing—as opposed to 'normative theories'—imposing preconceived ideas of what the market should do.",
+    "deeperMeaning": "The course implies that sustainable trading success comes from an integrated, adaptive analytical process rather than isolated techniques or rigid rules. The emphasis on descriptive analysis suggests a philosophy of trading that prioritizes objective observation and responsiveness to the market's current state, discouraging predictive bias and emotional attachment to outcomes. The framework is designed to create a holistic understanding, allowing a trader to move seamlessly from a blank chart to a fully planned trade (entry, stop, target) by systematically connecting macro context to micro execution signals.",
+    "educationalGoal": "The video's purpose is to serve as an introduction and syllabus overview for the 'Fractal Trading' course. It aims to attract both new and returning students by outlining its structured, progressively difficult curriculum, its unique analytical framework, and its core philosophical approach. It establishes the value proposition by promising to dramatically shorten the learning curve, providing actionable insights from years of practical application, and culminating in a certified 'mastery' of candlesticks within the specific context of fractal price action trading."
+  },
+  "metadata": {
+    "processedAt": "2025-08-24T00:43:24.722Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

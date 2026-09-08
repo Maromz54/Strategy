@@ -1,0 +1,215 @@
+{
+  "id": "1-PIu6mmTAVnpmO5cIVbYd59NgFo-8yNr",
+  "fileName": "27 - Reversal Mechanics of Price Action in Low Fractal Dimension.mkv",
+  "displayTitle": "Reversal Mechanics of Price Action in Low Fractal Dimension",
+  "course": {
+    "name": "fractal_trading",
+    "lessonNumber": 1,
+    "globalLessonNumber": 75
+  },
+  "content": {
+    "fullText": "[00:01] Let's begin the practical examples of market analysis through our fractal price action reading framework with a simple scenario, and then we'll move on to more challenging situations in other lessons. Before we begin, it's important that you understand that these examples are not an attempt to demonstrate that these techniques are easy to use in real market scenarios because it's definitely not easy. These examples have the purpose of showing you what happens in certain situations and what you can do about it. In other words, this is just an exercise. In this example, I'm going to use the bottom-up approach, meaning that I'm going to start by detecting a dynamic frequency breakout, which is a more focused signal. And then I'll move on to the extrinsic forces and then narrow the analysis once again. In this chart, you can see that I already marked a DFB to the upside. This is the signal that starts the analysis in the bottom-up approach. The next step is to look at the extrinsic forces acting here. Let's begin by assessing the phase analysis methods. In terms of the Dow theory, we can spot that price is going to the downside by the observation of lower highs and lower lows. And according to this perspective, price hasn't turned around to the upside yet. According to Elliott, we can see a three-wave pattern going down, which might suggest that price is about to turn up. In terms of Wyckoff, there is no sign of a spring or upthrust after distribution, or any of the classic fast reversal patterns. As you can see, the primary focus of this situation is on Elliott. Since his method makes extensive use of Fibonacci ratios, we can make a quick detour and plot a Fib retracement tool in the first of the three waves. Immediately, we notice that price is reacting to the 161.8 level. We can also plot a Fib expansion tool on waves A and B, and we'll see that the current price is almost landing on the 100% ratio. Fib ratios are obviously a type of price barrier. I'm talking about them right now because they go hand-in-hand with Elliott. In summary, phase analysis tells us that there is the potential for a bullish reversal here. The next step is to look at price in terms of barriers. We just did that with two Fib tools in terms of phase analysis, which is a great piece of evidence to show how all of these things are interconnected. Keep the perception of Elliott wave in mind, and now we'll move on to the perception of other price barriers beyond the Fib tool. Let's begin with the linear regression channel. Recall that to draw an LRC properly, we need a left and right grounding position. The left will be a significant price extreme, and the right will be a potentially newly formed market extreme. In this case, the low of this large bearish candle is potentially a new significant low in this chart. So you can use that as the right grounding position. In terms of the left grounding, there are a few options. In this chart, you can see the single vector choice here. The LRC is grounded in the three-wave movement highlighted by Elliott. Notice that the potential low at the moment is touching the lower two sigma line of the LRC, which is an indication that price is in the market edge. In this next chart, you can see that I changed the left grounding position and transformed this into a multi-vector LRC. Once again, we see how the current low is respecting the lower two sigma level with a lower shadow that is suggestive of bullish pressure. In this chart, you can see the two LRCs that make sense in this scenario. Notice the fractal use of LRCs here. Another type of barrier that goes along with the LRC is the good old Andrews' Pitchfork. In this chart, you can see an example of a pitchfork that makes perfect sense for the analysis we have so far. It's a pitchfork grounded in the down and up price vectors at the top of the chart and then doubled to the downside. Notice how the lower line of the double pitchfork captures the current potential low to the tick. In this chart, you can see another example, now using a smaller pitchfork on waves A and B under the light of Elliott. The idea is the same. The lower line of the pitchfork is catching the current potential significant low. Notice that beyond the Fibonacci barriers we found earlier, we already found four non-obvious barriers, two from LRCs and two from pitchforks. In this market scenario, there are no obvious support lines or frequency lines we can spot on the left side of the chart. It's a mistake to keep going to the past of price until you find some barrier that might interact with the current price. The problem with that is that you will increase the amount of information you have to consider to an overwhelming degree. And there is already a lot to consider in the piece of price action we have here. Let's now move on to the other important extrinsic force called overextension. This is a special case because there are no clear overextension signals in broad terms. A trader looking for classic reversal and continuation divergence signals will say that there are none here, and he would be correct. However, in this course, you learn how to spot the fractal signals as well, and those are present in here. Before we analyze that, observe that I placed the RSI, which is a velocity oscillator, and the cumulative volume delta, which is a volume indicator more appropriate to look for divergence signals. The volume histogram can be a little sketchy in this sense, and it's more appropriate to things like volume spread analysis in my opinion. By the way, you can learn the basics of volume spread analysis for free in my YouTube channel if you haven't already. Let's begin by analyzing the fractal velocity divergence signals here. In this chart, you can see the first unusual signal here, which is the higher low in price with the lower low in the RSI. That is a bullish continuation signal, but most traders will simply gloss over that signal since they are not used to looking at these signals under the light of fractal analysis. In other words, this signal is telling us that price is going to the upside since it's a bullish continuation. In this chart, we can see that the very next candle generates another fractal divergence signal. This is familiar to old Fractal Flow students because it's the bullish reversal divergence signals that goes along with a fractal candle. This bullish candle right here is a bullish reversal fractal candle. Notice that it has a bullish bias, a lower low in comparison to the previous candle, and it's happening in a downward price vector. We'll talk about this fractal candle later. In other words, a lower low in price with a higher low in the RSI is a bullish reversal divergence signal. Take a step back and notice how interesting this sequence of fractal divergence signals are. First, we have a fractal bullish velocity continuation divergence, and in the very next candle, a fractal bullish velocity reversal signal. Both, of course, imply a bullish move, and that agrees with the rest of the analysis we have so far. Keep these fractal velocity signals in mind, and let's now move on to the cumulative volume delta signals. In this chart, you can see an example of fractal selling absorption. Recall that a selling absorption is a higher low in price while the CVD is producing a lower value. A selling absorption basically means that there is selling volume that is not being reflected accordingly in price, which means that buyers are successfully absorbing this volume, which by itself is a bullish signal. In this chart, you can see another fractal volume signal, which in this case is a fractal selling exhaustion. A selling exhaustion is marked by a lower low in price and a higher value in the CVD. Price is making a lower low, but there is no volume that confirms that movement. The name selling exhaustion implies what the movement means for the next candle. A lack of selling volume implies a bullish movement next. In summary, we have a fractal selling absorption followed by a fractal selling exhaustion. Both fractal volume signals imply a bullish movement for the next candles. All of these fractal divergence signals would be more powerful if they happened in a self-similar scenario, meaning inside a broader divergence signal in the home time frame, but that's certainly not the case here. This would be an observation against our analysis. Recall also that we need to pay attention to signal alternation, and that also means observing signal alternation in the fractal signals. The reason we have been looking for lower shadows instead of upper shadows so far is clearly because of the context we have built. Let's look at the upper shadows to see what we find. In this chart, we can see that these adjacent candles are forming lower highs. The RSI is making a lower low value as well, which means that it's in sync with price. The CVD is also making a lower value, so it's in tune with price. In other words, in this set of adjacent candles, there is no divergence in terms of velocity and volume when we look at the upper shadows. But there is velocity and volume divergence when we look at the lower shadows. In this next chart, you can see the next set of adjacent candles. This is where things become contradictory. We have a lower high in price with a higher value in the RSI, which implies a bearish continuation. Recall that when we look at the lower shadows, we observed a bullish reversal divergence, so these are contradictory signals. In terms of volume, we have a lower high in price and a higher value in the CVD, a buying absorption signal, which contradicts the selling exhaustion signal we identified in the lower shadows. The fact that there are contradictory signals is itself a type of divergence, and therefore evidence that something is changing in price. Perhaps the most important thing to observe here is that when it comes to fractal overextension signals, we give preference to the signals that are related to the context provided by the other extrinsic forces, meaning the first overextension signals we observed in terms of the lower shadows. Recall that there are four non-obvious barriers supporting the overextension signals in the lower shadows, plus the two more obvious and therefore self-fulfilling signals provided by the Fibonacci retracement and extension tools. The other extrinsic force is the prior price action activity. This is very simple to observe. We are clearly in a downward price vector, so we are looking for bullish signals. That's another reason why we would put more weight on the overextension signals in the lower shadows. But as I said, the fact that there are contradictory overextension signals in that little fractal candle is itself another divergence signal. This forms the context based on the extrinsic forces. We looked at phase analysis, barriers, overextension, and prior price action activity. Notice that overextension is a broad element, but it can get very focused and narrow, as we just observed. It's time now to move on to the perception of fractal price action properties, frequencies, fractal candles, and fractal manipulations before we look at the evolution of intrinsic properties, triggers, stops, and targets. Let's clear the chart a little bit. This is a good scenario to trade because we have smooth price action, which is another way of saying that we have low fractal dimension in price. These types of scenarios are much easier to trade because the evolution of intrinsic properties is gradual and therefore more predictable. So that's a great confirmatory perception on the trade context we have so far. Recall that it's useful to observe the sustainability of price at and across barriers. In this case, we would have a stronger case for our long trade idea if this downward price vector was accelerating to the downside, because that would be an unsustainable price motion. However, in this case, price is acting in a sustainable fashion, which is bad news, but of course, doesn't invalidate everything we have seen so far. In terms of frequencies, which lead to the analysis of DFBs and DFS patterns, we have a few details to observe. First, we have the DFB that started the analysis to begin with. This is clearly a bullish signal, especially because it's happening in the context of smooth price action, meaning price action with low fractal dimension. And it's happening with low volatility. Notice how subtle the DFB is in terms of volatility when we compare it with the volatility of the downward movements. In this next chart, you can see the counterpoint between the DFB under the light of the butterfly effect and low fractal dimension and the DFS happening at the potential significant low of the current price action. Notice that the DFB is preceded by the DFS, which is characteristic of a successful reversal. The DFS inherently implies a frequency line, recalling that frequency lines are support and resistance lines under the light of fractal analysis. In a fractal candle, we also have a fractal manipulation pattern. In this case, we have a fractal bear trap that is not preceded by a bear raid and it's not followed by a bull raid. In other words, this is a fractal manipulation signal, but it's a weak one. Let's now look at the evolution of intrinsic properties leading to the fractal candle and the DFB, starting with the large bearish candle that forms the potential significant low at the moment. From this candle to the next, we can see that there is a continuation in bias, but a dramatic reduction in body size. That means sellers are losing power while still in control. Range decreases, which implies a reduction in volatility. Range dynamics form a contraction which forms an inside candle. It's more useful to observe price in terms of range dynamics rather than identifying an inside candle only, because there are many variations of how inside candles can occur. Notice also that the contraction is asymmetric. The contraction in the upper side is much more prominent than the contraction in the lower side. We notice a slight increase in the size of upper shadow, which is a small increase in bearish pressure, and a small decrease in lower shadows, meaning buying pressure is decreasing. Contextualizing this with the previous properties, price is decelerating, but it still has bearish power. It's beginning to show contradictory signals, which agrees with the next intrinsic property. Body percentage decreases, which makes the perception of uncertainty emerge. That's perfectly normal when price is reversing, even in low fractal dimension movements. Body position is still tilted to the downside, alluding to the fact that the price movement is decelerating but still with a bearish strength. When a bullish reversal fractal candle appears, more contradictory signals emerge. First, there is a change in bias with a slight increase in body size, which means that buyers are beginning to appear. Body percentage stays relatively the same, so uncertainty is still present. But body position becomes more centered, which is in favor of buyers since it was tilted to the downside in the previous candle. Upper shadows decrease while lower shadows increase, meaning that bearish pressure is decreasing at the highs and buying pressure is increasing at the lows. However, the fractal candle forms a downward progression in terms of range dynamics, which contradicts the other bullish signals in here. This is where we go to the perception of integration in this fractal candle. This fractal candle has a downward progression instead of expanding range dynamics, and it has medium body percentage, which are weak signals for a fractal candle. It's part of the DFS, but the DFB doesn't happen in it. Two positive observations are that the fractal candle happens with the butterfly effect and in a low fractal dimension. In terms of overextension, we have several fractal overextension signals, but no self-similar signals, so the case isn't much stronger for the integrated fractal candle. It happens in a final trend phase, since it's theoretically happening at the end of a wave C. It has a reaction to barriers without their violation, as we saw with the Fibonacci ratios, the pitchforks, and the LRCs. There is a fractal manipulation, but only a weak one, and there is absence of self-similar manipulations. Recall that every fractal candle implies a trap pattern, but the integration of manipulation patterns is what makes it stronger. Finally, it happens in sustainable price motion, which is not a good thing for this trade idea. In summary, this is a weakly integrated fractal candle, so it would not be used as a trigger. It's just an indication that buyers are appearing. The DFB occurs in the next candle, and this is where the trigger occurs because of the change in intrinsic properties and the perception of fractal price action elements. Notice that the DFB occurs in a low fractal dimension and still under the presence of the butterfly effect, which is great news. Notice also that body percentage increases, augmenting the perception of certainty. Body size increases while range stays the same. In other words, we see how the increase in certainty with low volatility stays the same forms a butterfly effect. And finally, range dynamics form an upward progression, indicating that price has indeed turned to the upside. This is the trigger for the long trade idea. In this case, it's obvious that the stop loss order is below the potential significant low. To determine the target, recall that we need to use phase-dependent and favorably bounded ratios. Going back to the perception of phase analysis, since this is apparently the end of an ABC movement in an Elliott wave, we can assume that this is the beginning of a trending movement or a five-wave pattern. In this chart, we have a major high that is suggestive of a target. If we measure the risk-reward ratio to this high, we'll see that it's a very interesting 4.74 ratio. So this major high seems to make sense as a target here. The trigger for this long trade happens at the open of the very next candle. Let's see how the market develops after that. As you can see in this chart, price reverses as expected and goes directly to the target. Hopefully, you were able to see how the careful analysis of intrinsic properties, extrinsic forces, and fractal price action elements allows the trader to see the dynamics of a price reversal. Notice that we're not simply trying to find elements that agree with the analysis here, we're also weighing the elements that go against it, which is a very important thing to do.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:01] Let's begin the practical examples of market analysis through our fractal price action reading framework with a simple scenario, and then we'll move on to more challenging situations in other lessons. Before we begin, it's important that you understand that these examples are not an attempt to demonstrate that these techniques are easy to use in real market scenarios because it's definitely not easy. These examples have the purpose of showing you what happens in certain situations and what you can do about it. In other words, this is just an exercise. In this example, I'm going to use the bottom-up approach, meaning that I'm going to start by detecting a dynamic frequency breakout, which is a more focused signal.",
+        "startChar": 0,
+        "endChar": 731,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "And then I'll move on to the extrinsic forces and then narrow the analysis once again. In this chart, you can see that I already marked a DFB to the upside. This is the signal that starts the analysis in the bottom-up approach. The next step is to look at the extrinsic forces acting here. Let's begin by assessing the phase analysis methods. In terms of the Dow theory, we can spot that price is going to the downside by the observation of lower highs and lower lows. And according to this perspective, price hasn't turned around to the upside yet. According to Elliott, we can see a three-wave pattern going down, which might suggest that price is about to turn up. In terms of Wyckoff, there is no sign of a spring or upthrust after distribution, or any of the classic fast reversal patterns.",
+        "startChar": 731,
+        "endChar": 1527,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "As you can see, the primary focus of this situation is on Elliott. Since his method makes extensive use of Fibonacci ratios, we can make a quick detour and plot a Fib retracement tool in the first of the three waves. Immediately, we notice that price is reacting to the 161.8 level. We can also plot a Fib expansion tool on waves A and B, and we'll see that the current price is almost landing on the 100% ratio. Fib ratios are obviously a type of price barrier. I'm talking about them right now because they go hand-in-hand with Elliott. In summary, phase analysis tells us that there is the potential for a bullish reversal here. The next step is to look at price in terms of barriers.",
+        "startChar": 1527,
+        "endChar": 2215,
+        "sequenceNumber": 2
+      },
+      {
+        "id": "chunk_3",
+        "text": "We just did that with two Fib tools in terms of phase analysis, which is a great piece of evidence to show how all of these things are interconnected. Keep the perception of Elliott wave in mind, and now we'll move on to the perception of other price barriers beyond the Fib tool. Let's begin with the linear regression channel. Recall that to draw an LRC properly, we need a left and right grounding position. The left will be a significant price extreme, and the right will be a potentially newly formed market extreme. In this case, the low of this large bearish candle is potentially a new significant low in this chart. So you can use that as the right grounding position. In terms of the left grounding, there are a few options. In this chart, you can see the single vector choice here.",
+        "startChar": 2215,
+        "endChar": 3008,
+        "sequenceNumber": 3
+      },
+      {
+        "id": "chunk_4",
+        "text": "The LRC is grounded in the three-wave movement highlighted by Elliott. Notice that the potential low at the moment is touching the lower two sigma line of the LRC, which is an indication that price is in the market edge. In this next chart, you can see that I changed the left grounding position and transformed this into a multi-vector LRC. Once again, we see how the current low is respecting the lower two sigma level with a lower shadow that is suggestive of bullish pressure. In this chart, you can see the two LRCs that make sense in this scenario. Notice the fractal use of LRCs here. Another type of barrier that goes along with the LRC is the good old Andrews' Pitchfork. In this chart, you can see an example of a pitchfork that makes perfect sense for the analysis we have so far.",
+        "startChar": 3008,
+        "endChar": 3800,
+        "sequenceNumber": 4
+      },
+      {
+        "id": "chunk_5",
+        "text": "It's a pitchfork grounded in the down and up price vectors at the top of the chart and then doubled to the downside. Notice how the lower line of the double pitchfork captures the current potential low to the tick. In this chart, you can see another example, now using a smaller pitchfork on waves A and B under the light of Elliott. The idea is the same. The lower line of the pitchfork is catching the current potential significant low. Notice that beyond the Fibonacci barriers we found earlier, we already found four non-obvious barriers, two from LRCs and two from pitchforks. In this market scenario, there are no obvious support lines or frequency lines we can spot on the left side of the chart.",
+        "startChar": 3800,
+        "endChar": 4504,
+        "sequenceNumber": 5
+      },
+      {
+        "id": "chunk_6",
+        "text": "It's a mistake to keep going to the past of price until you find some barrier that might interact with the current price. The problem with that is that you will increase the amount of information you have to consider to an overwhelming degree. And there is already a lot to consider in the piece of price action we have here. Let's now move on to the other important extrinsic force called overextension. This is a special case because there are no clear overextension signals in broad terms. A trader looking for classic reversal and continuation divergence signals will say that there are none here, and he would be correct. However, in this course, you learn how to spot the fractal signals as well, and those are present in here.",
+        "startChar": 4504,
+        "endChar": 5238,
+        "sequenceNumber": 6
+      },
+      {
+        "id": "chunk_7",
+        "text": "Before we analyze that, observe that I placed the RSI, which is a velocity oscillator, and the cumulative volume delta, which is a volume indicator more appropriate to look for divergence signals. The volume histogram can be a little sketchy in this sense, and it's more appropriate to things like volume spread analysis in my opinion. By the way, you can learn the basics of volume spread analysis for free in my YouTube channel if you haven't already. Let's begin by analyzing the fractal velocity divergence signals here. In this chart, you can see the first unusual signal here, which is the higher low in price with the lower low in the RSI.",
+        "startChar": 5238,
+        "endChar": 5885,
+        "sequenceNumber": 7
+      },
+      {
+        "id": "chunk_8",
+        "text": "That is a bullish continuation signal, but most traders will simply gloss over that signal since they are not used to looking at these signals under the light of fractal analysis. In other words, this signal is telling us that price is going to the upside since it's a bullish continuation. In this chart, we can see that the very next candle generates another fractal divergence signal. This is familiar to old Fractal Flow students because it's the bullish reversal divergence signals that goes along with a fractal candle. This bullish candle right here is a bullish reversal fractal candle. Notice that it has a bullish bias, a lower low in comparison to the previous candle, and it's happening in a downward price vector. We'll talk about this fractal candle later.",
+        "startChar": 5885,
+        "endChar": 6656,
+        "sequenceNumber": 8
+      },
+      {
+        "id": "chunk_9",
+        "text": "In other words, a lower low in price with a higher low in the RSI is a bullish reversal divergence signal. Take a step back and notice how interesting this sequence of fractal divergence signals are. First, we have a fractal bullish velocity continuation divergence, and in the very next candle, a fractal bullish velocity reversal signal. Both, of course, imply a bullish move, and that agrees with the rest of the analysis we have so far. Keep these fractal velocity signals in mind, and let's now move on to the cumulative volume delta signals. In this chart, you can see an example of fractal selling absorption. Recall that a selling absorption is a higher low in price while the CVD is producing a lower value.",
+        "startChar": 6656,
+        "endChar": 7373,
+        "sequenceNumber": 9
+      },
+      {
+        "id": "chunk_10",
+        "text": "A selling absorption basically means that there is selling volume that is not being reflected accordingly in price, which means that buyers are successfully absorbing this volume, which by itself is a bullish signal. In this chart, you can see another fractal volume signal, which in this case is a fractal selling exhaustion. A selling exhaustion is marked by a lower low in price and a higher value in the CVD. Price is making a lower low, but there is no volume that confirms that movement. The name selling exhaustion implies what the movement means for the next candle. A lack of selling volume implies a bullish movement next. In summary, we have a fractal selling absorption followed by a fractal selling exhaustion. Both fractal volume signals imply a bullish movement for the next candles.",
+        "startChar": 7373,
+        "endChar": 8172,
+        "sequenceNumber": 10
+      },
+      {
+        "id": "chunk_11",
+        "text": "All of these fractal divergence signals would be more powerful if they happened in a self-similar scenario, meaning inside a broader divergence signal in the home time frame, but that's certainly not the case here. This would be an observation against our analysis. Recall also that we need to pay attention to signal alternation, and that also means observing signal alternation in the fractal signals. The reason we have been looking for lower shadows instead of upper shadows so far is clearly because of the context we have built. Let's look at the upper shadows to see what we find. In this chart, we can see that these adjacent candles are forming lower highs. The RSI is making a lower low value as well, which means that it's in sync with price.",
+        "startChar": 8172,
+        "endChar": 8926,
+        "sequenceNumber": 11
+      },
+      {
+        "id": "chunk_12",
+        "text": "The CVD is also making a lower value, so it's in tune with price. In other words, in this set of adjacent candles, there is no divergence in terms of velocity and volume when we look at the upper shadows. But there is velocity and volume divergence when we look at the lower shadows. In this next chart, you can see the next set of adjacent candles. This is where things become contradictory. We have a lower high in price with a higher value in the RSI, which implies a bearish continuation. Recall that when we look at the lower shadows, we observed a bullish reversal divergence, so these are contradictory signals.",
+        "startChar": 8926,
+        "endChar": 9545,
+        "sequenceNumber": 12
+      },
+      {
+        "id": "chunk_13",
+        "text": "In terms of volume, we have a lower high in price and a higher value in the CVD, a buying absorption signal, which contradicts the selling exhaustion signal we identified in the lower shadows. The fact that there are contradictory signals is itself a type of divergence, and therefore evidence that something is changing in price. Perhaps the most important thing to observe here is that when it comes to fractal overextension signals, we give preference to the signals that are related to the context provided by the other extrinsic forces, meaning the first overextension signals we observed in terms of the lower shadows.",
+        "startChar": 9545,
+        "endChar": 10170,
+        "sequenceNumber": 13
+      },
+      {
+        "id": "chunk_14",
+        "text": "Recall that there are four non-obvious barriers supporting the overextension signals in the lower shadows, plus the two more obvious and therefore self-fulfilling signals provided by the Fibonacci retracement and extension tools. The other extrinsic force is the prior price action activity. This is very simple to observe. We are clearly in a downward price vector, so we are looking for bullish signals. That's another reason why we would put more weight on the overextension signals in the lower shadows. But as I said, the fact that there are contradictory overextension signals in that little fractal candle is itself another divergence signal. This forms the context based on the extrinsic forces. We looked at phase analysis, barriers, overextension, and prior price action activity.",
+        "startChar": 10170,
+        "endChar": 10961,
+        "sequenceNumber": 14
+      },
+      {
+        "id": "chunk_15",
+        "text": "Notice that overextension is a broad element, but it can get very focused and narrow, as we just observed. It's time now to move on to the perception of fractal price action properties, frequencies, fractal candles, and fractal manipulations before we look at the evolution of intrinsic properties, triggers, stops, and targets. Let's clear the chart a little bit. This is a good scenario to trade because we have smooth price action, which is another way of saying that we have low fractal dimension in price. These types of scenarios are much easier to trade because the evolution of intrinsic properties is gradual and therefore more predictable. So that's a great confirmatory perception on the trade context we have so far.",
+        "startChar": 10961,
+        "endChar": 11690,
+        "sequenceNumber": 15
+      },
+      {
+        "id": "chunk_16",
+        "text": "Recall that it's useful to observe the sustainability of price at and across barriers. In this case, we would have a stronger case for our long trade idea if this downward price vector was accelerating to the downside, because that would be an unsustainable price motion. However, in this case, price is acting in a sustainable fashion, which is bad news, but of course, doesn't invalidate everything we have seen so far. In terms of frequencies, which lead to the analysis of DFBs and DFS patterns, we have a few details to observe. First, we have the DFB that started the analysis to begin with. This is clearly a bullish signal, especially because it's happening in the context of smooth price action, meaning price action with low fractal dimension. And it's happening with low volatility.",
+        "startChar": 11690,
+        "endChar": 12484,
+        "sequenceNumber": 16
+      },
+      {
+        "id": "chunk_17",
+        "text": "Notice how subtle the DFB is in terms of volatility when we compare it with the volatility of the downward movements. In this next chart, you can see the counterpoint between the DFB under the light of the butterfly effect and low fractal dimension and the DFS happening at the potential significant low of the current price action. Notice that the DFB is preceded by the DFS, which is characteristic of a successful reversal. The DFS inherently implies a frequency line, recalling that frequency lines are support and resistance lines under the light of fractal analysis. In a fractal candle, we also have a fractal manipulation pattern. In this case, we have a fractal bear trap that is not preceded by a bear raid and it's not followed by a bull raid.",
+        "startChar": 12484,
+        "endChar": 13239,
+        "sequenceNumber": 17
+      },
+      {
+        "id": "chunk_18",
+        "text": "In other words, this is a fractal manipulation signal, but it's a weak one. Let's now look at the evolution of intrinsic properties leading to the fractal candle and the DFB, starting with the large bearish candle that forms the potential significant low at the moment. From this candle to the next, we can see that there is a continuation in bias, but a dramatic reduction in body size. That means sellers are losing power while still in control. Range decreases, which implies a reduction in volatility. Range dynamics form a contraction which forms an inside candle. It's more useful to observe price in terms of range dynamics rather than identifying an inside candle only, because there are many variations of how inside candles can occur. Notice also that the contraction is asymmetric.",
+        "startChar": 13239,
+        "endChar": 14032,
+        "sequenceNumber": 18
+      },
+      {
+        "id": "chunk_19",
+        "text": "The contraction in the upper side is much more prominent than the contraction in the lower side. We notice a slight increase in the size of upper shadow, which is a small increase in bearish pressure, and a small decrease in lower shadows, meaning buying pressure is decreasing. Contextualizing this with the previous properties, price is decelerating, but it still has bearish power. It's beginning to show contradictory signals, which agrees with the next intrinsic property. Body percentage decreases, which makes the perception of uncertainty emerge. That's perfectly normal when price is reversing, even in low fractal dimension movements. Body position is still tilted to the downside, alluding to the fact that the price movement is decelerating but still with a bearish strength.",
+        "startChar": 14032,
+        "endChar": 14820,
+        "sequenceNumber": 19
+      },
+      {
+        "id": "chunk_20",
+        "text": "When a bullish reversal fractal candle appears, more contradictory signals emerge. First, there is a change in bias with a slight increase in body size, which means that buyers are beginning to appear. Body percentage stays relatively the same, so uncertainty is still present. But body position becomes more centered, which is in favor of buyers since it was tilted to the downside in the previous candle. Upper shadows decrease while lower shadows increase, meaning that bearish pressure is decreasing at the highs and buying pressure is increasing at the lows. However, the fractal candle forms a downward progression in terms of range dynamics, which contradicts the other bullish signals in here. This is where we go to the perception of integration in this fractal candle.",
+        "startChar": 14820,
+        "endChar": 15599,
+        "sequenceNumber": 20
+      },
+      {
+        "id": "chunk_21",
+        "text": "This fractal candle has a downward progression instead of expanding range dynamics, and it has medium body percentage, which are weak signals for a fractal candle. It's part of the DFS, but the DFB doesn't happen in it. Two positive observations are that the fractal candle happens with the butterfly effect and in a low fractal dimension. In terms of overextension, we have several fractal overextension signals, but no self-similar signals, so the case isn't much stronger for the integrated fractal candle. It happens in a final trend phase, since it's theoretically happening at the end of a wave C. It has a reaction to barriers without their violation, as we saw with the Fibonacci ratios, the pitchforks, and the LRCs.",
+        "startChar": 15599,
+        "endChar": 16325,
+        "sequenceNumber": 21
+      },
+      {
+        "id": "chunk_22",
+        "text": "There is a fractal manipulation, but only a weak one, and there is absence of self-similar manipulations. Recall that every fractal candle implies a trap pattern, but the integration of manipulation patterns is what makes it stronger. Finally, it happens in sustainable price motion, which is not a good thing for this trade idea. In summary, this is a weakly integrated fractal candle, so it would not be used as a trigger. It's just an indication that buyers are appearing. The DFB occurs in the next candle, and this is where the trigger occurs because of the change in intrinsic properties and the perception of fractal price action elements. Notice that the DFB occurs in a low fractal dimension and still under the presence of the butterfly effect, which is great news.",
+        "startChar": 16325,
+        "endChar": 17101,
+        "sequenceNumber": 22
+      },
+      {
+        "id": "chunk_23",
+        "text": "Notice also that body percentage increases, augmenting the perception of certainty. Body size increases while range stays the same. In other words, we see how the increase in certainty with low volatility stays the same forms a butterfly effect. And finally, range dynamics form an upward progression, indicating that price has indeed turned to the upside. This is the trigger for the long trade idea. In this case, it's obvious that the stop loss order is below the potential significant low. To determine the target, recall that we need to use phase-dependent and favorably bounded ratios. Going back to the perception of phase analysis, since this is apparently the end of an ABC movement in an Elliott wave, we can assume that this is the beginning of a trending movement or a five-wave pattern.",
+        "startChar": 17101,
+        "endChar": 17901,
+        "sequenceNumber": 23
+      },
+      {
+        "id": "chunk_24",
+        "text": "In this chart, we have a major high that is suggestive of a target. If we measure the risk-reward ratio to this high, we'll see that it's a very interesting 4.74 ratio. So this major high seems to make sense as a target here. The trigger for this long trade happens at the open of the very next candle. Let's see how the market develops after that. As you can see in this chart, price reverses as expected and goes directly to the target. Hopefully, you were able to see how the careful analysis of intrinsic properties, extrinsic forces, and fractal price action elements allows the trader to see the dynamics of a price reversal.",
+        "startChar": 17901,
+        "endChar": 18533,
+        "sequenceNumber": 24
+      },
+      {
+        "id": "chunk_25",
+        "text": "Notice that we're not simply trying to find elements that agree with the analysis here, we're also weighing the elements that go against it, which is a very important thing to do.",
+        "startChar": 18533,
+        "endChar": 18712,
+        "sequenceNumber": 25
+      }
+    ],
+    "chunkCount": 26,
+    "totalLength": 18712
+  },
+  "timeline": {
+    "keyEvents": [],
+    "eventCount": 0
+  },
+  "semanticAnalysis": {
+    "mainConcept": "",
+    "deeperMeaning": "",
+    "educationalGoal": ""
+  },
+  "metadata": {
+    "processedAt": "2025-08-24T15:28:16.354Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": false,
+    "hasAnalysis": false
+  }
+}

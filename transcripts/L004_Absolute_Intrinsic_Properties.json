@@ -1,0 +1,198 @@
+{
+  "id": "1GXigdeyHBslXRxnQRNhmayKNnVtYqn0z",
+  "fileName": "04 - Absolute Intrinsic Properties.mp4",
+  "displayTitle": "Absolute Intrinsic Properties",
+  "course": {
+    "name": "fractal_trading",
+    "lessonNumber": 4,
+    "globalLessonNumber": 78
+  },
+  "content": {
+    "fullText": "In this lesson, we'll study the intrinsic properties in absolute terms from the ground up. Keep in mind that the properties in the beginning are very simple, and you might already know them, but soon you'll see how the level of complexity starts to rise. The first property is called candle bias or sentiment. We can use these terms interchangeably. Bias or sentiment, as the name clearly suggests, relates to the directional bias in a particular candle. And it is determined by the position of the close in relation to the open of the candle. If the candle closes higher than it opened, this candle has a bullish bias or bullish sentiment. If the candle closes lower than it opened, this candle has a bearish bias or bearish sentiment. The reason for this is intuitive. For a candle to close higher than it opened, buyers must outperform sellers at least in some degree. For a candle to close lower than it opened, sellers must outperform buyers to some degree. If we sum all the upward price oscillations within a candle and sum all the downward price oscillations within a candle, and then observe the difference between the two, we'll observe that when the sum of upward price movements is larger, we have a bullish candle. And when the sum of bearish price movements is larger, we have a bearish candle. To make this absolutely clear, let's observe a hypothetical example. Imagine a bullish candle that is formed according to these up and down oscillations. If we sum the total upward price movements, we get the total of bullish action within the candle. If we sum the total downward movements, we get the total of bearish action. The difference between these sums is equal to the candle body. This is why the candle body shows who had more power during the formation of the candle. For this reason, a candle where the close is higher than the open signals that buyers are stronger than sellers. And a candle where the close is lower than the open signals that the sellers are stronger than the buyers. Although this interpretation can change depending on the other intrinsic properties. Notice that the candle bias or sentiment only qualifies the candle, but it doesn't quantify it. In other words, we can tell that the candle is bullish or bearish, but not how much. That leads us to the next property, which is the body size. The bias or sentiment qualifies the candle into bullish or bearish. What quantifies this bias is the body size, which is simply the space or distance between the open and the close. The larger the space, the greater the bias or sentiment. For example, in this illustration, you can see two candles. Both have bullish bias because the close is above the open. But the second candle is more bullish than the first, simply because the space between the open and the close is larger. In this other illustration, you can see the example with bearish candles. The only difference is that the close is below the open price. When we look at one candlestick in isolation, the human eye automatically assesses the size of the candle body because we compare it with the width of the candle. In other words, just by looking at a candle, we can have an idea if it is small, medium, or large, without some sort of objective parameter. We'll see other ways of measuring candle body objectively later in the course when we talk about relative intrinsic properties. The third intrinsic property of a candlestick is the range, which is nothing more than the space or distance between the candle extremes, or the low and the high. Notice that this is different than body size, where we consider the space between the open and close. The range considers the shadows as well. The candle range can be associated with the perception of volatility. In basic terms, the wider the range of a candlestick, the higher its volatility. Generally speaking, it takes more energy to create a wide-range candle than a narrow-range candle. Range can be objectively measured by the use of the ATR(1) indicator in combination with a modification of the Bollinger Bands indicator, as you can see in this image. The red columns represent the candle range. The orange line represents the moving average of the range of the last 50 periods. And the blue line is the moving standard deviation considering two standard deviations as default. When the bar is below the orange moving average, we have a low range or narrow-range candle, simply because, statistically speaking, the candle range is below average. The bars that dwell between the orange moving average and the blue moving standard deviation are representative of medium-range candles because range is above average, but it's not extreme. The bars that dwell above the blue moving standard deviation are representative of wide-range candles because they are more than two standard deviations away from the mean. One important detail here is that range, like volatility, has a cyclical behavior, which is an important thing to pay attention to when looking for high-quality trades, as you learn later on. Candles above two standard deviations are considered wide, but there is an additional detail here. Candles above three standard deviations are considered to be outliers. These are candles with extremely wide range relatively speaking. In this image, I changed the setting of the modified Bollinger Bands to three standard deviations so you can see the outliers. To build this indicator, you need to follow these steps. Plot the ATR indicator and change the period to one. Change the styling to columns in the styling tab. Plot the Bollinger Bands indicator and drag it down to the ATR window. Change the source of the Bollinger Bands to ATR and the period to 50. After that, in the styling tab, uncheck the boxes labeled as lower and background. The next property we'll talk about is the shadow. Shadows highlight areas of buying and selling pressure. Upper shadows highlight selling pressure and lower shadows highlight buying pressure. For a shadow to form, one market player has to advance and then the opposite market player has to successfully counteract that movement. For example, an upper shadow means that buyers were at the top of the candle range at some point, but sellers appeared to counteract that movement. That's why an upper shadow implies selling pressure. A lower shadow means that sellers were at the bottom of the candle range at some point, but buyers appeared to counteract that movement. That's why a lower shadow implies buying pressure. Shadows are also important in the detection of frequencies, dynamic frequency breakouts and stops, fractal manipulations, and fractal candles, which are extremely useful price action elements we'll talk about later in the course. The next property is called Body Percentage. The Body Percentage relates the size of the body in terms of the range, meaning how much of the candle range is occupied by the candle body in percentage terms. This is important because it's a measure of uncertainty. The lower the body percentage, the greater the level of uncertainty in that candle in isolation. This immediately translates into a candle with a small body and large shadows. The smaller the body and the larger the shadows in the candle, the more price action oscillates up and down with no clear bias during the formation of the candle. The larger the body and the smaller the shadows in the candle, the more biased and direct, and therefore certain, the movement is. We can assess the body percentage objectively through technical indicators. In this chart, we can see an example of very low body percentage followed by a very high body percentage candle. Notice how the low body percentage candle has a prominent shadow implying uncertainty and the high body percentage candle has very small shadows implying certainty. In other words, looking at body percentage in isolation, we can observe the transition from uncertainty to certainty. Keep in mind that the other intrinsic properties will layer several nuances of interpretation to this perception. Shadow Symmetry or Body Position. The Body Percentage provides a sense of uncertainty in the candle, but it doesn't say anything about the balance between buying and selling pressure. To assess that, we need to pay attention to the symmetry of shadows or the position of the candle body in relation to the candle range. Notice that the symmetry of shadows and the position of the candle body are two sides of the same coin. For example, a candle with small body percentage and perfectly symmetrical shadows demonstrates uncertainty and balance between buying and selling pressure. A candle with small body percentage and asymmetric shadows demonstrates uncertainty but with a tendency or bias to one of the market sides. The greater the asymmetry, the greater the tendency to one of the sides. You can look at shadow symmetry or body position as a way to contextualize the body percentage property.",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "In this lesson, we'll study the intrinsic properties in absolute terms from the ground up. Keep in mind that the properties in the beginning are very simple, and you might already know them, but soon you'll see how the level of complexity starts to rise. The first property is called candle bias or sentiment. We can use these terms interchangeably. Bias or sentiment, as the name clearly suggests, relates to the directional bias in a particular candle. And it is determined by the position of the close in relation to the open of the candle. If the candle closes higher than it opened, this candle has a bullish bias or bullish sentiment. If the candle closes lower than it opened, this candle has a bearish bias or bearish sentiment. The reason for this is intuitive.",
+        "startChar": 0,
+        "endChar": 771,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "For a candle to close higher than it opened, buyers must outperform sellers at least in some degree. For a candle to close lower than it opened, sellers must outperform buyers to some degree. If we sum all the upward price oscillations within a candle and sum all the downward price oscillations within a candle, and then observe the difference between the two, we'll observe that when the sum of upward price movements is larger, we have a bullish candle. And when the sum of bearish price movements is larger, we have a bearish candle. To make this absolutely clear, let's observe a hypothetical example. Imagine a bullish candle that is formed according to these up and down oscillations. If we sum the total upward price movements, we get the total of bullish action within the candle.",
+        "startChar": 771,
+        "endChar": 1561,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "If we sum the total downward movements, we get the total of bearish action. The difference between these sums is equal to the candle body. This is why the candle body shows who had more power during the formation of the candle. For this reason, a candle where the close is higher than the open signals that buyers are stronger than sellers. And a candle where the close is lower than the open signals that the sellers are stronger than the buyers. Although this interpretation can change depending on the other intrinsic properties. Notice that the candle bias or sentiment only qualifies the candle, but it doesn't quantify it. In other words, we can tell that the candle is bullish or bearish, but not how much. That leads us to the next property, which is the body size.",
+        "startChar": 1561,
+        "endChar": 2335,
+        "sequenceNumber": 2
+      },
+      {
+        "id": "chunk_3",
+        "text": "The bias or sentiment qualifies the candle into bullish or bearish. What quantifies this bias is the body size, which is simply the space or distance between the open and the close. The larger the space, the greater the bias or sentiment. For example, in this illustration, you can see two candles. Both have bullish bias because the close is above the open. But the second candle is more bullish than the first, simply because the space between the open and the close is larger. In this other illustration, you can see the example with bearish candles. The only difference is that the close is below the open price. When we look at one candlestick in isolation, the human eye automatically assesses the size of the candle body because we compare it with the width of the candle.",
+        "startChar": 2335,
+        "endChar": 3115,
+        "sequenceNumber": 3
+      },
+      {
+        "id": "chunk_4",
+        "text": "In other words, just by looking at a candle, we can have an idea if it is small, medium, or large, without some sort of objective parameter. We'll see other ways of measuring candle body objectively later in the course when we talk about relative intrinsic properties. The third intrinsic property of a candlestick is the range, which is nothing more than the space or distance between the candle extremes, or the low and the high. Notice that this is different than body size, where we consider the space between the open and close. The range considers the shadows as well. The candle range can be associated with the perception of volatility. In basic terms, the wider the range of a candlestick, the higher its volatility.",
+        "startChar": 3115,
+        "endChar": 3841,
+        "sequenceNumber": 4
+      },
+      {
+        "id": "chunk_5",
+        "text": "Generally speaking, it takes more energy to create a wide-range candle than a narrow-range candle. Range can be objectively measured by the use of the ATR(1) indicator in combination with a modification of the Bollinger Bands indicator, as you can see in this image. The red columns represent the candle range. The orange line represents the moving average of the range of the last 50 periods. And the blue line is the moving standard deviation considering two standard deviations as default. When the bar is below the orange moving average, we have a low range or narrow-range candle, simply because, statistically speaking, the candle range is below average.",
+        "startChar": 3841,
+        "endChar": 4502,
+        "sequenceNumber": 5
+      },
+      {
+        "id": "chunk_6",
+        "text": "The bars that dwell between the orange moving average and the blue moving standard deviation are representative of medium-range candles because range is above average, but it's not extreme. The bars that dwell above the blue moving standard deviation are representative of wide-range candles because they are more than two standard deviations away from the mean. One important detail here is that range, like volatility, has a cyclical behavior, which is an important thing to pay attention to when looking for high-quality trades, as you learn later on. Candles above two standard deviations are considered wide, but there is an additional detail here. Candles above three standard deviations are considered to be outliers. These are candles with extremely wide range relatively speaking.",
+        "startChar": 4502,
+        "endChar": 5292,
+        "sequenceNumber": 6
+      },
+      {
+        "id": "chunk_7",
+        "text": "In this image, I changed the setting of the modified Bollinger Bands to three standard deviations so you can see the outliers. To build this indicator, you need to follow these steps. Plot the ATR indicator and change the period to one. Change the styling to columns in the styling tab. Plot the Bollinger Bands indicator and drag it down to the ATR window. Change the source of the Bollinger Bands to ATR and the period to 50. After that, in the styling tab, uncheck the boxes labeled as lower and background. The next property we'll talk about is the shadow. Shadows highlight areas of buying and selling pressure. Upper shadows highlight selling pressure and lower shadows highlight buying pressure.",
+        "startChar": 5292,
+        "endChar": 5995,
+        "sequenceNumber": 7
+      },
+      {
+        "id": "chunk_8",
+        "text": "For a shadow to form, one market player has to advance and then the opposite market player has to successfully counteract that movement. For example, an upper shadow means that buyers were at the top of the candle range at some point, but sellers appeared to counteract that movement. That's why an upper shadow implies selling pressure. A lower shadow means that sellers were at the bottom of the candle range at some point, but buyers appeared to counteract that movement. That's why a lower shadow implies buying pressure. Shadows are also important in the detection of frequencies, dynamic frequency breakouts and stops, fractal manipulations, and fractal candles, which are extremely useful price action elements we'll talk about later in the course. The next property is called Body Percentage.",
+        "startChar": 5995,
+        "endChar": 6796,
+        "sequenceNumber": 8
+      },
+      {
+        "id": "chunk_9",
+        "text": "The Body Percentage relates the size of the body in terms of the range, meaning how much of the candle range is occupied by the candle body in percentage terms. This is important because it's a measure of uncertainty. The lower the body percentage, the greater the level of uncertainty in that candle in isolation. This immediately translates into a candle with a small body and large shadows. The smaller the body and the larger the shadows in the candle, the more price action oscillates up and down with no clear bias during the formation of the candle. The larger the body and the smaller the shadows in the candle, the more biased and direct, and therefore certain, the movement is. We can assess the body percentage objectively through technical indicators.",
+        "startChar": 6796,
+        "endChar": 7560,
+        "sequenceNumber": 9
+      },
+      {
+        "id": "chunk_10",
+        "text": "In this chart, we can see an example of very low body percentage followed by a very high body percentage candle. Notice how the low body percentage candle has a prominent shadow implying uncertainty and the high body percentage candle has very small shadows implying certainty. In other words, looking at body percentage in isolation, we can observe the transition from uncertainty to certainty. Keep in mind that the other intrinsic properties will layer several nuances of interpretation to this perception. Shadow Symmetry or Body Position. The Body Percentage provides a sense of uncertainty in the candle, but it doesn't say anything about the balance between buying and selling pressure.",
+        "startChar": 7560,
+        "endChar": 8254,
+        "sequenceNumber": 10
+      },
+      {
+        "id": "chunk_11",
+        "text": "To assess that, we need to pay attention to the symmetry of shadows or the position of the candle body in relation to the candle range. Notice that the symmetry of shadows and the position of the candle body are two sides of the same coin. For example, a candle with small body percentage and perfectly symmetrical shadows demonstrates uncertainty and balance between buying and selling pressure. A candle with small body percentage and asymmetric shadows demonstrates uncertainty but with a tendency or bias to one of the market sides. The greater the asymmetry, the greater the tendency to one of the sides. You can look at shadow symmetry or body position as a way to contextualize the body percentage property.",
+        "startChar": 8254,
+        "endChar": 8968,
+        "sequenceNumber": 11
+      }
+    ],
+    "chunkCount": 12,
+    "totalLength": 8968
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:03",
+        "description": "A title card appears on a dark, textured background. It features a glowing blue circle with the white text 'Absolute Intrinsic Properties' inside."
+      },
+      {
+        "timestamp": "00:18",
+        "description": "A title card with a glowing blue circle appears, containing the text 'Bias/Sentiment'."
+      },
+      {
+        "timestamp": "00:24",
+        "description": "A slide titled 'Candle Bias/Sentiment' is shown. Text is added sequentially, explaining that bias is the directional inclination determined by the close relative to the open. Key terms are color-coded: 'directional bias' is blue; 'close' and 'open' are yellow."
+      },
+      {
+        "timestamp": "00:36",
+        "description": "On the 'Candle Bias/Sentiment' slide, two formulas appear. 'Close > Open -> Bullish Bias' is shown with 'Bullish Bias' in glowing green. 'Close < Open -> Bearish Bias' is shown with 'Bearish Bias' in glowing red."
+      },
+      {
+        "timestamp": "01:03",
+        "description": "Two mathematical representations of bias appear on the slide. 'Σ Upward Price Movements > Σ Downward Price Movements = Bullish' (with 'Bullish' in green). 'Σ Upward Price Movements < Σ Downward Price Movements = Bearish' (with 'Bearish' in red)."
+      },
+      {
+        "timestamp": "01:28",
+        "description": "A diagram illustrates how a candle is formed. Price action zigzags within a blue rectangle. The upward movements are summed into a long green bar, and downward movements are summed into a shorter red bar. The net difference is shown to be equal to the body of the resulting green candlestick."
+      },
+      {
+        "timestamp": "01:55",
+        "description": "A visual comparison of bullish and bearish candles. The left side shows a green bullish candle with an upward arrow and text 'Buyers are more powerful than sellers.' The right side shows a red bearish candle with a downward arrow and text 'Sellers are more powerful than buyers.'"
+      },
+      {
+        "timestamp": "02:23",
+        "description": "A title card with a glowing blue circle appears, containing the text 'Body Size'."
+      },
+      {
+        "timestamp": "02:41",
+        "description": "An illustration compares a small bullish candle labeled 'Bullish' to a large bullish candle labeled 'More Bullish' to demonstrate how body size quantifies the bias."
+      },
+      {
+        "timestamp": "03:31",
+        "description": "A title card with a glowing blue circle appears, containing the text 'Range'."
+      },
+      {
+        "timestamp": "04:12",
+        "description": "A TradingView chart of S&P 500 E-mini Futures is displayed. Below the main price chart is a custom indicator showing red columns (ATR with period 1). Arrows point to candles on the main chart, labeling them as 'Wide Range', 'Medium Range', and 'Narrow Range' corresponding to the height of the ATR columns relative to a moving average (orange line) and a standard deviation band (blue line)."
+      },
+      {
+        "timestamp": "05:20",
+        "description": "The chart is modified to identify an 'Outlier' candle, which corresponds to a column in the indicator pane that is exceptionally tall, exceeding a 3-standard-deviation band."
+      },
+      {
+        "timestamp": "05:33",
+        "description": "A text slide titled 'Range Indicator' lists five steps for creating the custom volatility indicator in a charting platform by combining the ATR and Bollinger Bands indicators."
+      },
+      {
+        "timestamp": "06:01",
+        "description": "A title card with a glowing blue circle appears, containing the text 'Shadows'."
+      },
+      {
+        "timestamp": "06:04",
+        "description": "A diagram of a candle with a small body and long shadows is shown. Text indicates that the 'Upper Shadow highlights area of selling pressure' (in red) and the 'Lower Shadow highlights area of buying pressure' (in green)."
+      },
+      {
+        "timestamp": "06:58",
+        "description": "A title card with a glowing blue circle appears, containing the text 'Body%'."
+      },
+      {
+        "timestamp": "07:12",
+        "description": "A text slide explains that 'Body%' is a measure of uncertainty. It states 'Low Body% means uncertainty' (in red) and 'High Body% means certainty' (in green)."
+      },
+      {
+        "timestamp": "07:27",
+        "description": "A visual comparison of a low body percentage candle (like a doji), described as 'Oscillation with unclear bias (Uncertainty)', and a high body percentage candle (like a marubozu), described as 'Direct movement with clear bias (Certainty)'."
+      },
+      {
+        "timestamp": "08:20",
+        "description": "A title card with a glowing blue circle appears, containing the text 'Shadow Symmetry / Body Position'."
+      },
+      {
+        "timestamp": "08:46",
+        "description": "Two diagrams illustrate asymmetric shadows. A candle with a body positioned low in its range indicates 'Uncertainty with Bearish Bias.' A candle with a body positioned high in its range indicates 'Uncertainty with Bullish Bias.'"
+      }
+    ],
+    "eventCount": 20
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is to deconstruct any single candlestick into a set of 'Absolute Intrinsic Properties' to systematically analyze the price action it represents. This framework moves beyond simple pattern memorization by breaking down a candle into four fundamental, interconnected components: 1) Bias/Sentiment (directional intent based on open vs. close), 2) Body Size (magnitude of directional intent), 3) Range (total volatility from high to low), and 4) Body Percentage/Shadow Symmetry (the measure of uncertainty vs. certainty and the balance between buying and selling pressure).",
+    "deeperMeaning": "The lesson implies that true market understanding comes from reading price action from 'first principles' rather than relying on predefined patterns. By analyzing these intrinsic properties, a trader can interpret the narrative of the battle between buyers and sellers within any given time period. A small body with large, asymmetric shadows implies uncertainty but with a slight victor (e.g., selling pressure), while a large body with small shadows implies certainty and a clear victor. This approach seeks to turn subjective chart reading into a more objective, systematic process, as evidenced by the introduction of custom indicators to quantify concepts like Range and Volatility.",
+    "educationalGoal": "The educational objective is to establish a foundational, granular methodology for price action analysis. This lesson provides the essential building blocks for the entire trading framework being taught. By learning to dissect the smallest fractal of market information—the single candlestick—students are being prepared to apply these principles of bias, magnitude, volatility, and uncertainty to larger market structures and more complex concepts like 'fractal manipulations' and 'dynamic frequencies' that will be covered later in the course."
+  },
+  "metadata": {
+    "processedAt": "2025-08-24T00:48:46.541Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "id": "1F7uafrVG3hdvtqcNF4SaJH9QmYZ_H4OE",
+  "fileName": "08.1 - Extrinsic Forces (PART 1).mp4",
+  "displayTitle": "08.1 - Extrinsic Forces (PART 1)",
+  "course": {
+    "name": "fractal_trading",
+    "lessonNumber": 9,
+    "globalLessonNumber": 83
+  },
+  "content": {
+    "fullText": "[00:00] The analysis of absolute and relative intrinsic properties is definitely important, but it must be placed in the larger context provided by the extrinsic forces of the market. These extrinsic forces will modulate the information we get from the intrinsic properties. In other words, the extrinsic forces of the market can strengthen, weaken, or even change the interpretation we get from the intrinsic properties. As it was stated before, the combination of intrinsic properties and extrinsic forces will form a price action reading framework. The extrinsic forces are location or trend phase, overextension, price barriers, and prior activity. Let's analyze each extrinsic force individually. [00:47] Location or Trend Phase. Location or trend phase relates to where price action is in the overall trend. We can assess that through the various phase analysis methods like Elliott Wave, Dow Theory, and Wyckoff. Candles appearing in the beginning, middle, or end of trends according to these methods will have different meanings. A simple example of that is a candlestick that demonstrates certainty to one of the market sides. If this candle appears in the middle of a trend, it might signal a continuation. If it appears at the end of a trend, it might mean an exhaustion, which will then lead to a reversal. Knowing the placement of candlesticks relative to the market trend requires knowledge of these phase analysis methods. This is not the goal of this course, since these subjects are very detailed, so we'll only look at simple examples of such methods. You can find detailed courses about each of the three for free in my YouTube channel. The famous phase analysis methods are Dow Theory, Elliott Wave Theory, and the Wyckoff Method. Let's quickly review the main characteristics of the three. [01:57] Perhaps one of the most famous phase analysis methods is based on the observation of how highs and lows progress in the chart. Higher highs and higher lows mean uptrend. Lower highs and lower lows mean downtrend. Built into the theory, there's also the notion of accumulation, which is the sideways market that precedes an uptrend, and distribution, which is the sideways market that precedes a downtrend. The classic buy and sell signals of the Dow Theory occur when price breaks a swing high or a swing low. These notions might tell you whether the market is trending up, down, or sideways, but they don't tell you how far price is into a trend. The simplest way of analyzing that through Dow Theory is with volume. According to the theory, volume confirms price. A higher high or a lower low must be combined with higher peaks in volume in order to confirm the trend. If a higher high or a lower low is combined with a lower peak in volume, then the trend is losing strength. Once again, if you wish to learn more about the Dow Theory in detail, search for a free Dow Theory course in my YouTube channel. [03:03] The Elliott Wave Theory is also incredibly famous. It's based on the assumption that markets move in patterns of five and three waves. It's also assumed that such patterns repeat inside themselves, alluding to the undeniable fact that markets are fractal. This provides a roadmap for traders to decide whether the market is overbought or oversold, so to speak. Elliott Wave has a lot of rules and guidelines, but the best results come from the observation of obvious patterns of five and three waves. The reason for this is the self-fulfilling prophecy effect present in common trading methods. Elliott Wave is a very detailed theory and it tends to be more precise than the general guidelines found in the Dow Theory, although these two methods are not mutually exclusive. In fact, there's a lot of benefit in trading their intersection. If you want to go deeper into Elliott Wave, search my YouTube channel for a free Elliott Wave course. [04:00] Wyckoff. This method is sometimes considered an evolution of Dow Theory. It considers the presence of well-informed traders that are capable of inducing uninformed traders in the market to act in a specific and deceptive way. The identification of manipulative maneuvers can be useful to enter and exit the market at the beginning and end of trends. The idea here is that if a trader becomes aware of such manipulative maneuvers, he can take advantage of them instead of being their victim. The Wyckoff Method, like the Elliott Wave Theory, has a surprisingly large number of details. I also have a free Wyckoff trading course in my YouTube channel explaining all the intricacies and details. One issue with Wyckoff is that it assumes that manipulation maneuvers only occur at the beginning or end of a trend, and the sheer number of restrictions and details make it difficult to apply this method. But there are good insights in it overall. For example, this notion of market manipulation began with Wyckoff. Keep in mind that in this course you are watching right now, we are only reviewing the role of these methods as one of the extrinsic forces that can modulate the interpretation of candlesticks. We are not interested in diving deep into the theories in the moment. In integrated trading, we must combine several methods, so it naturally follows that we cannot dive too deep into each one. It's more about breadth rather than depth in many instances. [05:31] The second type of extrinsic force is called overextension. Overextension relates to the idea of forces behind price action like velocity, acceleration, volume, and others. Once price travels too far in one direction, these underlying forces begin to change, leading to potential reversals. The advantage here is that the implicit forces behind price action change before price. Therefore, giving an edge to the traders who are aware of them. A big part of that is the analysis of divergence and its many different types of signals. When price action is out of sync with its underlying driving forces, the interpretation of intrinsic properties will be impacted. Overextension is also perfectly complementary to the idea of location or trend phase. Divergence analysis is an extensive topic on its own, so it also deserves a separate course. Here we are going to review the most basic signals of velocity divergence, which is erroneously called momentum divergence, acceleration, and volume divergence. To make things clear, an indicator like the RSI, for example, is not truly a momentum indicator. The RSI is simply a way to measure the rate of change of price, and the rate of change of something is simply its velocity. In physics, momentum is the product of velocity and mass. A true momentum indicator would incorporate this element of mass along with velocity, but that's a topic for the divergence analysis course. Let's review basic divergence signals. [07:07] Velocity Reversal Divergence. When price makes higher highs and a velocity oscillator like the RSI makes lower highs, there is a bearish velocity reversal signal. When price makes lower lows and RSI makes higher lows, there is a bullish velocity reversal signal. Reversal divergence is a type of counter-trend stance, meaning that the trader is always looking for the moment where the trend will reverse. That has a greater profit potential, but it's also riskier. It's always easier to continue with the trend instead of trying to pick the precise moment where it reverses. [07:45] Velocity Continuation Divergence. Velocity continuation divergence is a type of divergence that happens in favor of the trend, so it's a trend trading stance. As it was previously said, going with an established trend is easier than trying to pick its top or bottom. The velocity continuation divergence aims to pick the end of a retracement. When price makes higher lows and the velocity oscillator makes lower lows, there is a bullish continuation divergence. When price makes lower highs and the velocity oscillator makes higher highs, there is a bearish continuation divergence. [08:26] It's also interesting to observe a less-known type of divergence called acceleration divergence. Velocity is the rate of change of price. Acceleration is the rate of change of velocity. From the perspective of calculus, acceleration is the second derivative of price. Acceleration divergence works in the same way as velocity divergence. The difference lies in the source of the indicator signal. In velocity divergence, we use an indicator like the RSI which will use price action as a source of calculation. Recall that acceleration is the rate of change of velocity, so to measure the acceleration of price with an indicator, we need to add another RSI and use the first RSI as a source of calculation. It's an RSI of the RSI. In the same way that the velocity divergence signal leads price action, the acceleration divergence signal leads the velocity divergence signal. Let me give you a real example of this. In this chart, you can see two RSI windows. The top black one is the RSI of price, so it's a measure of velocity. The bottom red one is the RSI of the black RSI, so it's a measure of acceleration. Notice that the black velocity RSI is not showing a classic bullish reversal signal, but the red acceleration RSI is, meaning that it's leading the velocity RSI and pointing to a bullish reversal that ends up happening right after. There are many details on how to use these signals, but in this course, I only want to show you their existence and the basics. [10:01] There are three details that you should pay attention to when it comes to divergence signals. The first is something called signal alternation. The second is the length between price extremes that generate the signal. And the third is the self-similarity of the signal. Signal alternation happens when reversal and continuation signals alternate. A lot of traders tend to pay attention only to reversal signals while ignoring the continuation ones. The problem here is that a continuation signal tends to be stronger since it has the trend on its side. While the trader keeps focusing on the reversal signals that continually fail, he could be taking advantage of the continuation signals that have a higher chance of working. In this illustration, you can see bearish reversals alternating with bullish continuations where there is a preference for the bullish signals since it agrees with the trend. And on the right, you can see bullish reversals alternating with bearish continuations, with a preference for the bearish signal since it agrees with the trend. [11:03] The second detail is the length between price extremes that generate the divergence signal. A divergence signal in isolation tends to be stronger as the length between extremes increases. Every trader has had the experience of a series of false divergence signals. These false divergence signals tend to be short in length. That is just a guideline, of course. There are exceptions, as is the case with anything in trading. In this image, you can see an example of this. The divergence highlighted in black has a short length between extremes, so it leads to a bump in price that is far from enough to produce a good trade. The signal highlighted in red has a larger length, so it leads to a more significant reversal. [11:47] Signal Self-Similarity. In my previous courses, I showed how a fractal candle represents a divergence in a lower timeframe. However, a fractal candle is a weak divergence signal in isolation in the home timeframe because of the small length between adjacent candle extremes. In fact, it's the smallest length possible. For this reason, using a fractal candle as a divergence signal by itself is a bad idea. It must be put in the context of other divergence signals and other extrinsic forces. Divergence signals can be self-similar in the sense that they happen within each other. There are multiple variations of how this happens with various differences in length from the largest length until the fractal candle. I will leave a careful examination of this for the course dedicated exclusively to divergence analysis. I will give you a quick example, though. In this chart, you can see a bullish continuation signal highlighted in red, a smaller bullish reversal signal in black, and a bullish fractal candle, which is a reversal divergence signal in a lower timeframe highlighted in blue. What follows is a confirmation of the signal chain with a strong bullish move. Notice how reversal and continuation signals can occur simultaneously, but in a way where each reinforces one another, which is the opposite of what happens with signal alternation. [13:12] Basic Volume Divergence. Basic volume divergence occurs when a progression of highs or a progression of lows in price produces lower peaks in the volume histogram. This is based on the idea that volume confirms price movement. When looking at upward price movements, we compare highs in price with the peaks in the volume histogram. When looking at downward price movements, we compare lows in price with peaks in the volume histogram. Divergence in the volume histogram works slightly differently because the volume histogram only has positive values. [13:48] Cumulative Volume Delta Divergence. Classic volume divergence is not very precise and has a few deceptive pitfalls built into it. A better way of looking at volume divergence is through the cumulative volume delta. This is a useful indicator that demonstrates the cumulative difference in bullish and bearish volume over time. The standard volume histogram measures the total volume of each candle, but it's obvious that every candle is formed by a portion of bullish volume and a portion of bearish volume. The volume delta is the difference between the two. The CVD indicator simply shows a cumulation of delta over time. In this chart, you can see the cumulative volume delta indicator, which looks like a velocity or acceleration oscillator, but it's not. This is purely a volume indicator. There are mainly two divergent patterns in the cumulative volume delta: the exhaustion and the absorption. In the buying exhaustion, price is creating higher highs, but the CVD is not, meaning that there is a decrease in bullish volume in comparison to bearish volume. This means the buyers are exhausting their energy, which is suggestive of a bearish reversal. In the selling exhaustion, price is creating lower lows, but the CVD is not, meaning that there is a decrease in bearish volume in comparison to bullish volume. This means the sellers are exhausting their energy, which is suggestive of a bullish reversal. [15:18] In the selling absorption, price is failing to make a lower low while the CVD is succeeding to make a lower low. This means there is a lot of selling volume, but buyers are not letting price go down, meaning that buyers are successfully absorbing the sellers, which suggests a bullish move after. In the buying absorption, price is failing to make a higher high while the CVD is succeeding to make a higher high. This means there is a lot of buying volume, but sellers are not letting price go up, meaning that sellers are successfully absorbing the buyers, which suggests a bearish movement after. The shape of these signals is exactly the same of the reversal and continuation divergences, but from a different perspective. In this chart, we have the example of a selling absorption on the left and a buying exhaustion on the right. Both signals are successful in this case. We can see fractal candles in the CVD indicator, meaning that there is such a thing as fractal volume. And we can also pay attention to signal alternation, the length between extremes, and the self-similarity of signals. Don't worry if you don't know what a fractal candle is, we'll dive into it later. In this chart, you can see an example of fractal selling exhaustion, meaning a selling exhaustion occurring within another. We can also combine velocity, acceleration, and CVD divergences. In fact, you should do that to increase the reliability of these signals. These are the most common types of divergences viewed from the unique perspective of fractal analysis, but keep in mind that there are many more types of divergences that can be explored. The idea here is just to review the basic divergence types since they are an important extrinsic force acting on price action. [17:04] *End of video content.*",
+    "chunks": [
+      {
+        "id": "chunk_0",
+        "text": "[00:00] The analysis of absolute and relative intrinsic properties is definitely important, but it must be placed in the larger context provided by the extrinsic forces of the market. These extrinsic forces will modulate the information we get from the intrinsic properties. In other words, the extrinsic forces of the market can strengthen, weaken, or even change the interpretation we get from the intrinsic properties. As it was stated before, the combination of intrinsic properties and extrinsic forces will form a price action reading framework. The extrinsic forces are location or trend phase, overextension, price barriers, and prior activity. Let's analyze each extrinsic force individually. [00:47] Location or Trend Phase.",
+        "startChar": 0,
+        "endChar": 735,
+        "sequenceNumber": 0
+      },
+      {
+        "id": "chunk_1",
+        "text": "Location or trend phase relates to where price action is in the overall trend. We can assess that through the various phase analysis methods like Elliott Wave, Dow Theory, and Wyckoff. Candles appearing in the beginning, middle, or end of trends according to these methods will have different meanings. A simple example of that is a candlestick that demonstrates certainty to one of the market sides. If this candle appears in the middle of a trend, it might signal a continuation. If it appears at the end of a trend, it might mean an exhaustion, which will then lead to a reversal. Knowing the placement of candlesticks relative to the market trend requires knowledge of these phase analysis methods.",
+        "startChar": 735,
+        "endChar": 1438,
+        "sequenceNumber": 1
+      },
+      {
+        "id": "chunk_2",
+        "text": "This is not the goal of this course, since these subjects are very detailed, so we'll only look at simple examples of such methods. You can find detailed courses about each of the three for free in my YouTube channel. The famous phase analysis methods are Dow Theory, Elliott Wave Theory, and the Wyckoff Method. Let's quickly review the main characteristics of the three. [01:57] Perhaps one of the most famous phase analysis methods is based on the observation of how highs and lows progress in the chart. Higher highs and higher lows mean uptrend. Lower highs and lower lows mean downtrend. Built into the theory, there's also the notion of accumulation, which is the sideways market that precedes an uptrend, and distribution, which is the sideways market that precedes a downtrend.",
+        "startChar": 1438,
+        "endChar": 2225,
+        "sequenceNumber": 2
+      },
+      {
+        "id": "chunk_3",
+        "text": "The classic buy and sell signals of the Dow Theory occur when price breaks a swing high or a swing low. These notions might tell you whether the market is trending up, down, or sideways, but they don't tell you how far price is into a trend. The simplest way of analyzing that through Dow Theory is with volume. According to the theory, volume confirms price. A higher high or a lower low must be combined with higher peaks in volume in order to confirm the trend. If a higher high or a lower low is combined with a lower peak in volume, then the trend is losing strength. Once again, if you wish to learn more about the Dow Theory in detail, search for a free Dow Theory course in my YouTube channel. [03:03] The Elliott Wave Theory is also incredibly famous.",
+        "startChar": 2225,
+        "endChar": 2986,
+        "sequenceNumber": 3
+      },
+      {
+        "id": "chunk_4",
+        "text": "It's based on the assumption that markets move in patterns of five and three waves. It's also assumed that such patterns repeat inside themselves, alluding to the undeniable fact that markets are fractal. This provides a roadmap for traders to decide whether the market is overbought or oversold, so to speak. Elliott Wave has a lot of rules and guidelines, but the best results come from the observation of obvious patterns of five and three waves. The reason for this is the self-fulfilling prophecy effect present in common trading methods. Elliott Wave is a very detailed theory and it tends to be more precise than the general guidelines found in the Dow Theory, although these two methods are not mutually exclusive. In fact, there's a lot of benefit in trading their intersection.",
+        "startChar": 2986,
+        "endChar": 3774,
+        "sequenceNumber": 4
+      },
+      {
+        "id": "chunk_5",
+        "text": "If you want to go deeper into Elliott Wave, search my YouTube channel for a free Elliott Wave course. [04:00] Wyckoff. This method is sometimes considered an evolution of Dow Theory. It considers the presence of well-informed traders that are capable of inducing uninformed traders in the market to act in a specific and deceptive way. The identification of manipulative maneuvers can be useful to enter and exit the market at the beginning and end of trends. The idea here is that if a trader becomes aware of such manipulative maneuvers, he can take advantage of them instead of being their victim. The Wyckoff Method, like the Elliott Wave Theory, has a surprisingly large number of details.",
+        "startChar": 3774,
+        "endChar": 4469,
+        "sequenceNumber": 5
+      },
+      {
+        "id": "chunk_6",
+        "text": "I also have a free Wyckoff trading course in my YouTube channel explaining all the intricacies and details. One issue with Wyckoff is that it assumes that manipulation maneuvers only occur at the beginning or end of a trend, and the sheer number of restrictions and details make it difficult to apply this method. But there are good insights in it overall. For example, this notion of market manipulation began with Wyckoff. Keep in mind that in this course you are watching right now, we are only reviewing the role of these methods as one of the extrinsic forces that can modulate the interpretation of candlesticks. We are not interested in diving deep into the theories in the moment.",
+        "startChar": 4469,
+        "endChar": 5158,
+        "sequenceNumber": 6
+      },
+      {
+        "id": "chunk_7",
+        "text": "In integrated trading, we must combine several methods, so it naturally follows that we cannot dive too deep into each one. It's more about breadth rather than depth in many instances. [05:31] The second type of extrinsic force is called overextension. Overextension relates to the idea of forces behind price action like velocity, acceleration, volume, and others. Once price travels too far in one direction, these underlying forces begin to change, leading to potential reversals. The advantage here is that the implicit forces behind price action change before price. Therefore, giving an edge to the traders who are aware of them. A big part of that is the analysis of divergence and its many different types of signals.",
+        "startChar": 5158,
+        "endChar": 5884,
+        "sequenceNumber": 7
+      },
+      {
+        "id": "chunk_8",
+        "text": "When price action is out of sync with its underlying driving forces, the interpretation of intrinsic properties will be impacted. Overextension is also perfectly complementary to the idea of location or trend phase. Divergence analysis is an extensive topic on its own, so it also deserves a separate course. Here we are going to review the most basic signals of velocity divergence, which is erroneously called momentum divergence, acceleration, and volume divergence. To make things clear, an indicator like the RSI, for example, is not truly a momentum indicator. The RSI is simply a way to measure the rate of change of price, and the rate of change of something is simply its velocity. In physics, momentum is the product of velocity and mass.",
+        "startChar": 5884,
+        "endChar": 6633,
+        "sequenceNumber": 8
+      },
+      {
+        "id": "chunk_9",
+        "text": "A true momentum indicator would incorporate this element of mass along with velocity, but that's a topic for the divergence analysis course. Let's review basic divergence signals. [07:07] Velocity Reversal Divergence. When price makes higher highs and a velocity oscillator like the RSI makes lower highs, there is a bearish velocity reversal signal. When price makes lower lows and RSI makes higher lows, there is a bullish velocity reversal signal. Reversal divergence is a type of counter-trend stance, meaning that the trader is always looking for the moment where the trend will reverse. That has a greater profit potential, but it's also riskier. It's always easier to continue with the trend instead of trying to pick the precise moment where it reverses.",
+        "startChar": 6633,
+        "endChar": 7396,
+        "sequenceNumber": 9
+      },
+      {
+        "id": "chunk_10",
+        "text": "[07:45] Velocity Continuation Divergence. Velocity continuation divergence is a type of divergence that happens in favor of the trend, so it's a trend trading stance. As it was previously said, going with an established trend is easier than trying to pick its top or bottom. The velocity continuation divergence aims to pick the end of a retracement. When price makes higher lows and the velocity oscillator makes lower lows, there is a bullish continuation divergence. When price makes lower highs and the velocity oscillator makes higher highs, there is a bearish continuation divergence. [08:26] It's also interesting to observe a less-known type of divergence called acceleration divergence. Velocity is the rate of change of price. Acceleration is the rate of change of velocity.",
+        "startChar": 7396,
+        "endChar": 8181,
+        "sequenceNumber": 10
+      },
+      {
+        "id": "chunk_11",
+        "text": "From the perspective of calculus, acceleration is the second derivative of price. Acceleration divergence works in the same way as velocity divergence. The difference lies in the source of the indicator signal. In velocity divergence, we use an indicator like the RSI which will use price action as a source of calculation. Recall that acceleration is the rate of change of velocity, so to measure the acceleration of price with an indicator, we need to add another RSI and use the first RSI as a source of calculation. It's an RSI of the RSI. In the same way that the velocity divergence signal leads price action, the acceleration divergence signal leads the velocity divergence signal. Let me give you a real example of this. In this chart, you can see two RSI windows.",
+        "startChar": 8181,
+        "endChar": 8954,
+        "sequenceNumber": 11
+      },
+      {
+        "id": "chunk_12",
+        "text": "The top black one is the RSI of price, so it's a measure of velocity. The bottom red one is the RSI of the black RSI, so it's a measure of acceleration. Notice that the black velocity RSI is not showing a classic bullish reversal signal, but the red acceleration RSI is, meaning that it's leading the velocity RSI and pointing to a bullish reversal that ends up happening right after. There are many details on how to use these signals, but in this course, I only want to show you their existence and the basics. [10:01] There are three details that you should pay attention to when it comes to divergence signals. The first is something called signal alternation. The second is the length between price extremes that generate the signal. And the third is the self-similarity of the signal.",
+        "startChar": 8954,
+        "endChar": 9745,
+        "sequenceNumber": 12
+      },
+      {
+        "id": "chunk_13",
+        "text": "Signal alternation happens when reversal and continuation signals alternate. A lot of traders tend to pay attention only to reversal signals while ignoring the continuation ones. The problem here is that a continuation signal tends to be stronger since it has the trend on its side. While the trader keeps focusing on the reversal signals that continually fail, he could be taking advantage of the continuation signals that have a higher chance of working. In this illustration, you can see bearish reversals alternating with bullish continuations where there is a preference for the bullish signals since it agrees with the trend. And on the right, you can see bullish reversals alternating with bearish continuations, with a preference for the bearish signal since it agrees with the trend.",
+        "startChar": 9745,
+        "endChar": 10538,
+        "sequenceNumber": 13
+      },
+      {
+        "id": "chunk_14",
+        "text": "[11:03] The second detail is the length between price extremes that generate the divergence signal. A divergence signal in isolation tends to be stronger as the length between extremes increases. Every trader has had the experience of a series of false divergence signals. These false divergence signals tend to be short in length. That is just a guideline, of course. There are exceptions, as is the case with anything in trading. In this image, you can see an example of this. The divergence highlighted in black has a short length between extremes, so it leads to a bump in price that is far from enough to produce a good trade. The signal highlighted in red has a larger length, so it leads to a more significant reversal. [11:47] Signal Self-Similarity.",
+        "startChar": 10538,
+        "endChar": 11297,
+        "sequenceNumber": 14
+      },
+      {
+        "id": "chunk_15",
+        "text": "In my previous courses, I showed how a fractal candle represents a divergence in a lower timeframe. However, a fractal candle is a weak divergence signal in isolation in the home timeframe because of the small length between adjacent candle extremes. In fact, it's the smallest length possible. For this reason, using a fractal candle as a divergence signal by itself is a bad idea. It must be put in the context of other divergence signals and other extrinsic forces. Divergence signals can be self-similar in the sense that they happen within each other. There are multiple variations of how this happens with various differences in length from the largest length until the fractal candle. I will leave a careful examination of this for the course dedicated exclusively to divergence analysis.",
+        "startChar": 11297,
+        "endChar": 12093,
+        "sequenceNumber": 15
+      },
+      {
+        "id": "chunk_16",
+        "text": "I will give you a quick example, though. In this chart, you can see a bullish continuation signal highlighted in red, a smaller bullish reversal signal in black, and a bullish fractal candle, which is a reversal divergence signal in a lower timeframe highlighted in blue. What follows is a confirmation of the signal chain with a strong bullish move. Notice how reversal and continuation signals can occur simultaneously, but in a way where each reinforces one another, which is the opposite of what happens with signal alternation. [13:12] Basic Volume Divergence. Basic volume divergence occurs when a progression of highs or a progression of lows in price produces lower peaks in the volume histogram. This is based on the idea that volume confirms price movement.",
+        "startChar": 12093,
+        "endChar": 12861,
+        "sequenceNumber": 16
+      },
+      {
+        "id": "chunk_17",
+        "text": "When looking at upward price movements, we compare highs in price with the peaks in the volume histogram. When looking at downward price movements, we compare lows in price with peaks in the volume histogram. Divergence in the volume histogram works slightly differently because the volume histogram only has positive values. [13:48] Cumulative Volume Delta Divergence. Classic volume divergence is not very precise and has a few deceptive pitfalls built into it. A better way of looking at volume divergence is through the cumulative volume delta. This is a useful indicator that demonstrates the cumulative difference in bullish and bearish volume over time.",
+        "startChar": 12861,
+        "endChar": 13522,
+        "sequenceNumber": 17
+      },
+      {
+        "id": "chunk_18",
+        "text": "The standard volume histogram measures the total volume of each candle, but it's obvious that every candle is formed by a portion of bullish volume and a portion of bearish volume. The volume delta is the difference between the two. The CVD indicator simply shows a cumulation of delta over time. In this chart, you can see the cumulative volume delta indicator, which looks like a velocity or acceleration oscillator, but it's not. This is purely a volume indicator. There are mainly two divergent patterns in the cumulative volume delta: the exhaustion and the absorption. In the buying exhaustion, price is creating higher highs, but the CVD is not, meaning that there is a decrease in bullish volume in comparison to bearish volume.",
+        "startChar": 13522,
+        "endChar": 14259,
+        "sequenceNumber": 18
+      },
+      {
+        "id": "chunk_19",
+        "text": "This means the buyers are exhausting their energy, which is suggestive of a bearish reversal. In the selling exhaustion, price is creating lower lows, but the CVD is not, meaning that there is a decrease in bearish volume in comparison to bullish volume. This means the sellers are exhausting their energy, which is suggestive of a bullish reversal. [15:18] In the selling absorption, price is failing to make a lower low while the CVD is succeeding to make a lower low. This means there is a lot of selling volume, but buyers are not letting price go down, meaning that buyers are successfully absorbing the sellers, which suggests a bullish move after. In the buying absorption, price is failing to make a higher high while the CVD is succeeding to make a higher high.",
+        "startChar": 14259,
+        "endChar": 15030,
+        "sequenceNumber": 19
+      },
+      {
+        "id": "chunk_20",
+        "text": "This means there is a lot of buying volume, but sellers are not letting price go up, meaning that sellers are successfully absorbing the buyers, which suggests a bearish movement after. The shape of these signals is exactly the same of the reversal and continuation divergences, but from a different perspective. In this chart, we have the example of a selling absorption on the left and a buying exhaustion on the right. Both signals are successful in this case. We can see fractal candles in the CVD indicator, meaning that there is such a thing as fractal volume. And we can also pay attention to signal alternation, the length between extremes, and the self-similarity of signals. Don't worry if you don't know what a fractal candle is, we'll dive into it later.",
+        "startChar": 15030,
+        "endChar": 15797,
+        "sequenceNumber": 20
+      },
+      {
+        "id": "chunk_21",
+        "text": "In this chart, you can see an example of fractal selling exhaustion, meaning a selling exhaustion occurring within another. We can also combine velocity, acceleration, and CVD divergences. In fact, you should do that to increase the reliability of these signals. These are the most common types of divergences viewed from the unique perspective of fractal analysis, but keep in mind that there are many more types of divergences that can be explored. The idea here is just to review the basic divergence types since they are an important extrinsic force acting on price action. [17:04] *End of video content.*",
+        "startChar": 15797,
+        "endChar": 16406,
+        "sequenceNumber": 21
+      }
+    ],
+    "chunkCount": 22,
+    "totalLength": 16406
+  },
+  "timeline": {
+    "keyEvents": [
+      {
+        "timestamp": "00:02",
+        "description": "Title slide with a glowing blue circle on a dark textured background. The text 'Extrinsic Forces' is centered inside the circle."
+      },
+      {
+        "timestamp": "00:20",
+        "description": "A sentence appears on the dark background: 'The extrinsic forces can strengthen, weaken, or change the interpretation provided by the intrinsic properties.' The words 'strengthen, weaken, or change' are highlighted in a glowing blue color."
+      },
+      {
+        "timestamp": "00:37",
+        "description": "A diagram with a large green rectangle divided into four horizontal sections appears. Each section contains white text listing one of the four extrinsic forces: 'Location or Trend Phase', 'Overextension', 'Price Barriers', 'Prior Activity'."
+      },
+      {
+        "timestamp": "00:47",
+        "description": "Title slide with white text on a dark background: 'Location or Trend Phase'."
+      },
+      {
+        "timestamp": "01:00",
+        "description": "A slide appears with the text: 'To understand trend phase, you need to become aware of the following:'. Below this, three glowing yellow circles are shown, labeled 'Dow', 'Elliott', and 'Wyckoff'."
+      },
+      {
+        "timestamp": "01:11",
+        "description": "A diagram with two scenarios side-by-side. Both show a blue line representing an uptrend. On the left, a single green candlestick is shown in the middle of the trend, with an arrow pointing to it labeled 'Continuation'. On the right, the same green candlestick is shown at the peak of the trend, with an arrow pointing to it labeled 'Exhaustion'. Below, the text reads 'Same candle with different meanings!'."
+      },
+      {
+        "timestamp": "01:58",
+        "description": "Title slide with white text: 'Dow Theory'."
+      },
+      {
+        "timestamp": "02:00",
+        "description": "A diagram illustrating Dow Theory. On the left, an 'Uptrend' is shown as a series of higher highs (HH) and higher lows (HL). On the right, a 'Downtrend' is shown as a series of lower highs (LH) and lower lows (LL)."
+      },
+      {
+        "timestamp": "02:12",
+        "description": "A diagram illustrating Dow Theory's accumulation and distribution phases. It shows a market cycle with a sideways range at the bottom labeled 'Accumulation' with a 'Buy Signal' on the breakout. At the top, another sideways range is labeled 'Distribution' with a 'Sell Signal' on the breakdown."
+      },
+      {
+        "timestamp": "02:40",
+        "description": "A diagram illustrating Dow Theory with volume. Two scenarios are shown. The left one shows price making higher highs, and the volume histogram below also making higher highs, labeled 'Confirmation'. It then shows price making a higher high while volume makes a lower high, labeled 'Divergence'. The right side shows the inverse for a downtrend."
+      },
+      {
+        "timestamp": "03:04",
+        "description": "Title slide with white text: 'Elliott Wave'."
+      },
+      {
+        "timestamp": "03:05",
+        "description": "A diagram of the Elliott Wave 5-3 pattern. A green line shows five waves up (labeled 1-5) and three waves down (labeled A, B, C). Below the diagram, it reads 'Fractal 5-3 Pattern'."
+      },
+      {
+        "timestamp": "04:01",
+        "description": "Title slide with white text: 'Wyckoff Method'."
+      },
+      {
+        "timestamp": "04:02",
+        "description": "A diagram illustrating the Wyckoff Method. A red line shows a market cycle with a range at the bottom labeled 'Accumulation' and an event labeled 'Spring'. At the top, a range is labeled 'Distribution' with an event labeled 'UTAD'."
+      },
+      {
+        "timestamp": "05:33",
+        "description": "Title slide with white text: 'Overextension'."
+      },
+      {
+        "timestamp": "05:39",
+        "description": "A slide with the text 'Assessment of the implicit forces of price action.' appears. Below, three blue circles are labeled 'Velocity', 'Acceleration', and 'Volume'."
+      },
+      {
+        "timestamp": "07:07",
+        "description": "Title slide with white text: 'Velocity Reversal Divergence'."
+      },
+      {
+        "timestamp": "07:08",
+        "description": "A diagram explaining Velocity Reversal Divergence. On the left, 'Bearish Reversal Divergence' shows price making a higher high while the velocity oscillator makes a lower high. On the right, 'Bullish Reversal Divergence' shows price making a lower low while the oscillator makes a higher low."
+      },
+      {
+        "timestamp": "07:45",
+        "description": "Title slide with white text: 'Velocity Continuation Divergence'."
+      },
+      {
+        "timestamp": "07:47",
+        "description": "A diagram explaining Velocity Continuation Divergence. On the left, 'Bullish Continuation Divergence' shows price making a higher low while the oscillator makes a lower low. On the right, 'Bearish Continuation Divergence' shows price making a lower high while the oscillator makes a higher high."
+      },
+      {
+        "timestamp": "08:27",
+        "description": "Title slide with white text: 'Acceleration Divergence'."
+      },
+      {
+        "timestamp": "08:51",
+        "description": "A slide with text explaining the relationship between velocity and acceleration. 'Velocity -> Velocity Oscillator of Price' (Price is highlighted in yellow). 'Acceleration -> Velocity Oscillator of Velocity Oscillator' (Velocity Oscillator is highlighted in blue)."
+      },
+      {
+        "timestamp": "09:22",
+        "description": "A TradingView chart of EUR/USD. Below the price chart, there are two RSI indicator windows. The top one (black line) is the standard RSI of price. The bottom one (red line) is an RSI of the first RSI. A bullish divergence is drawn on the bottom (acceleration) indicator, which appears before a clear signal on the top (velocity) indicator."
+      },
+      {
+        "timestamp": "10:06",
+        "description": "A slide with three blue circles appears, representing key details of divergence analysis: 'Signal Alternation', 'Length Between Extremes', and 'Self-Similarity'."
+      },
+      {
+        "timestamp": "10:18",
+        "description": "Title slide with white text: 'Signal Alternation'."
+      },
+      {
+        "timestamp": "10:19",
+        "description": "A diagram showing four scenarios of signal alternation. It illustrates how bearish reversal signals alternate with bullish continuation signals during an uptrend, and vice-versa for a downtrend, demonstrating how trend-following signals are often more reliable."
+      },
+      {
+        "timestamp": "11:04",
+        "description": "Title slide with white text: 'Length between Extremes'."
+      },
+      {
+        "timestamp": "11:07",
+        "description": "A diagram illustrating the concept of length. A blue price line shows two peaks close together, labeled 'Narrow', and two peaks further apart, labeled 'Wide'. The implication is that wider divergences are more significant."
+      },
+      {
+        "timestamp": "11:31",
+        "description": "A TradingView chart of EUR/USD with an RSI indicator. A short-length divergence is highlighted in black, leading to a small price reaction. A longer-length divergence is highlighted in red, leading to a much larger price reversal."
+      },
+      {
+        "timestamp": "11:48",
+        "description": "Title slide with white text: 'Signal Self-Similarity'."
+      },
+      {
+        "timestamp": "11:51",
+        "description": "A diagram showing a price wave making a higher high while the corresponding oscillator makes a lower high, indicating a bearish divergence. The visual implies that this pattern can be found on multiple scales (self-similarity)."
+      },
+      {
+        "timestamp": "12:41",
+        "description": "A TradingView chart of EUR/USD with an RSI indicator. It shows three nested bullish signals: a large continuation divergence (red), a smaller reversal divergence (black), and a tiny fractal candle reversal (blue), demonstrating the concept of a self-similar signal chain."
+      },
+      {
+        "timestamp": "13:12",
+        "description": "Title slide with white text: 'Volume Divergence'."
+      },
+      {
+        "timestamp": "13:13",
+        "description": "A diagram showing basic volume divergence. On the left, price makes a higher high while the volume histogram makes a lower high. On the right, price makes a lower low while the volume histogram makes a lower high. This illustrates a divergence between price momentum and volume."
+      },
+      {
+        "timestamp": "13:48",
+        "description": "Title slide with white text: 'Cumulative Volume Delta'."
+      },
+      {
+        "timestamp": "13:49",
+        "description": "A diagram explaining volume delta. A blue bar represents 'Total Volume'. This is broken down into a bar with a green top ('Bullish Volume') and a red bottom ('Bearish Volume'). The difference between these two is shown as 'Delta'."
+      },
+      {
+        "timestamp": "14:46",
+        "description": "Title slide with white text: 'CVD Exhaustion'."
+      },
+      {
+        "timestamp": "14:48",
+        "description": "A diagram explaining CVD Exhaustion. On the left, 'Buying Exhaustion' shows price making a higher high while the CVD indicator makes a lower high. On the right, 'Selling Exhaustion' shows price making a lower low while the CVD makes a higher low."
+      },
+      {
+        "timestamp": "15:18",
+        "description": "Title slide with white text: 'CVD Absorption'."
+      },
+      {
+        "timestamp": "15:19",
+        "description": "A diagram explaining CVD Absorption. On the left, 'Selling Absorption' shows price making a higher low while the CVD indicator makes a lower low. On the right, 'Buying Absorption' shows price making a lower high while the CVD makes a higher high."
+      },
+      {
+        "timestamp": "16:02",
+        "description": "A TradingView chart of EUR/USD with the Cumulative Volume Delta (CVD) indicator. It highlights a 'Selling Absorption' pattern on the left and a 'Buying Exhaustion' pattern on the right, showing how these lead to significant price moves."
+      }
+    ],
+    "eventCount": 41
+  },
+  "semanticAnalysis": {
+    "mainConcept": "The core concept is that candlestick patterns and price action (Intrinsic Properties) do not have absolute meanings. Their interpretation is modulated by the broader market context, defined as Extrinsic Forces. These forces—Location/Trend Phase, Overextension, Price Barriers, and Prior Activity—can strengthen, weaken, or completely change the probabilistic outcome of an intrinsic signal.",
+    "deeperMeaning": "This lesson argues for a multi-layered, contextual approach to trading analysis, moving beyond simplistic pattern recognition. A trader must understand not just *what* pattern is forming, but *where* it is forming in the trend (Dow/Elliott/Wyckoff), and *how* it is forming in terms of underlying market forces (velocity, acceleration, volume divergences). This implies that successful trading requires integrating different analytical frameworks to build a more robust and nuanced view of market dynamics. The meaning of price action is relational, not absolute.",
+    "educationalGoal": "The video's purpose is to introduce the concept of 'Extrinsic Forces' as a foundational element of a comprehensive price action trading framework. It serves as an overview of advanced topics (like Dow Theory, Elliott Wave, Wyckoff, and various types of divergence) to establish why they are essential for accurately interpreting candlestick patterns. It frames these complex theories not as standalone systems, but as tools for understanding the context that gives intrinsic signals their predictive power."
+  },
+  "metadata": {
+    "processedAt": "2025-08-24T00:58:01.961Z",
+    "dataVersion": "2.0",
+    "hasTranscription": true,
+    "hasVisualEvents": true,
+    "hasAnalysis": true
+  }
+}
